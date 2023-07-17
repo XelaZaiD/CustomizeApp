@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "49.50%"
+    },
+    "_skin_": "sd3d90663182473f9763a59a3edfee9b",
+    "_text_": "Employee",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 6,
+    "id": "loginTitleEmployee",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "db43d2c4296849ea8dbf3c8a9c2c76fd",
+    "name": "kony.ui.Label",
+    "parent": "loginTitleContainer",
+    "pf": "frmLogin",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "textstyle": {},
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

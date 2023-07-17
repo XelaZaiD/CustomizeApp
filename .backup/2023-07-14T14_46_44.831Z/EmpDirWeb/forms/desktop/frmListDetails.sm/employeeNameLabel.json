@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sbf8806e72ce4fc294c07050be719588",
+    "_text_": "Kenneth George",
+    "_top_": {
+        "type": "string",
+        "value": "166dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "employeeNameLabel",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "h5df09ca07e84630898a186a02eab580",
+    "name": "kony.ui.Label",
+    "parent": "detailContainer",
+    "pf": "frmListDetails",
+    "responsiveData": {
+        "b3": {
+            "top": {
+                "type": "string",
+                "value": "214dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "textstyle": {},
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

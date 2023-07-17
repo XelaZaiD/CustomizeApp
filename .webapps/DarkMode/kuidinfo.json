@@ -1,0 +1,568 @@
+{
+    "idToKuidMapping": {
+        "androidwear": {},
+        "desktop": {
+            "CopytmpListWithImage1": "g8b4650f6ffe446c96510a356c78835e",
+            "Form1": "baf75236b76c4c1b84758f6c487dad7c",
+            "SampleRowTemplate": "b72d6fe9cb7a405785153829e4b996e8",
+            "SampleSectionHeaderTemplate": "d4bbddcbeca348a68cf1fcfa5df0a54a",
+            "tmpListWithImage": "eb2b01b453254e739a097228e29ec2ca"
+        },
+        "masters": {},
+        "mobile": {},
+        "skins": {
+            "CopyButtonLinkFocusSkin": "s21d6287e39f4bdfa496cf0ae31d822e",
+            "CopyButtonLinkNormalSkin": "s35b9688fb5f4f31829f39ecb0daf8b7",
+            "CopyButtonSkinActive": "s2f023bef06749aaaf32c4c7357ac3d0",
+            "CopyButtonSkinNormal": "s5413d80daf843f2baf856eeb7e13d21",
+            "CopyCopyCopydefLabel2": "sdef7f6f7bbd4b828858fb04e43d94c0",
+            "CopyCopyCopydefLabel3": "sef49c36b59e4ee7931ee22a66aa0d88",
+            "CopyCopyCopydefLabel4": "sd52007c925b43bc887e1716be9e443e",
+            "CopyCopydefLabel": "s1e724bb476e4104ad84e28528455f65",
+            "CopyCopydefLabel1": "se0647ec93ce4017a6797d3923a8fbbf",
+            "CopyCopydefTextBoxFocus": "s6adea84ad55479180fe03f613f12ab9",
+            "CopyCopyslFbox": "s2e91adcee0247c2b46d2ce67cb74910",
+            "CopyCopyslFbox0b27090e10e6f4c": "se165f73d3c84b31a6e7b1aa869be508",
+            "CopyCopyslFbox0h4d4da20a38d49": "s616f4b64ab440b4a3d152862ba92d42",
+            "CopyFLXFFFFFF1": "sf5fdbd4fcec41a78c8e143699825b0d",
+            "CopyFLXSHADOW": "s9bbd25e824e46ffac6669d2a0f7ce18",
+            "CopyFlxToastErroFFD": "s40216bc1e95438387613ce81d9771f7",
+            "CopyLBL0e133e7b084af41": "s36fcb951e8e4c63a236e6cd29f16ec7",
+            "CopyLBLTOPSHADOW": "s3c268d35e5a4c97ad16f56b4a982602",
+            "CopyTXT": "s3ea1f116fff4ae5891bc1bb5057ff60",
+            "CopyTXT1": "s4359e6bcc8f469caa6fa0bba515cdb8",
+            "CopydefLabel0c3e8410402dc46": "s29e8f674aa142f694c9f2911ca826e0",
+            "CopydefLabel0fbd69ba14c8d4f": "s8ab8c15de6640da9363e69d26e70a5b",
+            "CopydefLabel0h1461925391e41": "s668a14b6d084283bb25dc6ca1526e46",
+            "CopyflxWhiteBg0e2c7657203174a": "sd0eaa7c10d3439288f518aab25f4471",
+            "CopylblDeshWithImage": "sc4091985d5b475b81bb1b3342e3cefb",
+            "CopylblDeshWithImage0afcafb61b3bb48": "s253aaa3ce6c4c7fb85d930273d88428",
+            "CopylblLstImg": "s0759dd12fa9497a817dc1b8f58a3e5d",
+            "CopylblMessage1": "sa124c0bf3a64c7e9ccd5d9f65217676",
+            "Copyseg0fdb1b2af9c6945": "s8ecd1ee3fde45bd8c13a0d1b6f4d901",
+            "CopyslFbox0f1ec1bba91f14a": "sb791d1d52314d8491f02edc6f784cb0",
+            "CopyslForm0hd0898a3956744": "sa875efa55154d14a957b4ac9a9b59c4",
+            "CopyslImage0ccc1f1e6f79042": "s1dfcafd382a45d1b190fec5cd3794d4",
+            "CopyslImage0f955769f683241": "se7824c2cf47497ea729d9905b1b51b5",
+            "CopytmpHoverskin": "s5d0c61ca312409080922bb48bf570e9",
+            "FlxToastSuccessDCFFE2": "s5e2fcea656c4e0c9535d7f39c830652",
+            "defBtnFocus": "s73c8a8eb9f44e0cb84976a51e1f3232",
+            "defBtnNormal": "s9c308c6e9db459ba05db9479697400b",
+            "defLabel": "s783d917000647f597dcd867a59e1fb3",
+            "defListBoxFocus": "sdb3137e781c4b3fb96474a9f5b29d12",
+            "defListBoxNormal": "s115c32de1ad46fab5913a64fbd8b64e",
+            "defSwitchNormal": "s3d9e8096a714646b954e8cdbf00ced3",
+            "fsknlxAlert": "s30e5b1418c94069905216182fc96faa",
+            "lblDeshWithImage": "s5e8b865e69a4300937da2684d01366d",
+            "lblLstImg": "s8b03d50e8e4442eb77ae9c8e720524f",
+            "lblMessage": "s52c4811ecc445d18c84617934254226",
+            "seg2Focus": "sd38cb43f9c64d9c986c6906573f2e9e",
+            "seg2Normal": "s458dea5a4b34ea4ba400b50ed5a3019",
+            "sknBtnFocus": "s8059665afeb48b1b8f10b3337eaec2d",
+            "sknFlxScrollContainer": "s4e8ceef999b483ab74eb5d1bd1a0e17",
+            "sknHeaderFooter": "s7bd327b37e74cd4b6f6c328225e75d9",
+            "sknLabel": "s79623e73abc4555ab73a9c1c16cca44",
+            "sknLabelBlanco": "s15e437cbdda4eecb41aa952e49b3515",
+            "sknLblDescription": "s86af6f07c6d414192dbc918c50cdd6a",
+            "sknLblRowHeading": "s66ec1678a02466eb4382264547b407e",
+            "sknLblStrip": "sc0a8df3c36c47bda7140ee71f9451a3",
+            "sknLblTimeStamp": "s1d63cbcb85949bdb023dc6d5e051d70",
+            "sknListBoxNormal": "s5203eee00854176b8f86579f9f9d632",
+            "sknRadiusButton": "s83c81966df94685addbc5b6231e1fa9",
+            "sknSampleRowTemplate": "sc0a7e046ed942018ed791e6b3219280",
+            "sknSampleSectionHeaderTemplate": "s51d293f0d5248d38ab64696474e9a7b",
+            "sknSectionHeaderLabelSkin": "s56dfdf525ac43739cf1a2cd3f163802",
+            "sknbtnNormal": "sc8a48f1a6044726b3c04810d14ca13e",
+            "sknflxContainer": "s232ca6fd8234230bb0ceba1420d22e2",
+            "sknlblMessage": "s4195f682f764f168f2980e5740f238c",
+            "slDynamicNotificationForm": "sccd3b6e820d403b8fc4d3f4e1ee00c1",
+            "slFSbox": "s04166f049d5417da97d37f21a895f03",
+            "slFbox": "s801f061b5924659a2b73e713914d61d",
+            "slForm": "s279cb5fdd4d47d3bf0ad37f9b8c18bd",
+            "slImage": "s9bc86d9579e4ea5bd619494915f7535",
+            "slSplashiOS": "s19a9ae402e249889d6865f1dc227cd5",
+            "slStaticNotificationForm": "s9e8d9e143dd41d19925f8afce85e7f5",
+            "slTitleBar": "sdbda3e96cc14bc3aee8a795b708c61d",
+            "slWatchForm": "s4d605ee0c95491e83eb74cb6ac8231e",
+            "sliPhoneSegmentHeader": "sde96ea8683c4cf888f03580fde6e9b4",
+            "tmpHoverskin": "sb74236185fe432fb3e1e4251bec561b"
+        },
+        "tablet": {},
+        "userwidgets": {
+            "com.konymp.ListWithImage": "u5698121c3da4220a6d963eb42f51213",
+            "com.konymp.ListWithImageCopy": "u8dde65976084f40b3c71b21e2577cb8",
+            "com.konymp.Login": "uc4323448df74786ad37d2f0115a2e4d",
+            "comm.konymp.ToastAlert": "ue2e1694b4664479bff55cc4babe6560",
+            "comm.konymp.ToastError": "u22ed960a1c64f849f7f4e6b225a0de2",
+            "comm.konymp.ToastSuccess": "u1a413a9a1654d3fbd5b06b17d04f1ec"
+        }
+    },
+    "kuidDependencyMap": {
+        "eb2b01b453254e739a097228e29ec2ca": [
+            "u5698121c3da4220a6d963eb42f51213"
+        ],
+        "g8b4650f6ffe446c96510a356c78835e": [
+            "u8dde65976084f40b3c71b21e2577cb8"
+        ],
+        "s0759dd12fa9497a817dc1b8f58a3e5d": [
+            "g8b4650f6ffe446c96510a356c78835e"
+        ],
+        "s15e437cbdda4eecb41aa952e49b3515": [
+            "baf75236b76c4c1b84758f6c487dad7c"
+        ],
+        "s1d63cbcb85949bdb023dc6d5e051d70": [
+            "b72d6fe9cb7a405785153829e4b996e8"
+        ],
+        "s1dfcafd382a45d1b190fec5cd3794d4": [
+            "ue2e1694b4664479bff55cc4babe6560"
+        ],
+        "s21d6287e39f4bdfa496cf0ae31d822e": [
+            "uc4323448df74786ad37d2f0115a2e4d"
+        ],
+        "s279cb5fdd4d47d3bf0ad37f9b8c18bd": [
+            "baf75236b76c4c1b84758f6c487dad7c"
+        ],
+        "s29e8f674aa142f694c9f2911ca826e0": [
+            "eb2b01b453254e739a097228e29ec2ca"
+        ],
+        "s2e91adcee0247c2b46d2ce67cb74910": [
+            "ue2e1694b4664479bff55cc4babe6560",
+            "baf75236b76c4c1b84758f6c487dad7c"
+        ],
+        "s2f023bef06749aaaf32c4c7357ac3d0": [
+            "uc4323448df74786ad37d2f0115a2e4d"
+        ],
+        "s35b9688fb5f4f31829f39ecb0daf8b7": [
+            "uc4323448df74786ad37d2f0115a2e4d"
+        ],
+        "s36fcb951e8e4c63a236e6cd29f16ec7": [
+            "uc4323448df74786ad37d2f0115a2e4d"
+        ],
+        "s3c268d35e5a4c97ad16f56b4a982602": [
+            "uc4323448df74786ad37d2f0115a2e4d"
+        ],
+        "s3ea1f116fff4ae5891bc1bb5057ff60": [
+            "uc4323448df74786ad37d2f0115a2e4d"
+        ],
+        "s40216bc1e95438387613ce81d9771f7": [
+            "u22ed960a1c64f849f7f4e6b225a0de2",
+            "baf75236b76c4c1b84758f6c487dad7c"
+        ],
+        "s4195f682f764f168f2980e5740f238c": [
+            "ue2e1694b4664479bff55cc4babe6560",
+            "u22ed960a1c64f849f7f4e6b225a0de2",
+            "u1a413a9a1654d3fbd5b06b17d04f1ec"
+        ],
+        "s4359e6bcc8f469caa6fa0bba515cdb8": [
+            "uc4323448df74786ad37d2f0115a2e4d"
+        ],
+        "s458dea5a4b34ea4ba400b50ed5a3019": [
+            "u5698121c3da4220a6d963eb42f51213"
+        ],
+        "s4e8ceef999b483ab74eb5d1bd1a0e17": [
+            "baf75236b76c4c1b84758f6c487dad7c"
+        ],
+        "s51d293f0d5248d38ab64696474e9a7b": [
+            "d4bbddcbeca348a68cf1fcfa5df0a54a"
+        ],
+        "s5203eee00854176b8f86579f9f9d632": [
+            "baf75236b76c4c1b84758f6c487dad7c"
+        ],
+        "s5413d80daf843f2baf856eeb7e13d21": [
+            "uc4323448df74786ad37d2f0115a2e4d"
+        ],
+        "s56dfdf525ac43739cf1a2cd3f163802": [
+            "d4bbddcbeca348a68cf1fcfa5df0a54a"
+        ],
+        "s5d0c61ca312409080922bb48bf570e9": [
+            "g8b4650f6ffe446c96510a356c78835e"
+        ],
+        "s5e2fcea656c4e0c9535d7f39c830652": [
+            "u1a413a9a1654d3fbd5b06b17d04f1ec",
+            "baf75236b76c4c1b84758f6c487dad7c"
+        ],
+        "s5e8b865e69a4300937da2684d01366d": [
+            "eb2b01b453254e739a097228e29ec2ca"
+        ],
+        "s616f4b64ab440b4a3d152862ba92d42": [
+            "uc4323448df74786ad37d2f0115a2e4d"
+        ],
+        "s668a14b6d084283bb25dc6ca1526e46": [
+            "uc4323448df74786ad37d2f0115a2e4d"
+        ],
+        "s66ec1678a02466eb4382264547b407e": [
+            "b72d6fe9cb7a405785153829e4b996e8"
+        ],
+        "s6adea84ad55479180fe03f613f12ab9": [
+            "uc4323448df74786ad37d2f0115a2e4d"
+        ],
+        "s73c8a8eb9f44e0cb84976a51e1f3232": [
+            "baf75236b76c4c1b84758f6c487dad7c"
+        ],
+        "s7bd327b37e74cd4b6f6c328225e75d9": [
+            "baf75236b76c4c1b84758f6c487dad7c"
+        ],
+        "s801f061b5924659a2b73e713914d61d": [
+            "g8b4650f6ffe446c96510a356c78835e",
+            "eb2b01b453254e739a097228e29ec2ca"
+        ],
+        "s83c81966df94685addbc5b6231e1fa9": [
+            "baf75236b76c4c1b84758f6c487dad7c"
+        ],
+        "s86af6f07c6d414192dbc918c50cdd6a": [
+            "b72d6fe9cb7a405785153829e4b996e8",
+            "baf75236b76c4c1b84758f6c487dad7c"
+        ],
+        "s8b03d50e8e4442eb77ae9c8e720524f": [
+            "eb2b01b453254e739a097228e29ec2ca"
+        ],
+        "s8ecd1ee3fde45bd8c13a0d1b6f4d901": [
+            "u8dde65976084f40b3c71b21e2577cb8"
+        ],
+        "s9bc86d9579e4ea5bd619494915f7535": [
+            "uc4323448df74786ad37d2f0115a2e4d",
+            "u22ed960a1c64f849f7f4e6b225a0de2",
+            "u1a413a9a1654d3fbd5b06b17d04f1ec",
+            "g8b4650f6ffe446c96510a356c78835e",
+            "eb2b01b453254e739a097228e29ec2ca",
+            "baf75236b76c4c1b84758f6c487dad7c"
+        ],
+        "sb74236185fe432fb3e1e4251bec561b": [
+            "eb2b01b453254e739a097228e29ec2ca"
+        ],
+        "sb791d1d52314d8491f02edc6f784cb0": [
+            "uc4323448df74786ad37d2f0115a2e4d"
+        ],
+        "sc0a7e046ed942018ed791e6b3219280": [
+            "b72d6fe9cb7a405785153829e4b996e8"
+        ],
+        "sc0a8df3c36c47bda7140ee71f9451a3": [
+            "b72d6fe9cb7a405785153829e4b996e8"
+        ],
+        "sc4091985d5b475b81bb1b3342e3cefb": [
+            "g8b4650f6ffe446c96510a356c78835e"
+        ],
+        "sd0eaa7c10d3439288f518aab25f4471": [
+            "u5698121c3da4220a6d963eb42f51213",
+            "u8dde65976084f40b3c71b21e2577cb8",
+            "baf75236b76c4c1b84758f6c487dad7c"
+        ],
+        "sd38cb43f9c64d9c986c6906573f2e9e": [
+            "u5698121c3da4220a6d963eb42f51213",
+            "u8dde65976084f40b3c71b21e2577cb8"
+        ],
+        "sd52007c925b43bc887e1716be9e443e": [
+            "uc4323448df74786ad37d2f0115a2e4d"
+        ],
+        "sdb3137e781c4b3fb96474a9f5b29d12": [
+            "baf75236b76c4c1b84758f6c487dad7c"
+        ],
+        "sde96ea8683c4cf888f03580fde6e9b4": [
+            "u5698121c3da4220a6d963eb42f51213",
+            "u8dde65976084f40b3c71b21e2577cb8"
+        ],
+        "sdef7f6f7bbd4b828858fb04e43d94c0": [
+            "uc4323448df74786ad37d2f0115a2e4d"
+        ],
+        "se0647ec93ce4017a6797d3923a8fbbf": [
+            "g8b4650f6ffe446c96510a356c78835e"
+        ],
+        "se165f73d3c84b31a6e7b1aa869be508": [
+            "uc4323448df74786ad37d2f0115a2e4d"
+        ],
+        "se7824c2cf47497ea729d9905b1b51b5": [
+            "ue2e1694b4664479bff55cc4babe6560"
+        ],
+        "sef49c36b59e4ee7931ee22a66aa0d88": [
+            "uc4323448df74786ad37d2f0115a2e4d"
+        ],
+        "sf5fdbd4fcec41a78c8e143699825b0d": [
+            "uc4323448df74786ad37d2f0115a2e4d",
+            "baf75236b76c4c1b84758f6c487dad7c"
+        ]
+    },
+    "kuidInfo": {
+        "androidwear": {},
+        "desktop": {
+            "b72d6fe9cb7a405785153829e4b996e8": {
+                "appName": "DarkMode",
+                "id": "SampleRowTemplate",
+                "templateType": "segments",
+                "topFlexId": "flxSampleRowTemplate"
+            },
+            "baf75236b76c4c1b84758f6c487dad7c": {
+                "appName": "DarkMode",
+                "id": "Form1",
+                "relFormId": "Form1",
+                "templateType": "forms",
+                "widgetInfo": {
+                    "mapWgtPltfrms": [],
+                    "videoWgtPltfrms": []
+                }
+            },
+            "d4bbddcbeca348a68cf1fcfa5df0a54a": {
+                "appName": "DarkMode",
+                "id": "SampleSectionHeaderTemplate",
+                "templateType": "segments",
+                "topFlexId": "flxSectionHeaderTemplate"
+            },
+            "eb2b01b453254e739a097228e29ec2ca": {
+                "appName": "DarkMode",
+                "id": "tmpListWithImage",
+                "templateType": "segments",
+                "topFlexId": "flxListWithImg"
+            },
+            "g8b4650f6ffe446c96510a356c78835e": {
+                "appName": "DarkMode",
+                "id": "CopytmpListWithImage1",
+                "templateType": "segments",
+                "topFlexId": "CopyflxListWithImg"
+            }
+        },
+        "masters": {},
+        "mobile": {},
+        "tablet": {},
+        "userwidgets": {
+            "u1a413a9a1654d3fbd5b06b17d04f1ec": {
+                "appName": "DarkMode",
+                "id": "comm.konymp.ToastSuccess",
+                "templateType": "userwidgets",
+                "widgetInfo": {
+                    "mapWgtPltfrms": [],
+                    "videoWgtPltfrms": []
+                }
+            },
+            "u22ed960a1c64f849f7f4e6b225a0de2": {
+                "appName": "DarkMode",
+                "id": "comm.konymp.ToastError",
+                "templateType": "userwidgets",
+                "widgetInfo": {
+                    "mapWgtPltfrms": [],
+                    "videoWgtPltfrms": []
+                }
+            },
+            "u5698121c3da4220a6d963eb42f51213": {
+                "appName": "DarkMode",
+                "id": "com.konymp.ListWithImage",
+                "templateType": "userwidgets",
+                "widgetInfo": {
+                    "mapWgtPltfrms": [],
+                    "videoWgtPltfrms": []
+                }
+            },
+            "u8dde65976084f40b3c71b21e2577cb8": {
+                "appName": "DarkMode",
+                "id": "com.konymp.ListWithImageCopy",
+                "templateType": "userwidgets",
+                "widgetInfo": {
+                    "mapWgtPltfrms": [],
+                    "videoWgtPltfrms": []
+                }
+            },
+            "uc4323448df74786ad37d2f0115a2e4d": {
+                "appName": "DarkMode",
+                "id": "com.konymp.Login",
+                "templateType": "userwidgets",
+                "widgetInfo": {
+                    "mapWgtPltfrms": [],
+                    "videoWgtPltfrms": []
+                }
+            },
+            "ue2e1694b4664479bff55cc4babe6560": {
+                "appName": "DarkMode",
+                "id": "comm.konymp.ToastAlert",
+                "templateType": "userwidgets",
+                "widgetInfo": {
+                    "mapWgtPltfrms": [],
+                    "videoWgtPltfrms": []
+                }
+            }
+        }
+    },
+    "userWidgetsKuidToIdMap": {
+        "b347d6d388eb4b40b99237f50688e8ed": {
+            "id": "flxListWithImg",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.ListWithImage\\userwidgetmodel.sm"
+        },
+        "eb2b01b453254e739a097228e29ec2ca": {
+            "id": "tmpListWithImage",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.ListWithImage\\userwidgetmodel.sm"
+        },
+        "f8310bbe59884973ac65223445ae8cfe": {
+            "id": "CopyflxListWithImg",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.ListWithImageCopy\\userwidgetmodel.sm"
+        },
+        "g8b4650f6ffe446c96510a356c78835e": {
+            "id": "CopytmpListWithImage1",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.ListWithImageCopy\\userwidgetmodel.sm"
+        },
+        "u0da9cd29e23412dbcf429e5e4bdadcf": {
+            "id": "ListWithImage",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.ListWithImage"
+        },
+        "u14702bc20da44fa90520ddb4e2ebbe4": {
+            "id": "imageIcon",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\comm.konymp.ToastSuccess\\userwidgetmodel.sm"
+        },
+        "u1a413a9a1654d3fbd5b06b17d04f1ec": {
+            "id": "userwidgetmodel",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\comm.konymp.ToastSuccess\\userwidgetmodel.sm"
+        },
+        "u22ed960a1c64f849f7f4e6b225a0de2": {
+            "id": "userwidgetmodel",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\comm.konymp.ToastError\\userwidgetmodel.sm"
+        },
+        "u28126c4ee384ecdaa05eaf02ec4e979": {
+            "id": "lblRightShadow",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Login\\userwidgetmodel.sm"
+        },
+        "u29b587ebc1e492b8611398ab668b1e2": {
+            "id": "imageIcon",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\comm.konymp.ToastAlert\\userwidgetmodel.sm"
+        },
+        "u29dd9b7dc4f40fd9352cd7e6455d09b": {
+            "id": "lblRememberMe",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Login\\userwidgetmodel.sm"
+        },
+        "u3983f8017154743bd6aaa584f2260d1": {
+            "id": "imgCHeckBox",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Login\\userwidgetmodel.sm"
+        },
+        "u3d8de92dbda4d919c98c057019c6290": {
+            "id": "ToastSuccess",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\comm.konymp.ToastSuccess"
+        },
+        "u43d6c59d8a94dbb8461075e1422b657": {
+            "id": "txtPassword",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Login\\userwidgetmodel.sm"
+        },
+        "u462e8146fe44a9dae4a0a4d371b104d": {
+            "id": "imgClose",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Login\\userwidgetmodel.sm"
+        },
+        "u4a18ab9f6854e6ea477fddbd5b050a8": {
+            "id": "Message",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\comm.konymp.ToastError\\userwidgetmodel.sm"
+        },
+        "u50431b9a3df4664b87a06339641c647": {
+            "id": "lblPassword",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Login\\userwidgetmodel.sm"
+        },
+        "u5698121c3da4220a6d963eb42f51213": {
+            "id": "userwidgetmodel",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.ListWithImage\\userwidgetmodel.sm"
+        },
+        "u6e646fe579e49518b5a993cf33c39ce": {
+            "id": "ImgClose",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\comm.konymp.ToastAlert\\userwidgetmodel.sm"
+        },
+        "u6e764cc56e5497e9430e89718feb09a": {
+            "id": "imageIcon",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\comm.konymp.ToastError\\userwidgetmodel.sm"
+        },
+        "u7291ce1dab3460c80abe6d387c09dd4": {
+            "id": "lblUserName",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Login\\userwidgetmodel.sm"
+        },
+        "u743dfe9822b4f9c9ff494d57db55d02": {
+            "id": "Segment0ad70db6f382f46",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.ListWithImageCopy\\userwidgetmodel.sm"
+        },
+        "u827540353cc44bb8d09c8b3539a5fd0": {
+            "id": "btnOpenNewAcnt",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Login\\userwidgetmodel.sm"
+        },
+        "u827e94ecfa94f25a275a2bc69c15454": {
+            "id": "Login",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Login"
+        },
+        "u8650f4c81284d72af6a365aa8a5c14f": {
+            "id": "btnEnrol",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Login\\userwidgetmodel.sm"
+        },
+        "u87d8f3c89df4554883c20b6c10f3de9": {
+            "id": "ToastError",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\comm.konymp.ToastError"
+        },
+        "u8dde65976084f40b3c71b21e2577cb8": {
+            "id": "userwidgetmodel",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.ListWithImageCopy\\userwidgetmodel.sm"
+        },
+        "u99a3269e44b4b4cb0a502da53ae2677": {
+            "id": "ListWithImageCopy",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.ListWithImageCopy"
+        },
+        "u9bc527f3a904ec8b32ecdfc2c538509": {
+            "id": "ToastAlert",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\comm.konymp.ToastAlert"
+        },
+        "u9e27bfd0b10426c8dab03d6ae808fb0": {
+            "id": "ImgClose",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\comm.konymp.ToastError\\userwidgetmodel.sm"
+        },
+        "uaa2b4179755483494b7b54eefbf6d9d": {
+            "id": "ButtonLogin",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Login\\userwidgetmodel.sm"
+        },
+        "uac6676c20bf49ab87643d996b574f3e": {
+            "id": "btnCantLogin",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Login\\userwidgetmodel.sm"
+        },
+        "uaf7c0b55ea74dbc88577e7761680539": {
+            "id": "lblTopShadow",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Login\\userwidgetmodel.sm"
+        },
+        "ub8e978b72de4310a1e1cce6dc747740": {
+            "id": "flxError",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Login\\userwidgetmodel.sm"
+        },
+        "uc16e798f5f1458593cf741cf796a3e6": {
+            "id": "flxLoginWrapper",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Login\\userwidgetmodel.sm"
+        },
+        "uc4323448df74786ad37d2f0115a2e4d": {
+            "id": "userwidgetmodel",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Login\\userwidgetmodel.sm"
+        },
+        "uc8ca06d562f43b5af5c1d3b6486b305": {
+            "id": "lblError",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Login\\userwidgetmodel.sm"
+        },
+        "ud251cdb1af845579e4a6332cdf42bfb": {
+            "id": "flxCheck",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Login\\userwidgetmodel.sm"
+        },
+        "ud275e1a59b74d2e8bb6b3b660814881": {
+            "id": "Message",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\comm.konymp.ToastAlert\\userwidgetmodel.sm"
+        },
+        "ue1a2d930c1246c1a7625679d5b0b841": {
+            "id": "ImgClose",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\comm.konymp.ToastSuccess\\userwidgetmodel.sm"
+        },
+        "ue2e1694b4664479bff55cc4babe6560": {
+            "id": "userwidgetmodel",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\comm.konymp.ToastAlert\\userwidgetmodel.sm"
+        },
+        "ue4b0032075547ed97893e61a50d78d1": {
+            "id": "lblBottomShadow",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Login\\userwidgetmodel.sm"
+        },
+        "ue74339c3b02475f9f39e1ac48061dfd": {
+            "id": "Message",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\comm.konymp.ToastSuccess\\userwidgetmodel.sm"
+        },
+        "uf402e2d505e4fe89a84a3dadbe366c8": {
+            "id": "txtUserName",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Login\\userwidgetmodel.sm"
+        },
+        "uf744c03d4494f7f963587e781f2c0cc": {
+            "id": "lblLeftShadow",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Login\\userwidgetmodel.sm"
+        },
+        "ufc803b24f7148bb85124d6ab6df9b52": {
+            "id": "Segment0ad70db6f382f46",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.ListWithImage\\userwidgetmodel.sm"
+        }
+    }
+}

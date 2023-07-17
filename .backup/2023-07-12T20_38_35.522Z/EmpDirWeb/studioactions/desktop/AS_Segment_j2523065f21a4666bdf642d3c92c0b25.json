@@ -1,0 +1,315 @@
+{
+    "AS_Segment_j2523065f21a4666bdf642d3c92c0b25": {
+        "id": "AS_Segment_j2523065f21a4666bdf642d3c92c0b25",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmListDetails",
+            "type": "forms",
+            "platform": null,
+            "KUID": "fff1be78fdf94c1c80400d1621dfacff"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__c5fa72cdd302419a95c94bb7ed4e5780",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "selectedEmployeeId = this.view.employeeSegment.selectedRowItems[0].employeeId.text;",
+            "parentId": null,
+            "callbackType": null
+        }, {
+            "id": "INVOKE_OBJECT_SERVICE__g9fd87bf1d834fe2a11ba752644b6f87",
+            "type": "INVOKE_OBJECT_SERVICE",
+            "inputparams": {
+                "$filter": "\"Emp_id eq \"+selectedEmployeeId"
+            },
+            "httpheaders": null,
+            "httpconfigs": null,
+            "isasynchronous": null,
+            "isoffline": null,
+            "isobject": true,
+            "mappings": {},
+            "mappingsOrder": [],
+            "serviceconfig": {
+                "servicename": "EmployeeServices",
+                "type": "objectsvcs",
+                "objectname": "employees",
+                "serviceid": "bd298473-012c-4fd2-9c02-ac4547645816",
+                "methodname": "get"
+            },
+            "parentId": null,
+            "callbackType": null,
+            "enableMappingEditor": true
+        }, {
+            "id": "ADD_MAPPING__e6904979da0e434694e9eed22eff5cef",
+            "type": "ADD_MAPPING",
+            "mappings": {
+                "ME_Mapping_ibcc7e2ec7ef4de5a7b055ca931ab2b1": {
+                    "channel": "desktop",
+                    "id": "ME_Mapping_ibcc7e2ec7ef4de5a7b055ca931ab2b1",
+                    "type": "MAPPING",
+                    "callbackType": null,
+                    "rectified": true,
+                    "source": {
+                        "type": "Services",
+                        "propertyName": "Image_URL",
+                        "dataType": "string",
+                        "collectionId": "records",
+                        "forkedPlatform": "all",
+                        "serviceconfig": {
+                            "servicename": "EmployeeServices",
+                            "type": "objectsvcs",
+                            "objectname": "employees",
+                            "serviceid": "bd298473-012c-4fd2-9c02-ac4547645816",
+                            "methodname": "get"
+                        }
+                    },
+                    "target": {
+                        "type": "Forms",
+                        "propertyName": "src",
+                        "widgetId": "employeeDetailImage",
+                        "widgetPath": "this.view.employeeDetailImage",
+                        "widgetType": "Image",
+                        "dataType": "string",
+                        "itemId": "frmListDetails",
+                        "widgetKUID": "j090e8baeea443bf831e185175e671d4",
+                        "itemKUID": "fff1be78fdf94c1c80400d1621dfacff",
+                        "forkedPlatform": "all"
+                    }
+                },
+                "ME_Mapping_gd5e375532bf48ef8a849fac23594ad0": {
+                    "channel": "desktop",
+                    "id": "ME_Mapping_gd5e375532bf48ef8a849fac23594ad0",
+                    "type": "MAPPING",
+                    "callbackType": null,
+                    "rectified": true,
+                    "source": {
+                        "type": "Services",
+                        "propertyName": "Name",
+                        "dataType": "string",
+                        "collectionId": "records",
+                        "forkedPlatform": "all",
+                        "serviceconfig": {
+                            "servicename": "EmployeeServices",
+                            "type": "objectsvcs",
+                            "objectname": "employees",
+                            "serviceid": "bd298473-012c-4fd2-9c02-ac4547645816",
+                            "methodname": "get"
+                        }
+                    },
+                    "target": {
+                        "type": "Forms",
+                        "propertyName": "text",
+                        "widgetId": "employeeNameLabel",
+                        "widgetPath": "this.view.employeeNameLabel",
+                        "widgetType": "Label",
+                        "dataType": "string",
+                        "itemId": "frmListDetails",
+                        "widgetKUID": "h5df09ca07e84630898a186a02eab580",
+                        "itemKUID": "fff1be78fdf94c1c80400d1621dfacff",
+                        "forkedPlatform": "all"
+                    }
+                },
+                "ME_Mapping_b4824916399f4edd96a2088e8f3e2576": {
+                    "channel": "desktop",
+                    "id": "ME_Mapping_b4824916399f4edd96a2088e8f3e2576",
+                    "type": "MAPPING",
+                    "callbackType": null,
+                    "rectified": true,
+                    "source": {
+                        "type": "Services",
+                        "propertyName": "Designation",
+                        "dataType": "string",
+                        "collectionId": "records",
+                        "forkedPlatform": "all",
+                        "serviceconfig": {
+                            "servicename": "EmployeeServices",
+                            "type": "objectsvcs",
+                            "objectname": "employees",
+                            "serviceid": "bd298473-012c-4fd2-9c02-ac4547645816",
+                            "methodname": "get"
+                        }
+                    },
+                    "target": {
+                        "type": "Forms",
+                        "propertyName": "text",
+                        "widgetId": "employeeTitleLabel",
+                        "widgetPath": "this.view.employeeTitleLabel",
+                        "widgetType": "Label",
+                        "dataType": "string",
+                        "itemId": "frmListDetails",
+                        "widgetKUID": "b92931a652074b84b9f937cee19ae878",
+                        "itemKUID": "fff1be78fdf94c1c80400d1621dfacff",
+                        "forkedPlatform": "all"
+                    }
+                },
+                "ME_Mapping_e2e8ccf26ef545bab7bf14379452f29a": {
+                    "channel": "desktop",
+                    "id": "ME_Mapping_e2e8ccf26ef545bab7bf14379452f29a",
+                    "type": "MAPPING",
+                    "callbackType": null,
+                    "rectified": true,
+                    "source": {
+                        "type": "Services",
+                        "propertyName": "Email",
+                        "dataType": "string",
+                        "collectionId": "records",
+                        "forkedPlatform": "all",
+                        "serviceconfig": {
+                            "servicename": "EmployeeServices",
+                            "type": "objectsvcs",
+                            "objectname": "employees",
+                            "serviceid": "bd298473-012c-4fd2-9c02-ac4547645816",
+                            "methodname": "get"
+                        }
+                    },
+                    "target": {
+                        "type": "Forms",
+                        "propertyName": "text",
+                        "widgetId": "employeeDetailsValue1",
+                        "widgetPath": "this.view.employeeDetailsValue1",
+                        "widgetType": "Label",
+                        "dataType": "string",
+                        "itemId": "frmListDetails",
+                        "widgetKUID": "j2a0462e6ead47c698f3b3bba29b90b8",
+                        "itemKUID": "fff1be78fdf94c1c80400d1621dfacff",
+                        "forkedPlatform": "all"
+                    }
+                },
+                "ME_Mapping_ed7a648cb3b248c38814a6ee18d57f8b": {
+                    "channel": "desktop",
+                    "id": "ME_Mapping_ed7a648cb3b248c38814a6ee18d57f8b",
+                    "type": "MAPPING",
+                    "callbackType": null,
+                    "rectified": true,
+                    "source": {
+                        "type": "Services",
+                        "propertyName": "Primary_Phone",
+                        "dataType": "string",
+                        "collectionId": "records",
+                        "forkedPlatform": "all",
+                        "serviceconfig": {
+                            "servicename": "EmployeeServices",
+                            "type": "objectsvcs",
+                            "objectname": "employees",
+                            "serviceid": "bd298473-012c-4fd2-9c02-ac4547645816",
+                            "methodname": "get"
+                        }
+                    },
+                    "target": {
+                        "type": "Forms",
+                        "propertyName": "text",
+                        "widgetId": "employeeDetailsValue2",
+                        "widgetPath": "this.view.employeeDetailsValue2",
+                        "widgetType": "Label",
+                        "dataType": "string",
+                        "itemId": "frmListDetails",
+                        "widgetKUID": "c7eaa2d933d94e1b8555fa7c22061e0b",
+                        "itemKUID": "fff1be78fdf94c1c80400d1621dfacff",
+                        "forkedPlatform": "all"
+                    }
+                },
+                "ME_Mapping_h8c1cf4691964dec907b7c4d5c21cc6b": {
+                    "channel": "desktop",
+                    "id": "ME_Mapping_h8c1cf4691964dec907b7c4d5c21cc6b",
+                    "type": "MAPPING",
+                    "callbackType": null,
+                    "rectified": true,
+                    "source": {
+                        "type": "Services",
+                        "propertyName": "Department",
+                        "dataType": "string",
+                        "collectionId": "records",
+                        "forkedPlatform": "all",
+                        "serviceconfig": {
+                            "servicename": "EmployeeServices",
+                            "type": "objectsvcs",
+                            "objectname": "employees",
+                            "serviceid": "bd298473-012c-4fd2-9c02-ac4547645816",
+                            "methodname": "get"
+                        }
+                    },
+                    "target": {
+                        "type": "Forms",
+                        "propertyName": "text",
+                        "widgetId": "employeeDetailsValue3",
+                        "widgetPath": "this.view.employeeDetailsValue3",
+                        "widgetType": "Label",
+                        "dataType": "string",
+                        "itemId": "frmListDetails",
+                        "widgetKUID": "b09485e3b6d14d66a41162ce70209d89",
+                        "itemKUID": "fff1be78fdf94c1c80400d1621dfacff",
+                        "forkedPlatform": "all"
+                    }
+                },
+                "ME_Mapping_e840ede98a11406297012344b5b26701": {
+                    "channel": "desktop",
+                    "id": "ME_Mapping_e840ede98a11406297012344b5b26701",
+                    "type": "MAPPING",
+                    "callbackType": null,
+                    "rectified": true,
+                    "source": {
+                        "type": "Services",
+                        "propertyName": "Manager_Name",
+                        "dataType": "string",
+                        "collectionId": "records",
+                        "forkedPlatform": "all",
+                        "serviceconfig": {
+                            "servicename": "EmployeeServices",
+                            "type": "objectsvcs",
+                            "objectname": "employees",
+                            "serviceid": "bd298473-012c-4fd2-9c02-ac4547645816",
+                            "methodname": "get"
+                        }
+                    },
+                    "target": {
+                        "type": "Forms",
+                        "propertyName": "text",
+                        "widgetId": "employeeDetailsValue4",
+                        "widgetPath": "this.view.employeeDetailsValue4",
+                        "widgetType": "Label",
+                        "dataType": "string",
+                        "itemId": "frmListDetails",
+                        "widgetKUID": "c475b8554e1f4d1b8152b896fbef71b9",
+                        "itemKUID": "fff1be78fdf94c1c80400d1621dfacff",
+                        "forkedPlatform": "all"
+                    }
+                }
+            },
+            "mappingsOrder": ["ME_Mapping_ibcc7e2ec7ef4de5a7b055ca931ab2b1", "ME_Mapping_gd5e375532bf48ef8a849fac23594ad0", "ME_Mapping_b4824916399f4edd96a2088e8f3e2576", "ME_Mapping_e2e8ccf26ef545bab7bf14379452f29a", "ME_Mapping_ed7a648cb3b248c38814a6ee18d57f8b", "ME_Mapping_h8c1cf4691964dec907b7c4d5c21cc6b", "ME_Mapping_e840ede98a11406297012344b5b26701"],
+            "parentId": "INVOKE_OBJECT_SERVICE__g9fd87bf1d834fe2a11ba752644b6f87",
+            "callbackType": "Callback",
+            "enableMappingEditor": true
+        }, {
+            "id": "SET_FORM_WIDGET_PROPERTY_Untitled___fef09c1930b94798a13ed2614aed1ab8",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "frmListDetails",
+            "widgetId": "detailContainer",
+            "propertyName": "isVisible",
+            "propertyValue": "true",
+            "itemKUID": "fff1be78fdf94c1c80400d1621dfacff",
+            "widgetKUID": "e20dbedcca5a496ab00fe4793bf9b567",
+            "isSkinProperty": false,
+            "wType": "FlexScrollContainer",
+            "forkedPlatform": "all",
+            "parentId": "INVOKE_OBJECT_SERVICE__g9fd87bf1d834fe2a11ba752644b6f87",
+            "callbackType": "Callback",
+            "widgetPath": "this.view.detailContainer"
+        }, {
+            "id": "ADD_SNIPPET__e8bdb382250b461eac11ca3cc448b34c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "self.view.forceLayout();",
+            "parentId": "INVOKE_OBJECT_SERVICE__g9fd87bf1d834fe2a11ba752644b6f87",
+            "callbackType": "Callback"
+        }]
+    }
+}

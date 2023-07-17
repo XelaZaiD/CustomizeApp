@@ -1,0 +1,20 @@
+{
+    "desktopweb": {
+        "formslist": {
+            "mvcFormObjects": [
+                "Form1"
+            ],
+            "nonmvcFormObjects": []
+        },
+        "templatesList": {
+            "mvcTemplateObjects": [
+                "com.konymp.Menu",
+                "Copymenuheadertemp",
+                "CopymenuRowTemp",
+                "SampleRowTemplate",
+                "SampleSectionHeaderTemplate"
+            ],
+            "nonmvcTemplateObjects": []
+        }
+    }
+}

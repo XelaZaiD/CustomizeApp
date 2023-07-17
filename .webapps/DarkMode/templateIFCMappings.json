@@ -1,0 +1,148 @@
+{
+    "controllerTemplateInfoMapping": {
+        "desktopweb": {
+            "CopyflxListWithImgController_desktop": [
+                "CopyflxListWithImgController"
+            ],
+            "flxListWithImgController_desktop": [
+                "flxListWithImgController"
+            ],
+            "flxSampleRowTemplateController_desktop": [
+                "flxSampleRowTemplateController"
+            ],
+            "flxSectionHeaderTemplateController_desktop": [
+                "flxSectionHeaderTemplateController"
+            ]
+        }
+    },
+    "controllerformInfoMapping": {
+        "desktopweb": {
+            "Form1Controller_desktop": [
+                "Form1Controller"
+            ]
+        }
+    },
+    "formControllerInfoMapping": {
+        "desktopweb": {
+            "Form1": {
+                "controllerActionDir": "Form1Controller",
+                "controllerChannel": "desktop",
+                "controllerName": "Form1Controller"
+            }
+        }
+    },
+    "formsifcMapping": {
+        "desktopweb": {
+            "Form1": {
+                "appName": "DarkMode",
+                "controllerInfo": {
+                    "controllerActionName": "Form1Controller",
+                    "controllerChannel": "desktop",
+                    "controllerName": "Form1Controller"
+                },
+                "enableModelDriven": false,
+                "friendlyName": "Form1"
+            }
+        }
+    },
+    "templateControllerInfoMapping": {
+        "desktopweb": {
+            "CopytmpListWithImage1": {
+                "controllerActionDir": "CopyflxListWithImgController",
+                "controllerChannel": "desktop",
+                "controllerName": "CopyflxListWithImgController"
+            },
+            "SampleRowTemplate": {
+                "controllerActionDir": "flxSampleRowTemplateController",
+                "controllerChannel": "desktop",
+                "controllerName": "flxSampleRowTemplateController"
+            },
+            "SampleSectionHeaderTemplate": {
+                "controllerActionDir": "flxSectionHeaderTemplateController",
+                "controllerChannel": "desktop",
+                "controllerName": "flxSectionHeaderTemplateController"
+            },
+            "tmpListWithImage": {
+                "controllerActionDir": "flxListWithImgController",
+                "controllerChannel": "desktop",
+                "controllerName": "flxListWithImgController"
+            }
+        }
+    },
+    "templatesifcMapping": {
+        "desktopweb": {
+            "CopyflxListWithImg": {
+                "appName": "DarkMode",
+                "controllerInfo": {
+                    "controllerActionName": "CopyflxListWithImgController",
+                    "controllerChannel": "desktop",
+                    "controllerName": "CopyflxListWithImgController"
+                },
+                "friendlyName": "CopyflxListWithImg",
+                "templateId": "CopyflxListWithImg"
+            },
+            "flxListWithImg": {
+                "appName": "DarkMode",
+                "controllerInfo": {
+                    "controllerActionName": "flxListWithImgController",
+                    "controllerChannel": "desktop",
+                    "controllerName": "flxListWithImgController"
+                },
+                "friendlyName": "flxListWithImg",
+                "templateId": "flxListWithImg"
+            },
+            "flxSampleRowTemplate": {
+                "appName": "DarkMode",
+                "controllerInfo": {
+                    "controllerActionName": "flxSampleRowTemplateController",
+                    "controllerChannel": "desktop",
+                    "controllerName": "flxSampleRowTemplateController"
+                },
+                "friendlyName": "flxSampleRowTemplate",
+                "templateId": "flxSampleRowTemplate"
+            },
+            "flxSectionHeaderTemplate": {
+                "appName": "DarkMode",
+                "controllerInfo": {
+                    "controllerActionName": "flxSectionHeaderTemplateController",
+                    "controllerChannel": "desktop",
+                    "controllerName": "flxSectionHeaderTemplateController"
+                },
+                "friendlyName": "flxSectionHeaderTemplate",
+                "templateId": "flxSectionHeaderTemplate"
+            }
+        }
+    },
+    "userwidgetsifcMapping": {
+        "com.konymp.ListWithImage": {
+            "appName": "DarkMode",
+            "classname": "ListWithImage",
+            "namespace": "com.konymp"
+        },
+        "com.konymp.ListWithImageCopy": {
+            "appName": "DarkMode",
+            "classname": "ListWithImageCopy",
+            "namespace": "com.konymp"
+        },
+        "com.konymp.Login": {
+            "appName": "DarkMode",
+            "classname": "Login",
+            "namespace": "com.konymp"
+        },
+        "comm.konymp.ToastAlert": {
+            "appName": "DarkMode",
+            "classname": "ToastAlert",
+            "namespace": "comm.konymp"
+        },
+        "comm.konymp.ToastError": {
+            "appName": "DarkMode",
+            "classname": "ToastError",
+            "namespace": "comm.konymp"
+        },
+        "comm.konymp.ToastSuccess": {
+            "appName": "DarkMode",
+            "classname": "ToastSuccess",
+            "namespace": "comm.konymp"
+        }
+    }
+}

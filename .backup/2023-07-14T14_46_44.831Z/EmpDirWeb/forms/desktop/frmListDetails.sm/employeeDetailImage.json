@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "123dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "7dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s9157b99890d465bad3e49792d1c0145",
+    "_src_": "image1.png",
+    "_top_": {
+        "type": "string",
+        "value": "26dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "127dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "51.90%"
+    },
+    "containerweight": 100,
+    "id": "employeeDetailImage",
+    "imagescalemode": 1,
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "j090e8baeea443bf831e185175e671d4",
+    "name": "kony.ui.Image2",
+    "parent": "detailContainer",
+    "pf": "frmListDetails",
+    "responsiveData": {
+        "b3": {
+            "top": {
+                "type": "string",
+                "value": "86dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

@@ -1,0 +1,77 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "32dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s772f031c5df4fd28e15af645f718bb9",
+    "_text_": "LOG OUT",
+    "_top_": {
+        "type": "string",
+        "value": "22dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "424dp"
+    },
+    "android": {
+        "width": {
+            "type": "string",
+            "value": "100%"
+        }
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "width": {
+            "type": "string",
+            "value": "90%"
+        }
+    },
+    "displaytext": true,
+    "focusskin": "s4a55cbd89f64f4cbb50f190fcba8b98",
+    "id": "SquaredBtn",
+    "info": null,
+    "iphone": {
+        "width": {
+            "type": "string",
+            "value": "100%"
+        }
+    },
+    "isvisible": true,
+    "kuid": "u65e5c66ebc64b8997cdc0fc84d07702",
+    "masterType": 1,
+    "name": "kony.ui.Button",
+    "parent": "Menu",
+    "pf": "userwidgetmodel",
+    "spaip": {
+        "width": {
+            "type": "string",
+            "value": "100%"
+        }
+    },
+    "wType": "Button",
+    "zindex": 1
+}

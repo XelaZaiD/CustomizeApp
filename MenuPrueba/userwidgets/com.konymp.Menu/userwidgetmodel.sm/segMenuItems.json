@@ -1,0 +1,340 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_data_": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "736dp"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {
+        "height": {
+            "type": "string",
+            "value": "75%"
+        }
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "30",
+    "desktop": {
+        "_data_": [
+            [
+                {
+                    "imgTempHeaderArraow": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "rectangle_7_copy_1_4.png"
+                    },
+                    "lblLineSeperator": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "."
+                    },
+                    "lblTempHeaderText": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "FirstLevelItem"
+                    }
+                },
+                [
+                    {
+                        "lblMenuItem": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "SecondLevelItem"
+                        },
+                        "lblSeperator": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "."
+                        }
+                    }
+                ]
+            ],
+            [
+                {
+                    "imgTempHeaderArraow": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "rectangle_7_copy_1_4.png"
+                    },
+                    "lblLineSeperator": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "."
+                    },
+                    "lblTempHeaderText": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "FirstLevelItem"
+                    }
+                },
+                [
+                    {
+                        "lblMenuItem": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "SecondLevelItem"
+                        },
+                        "lblSeperator": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "."
+                        }
+                    }
+                ]
+            ],
+            [
+                {
+                    "imgTempHeaderArraow": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "rectangle_7_copy_1_4.png"
+                    },
+                    "lblLineSeperator": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "."
+                    },
+                    "lblTempHeaderText": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "FirstLevelItem"
+                    }
+                },
+                [
+                    {
+                        "lblMenuItem": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "SecondLevelItem"
+                        },
+                        "lblSeperator": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "."
+                        }
+                    }
+                ]
+            ],
+            [
+                {
+                    "imgTempHeaderArraow": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "rectangle_7_copy_1_4.png"
+                    },
+                    "lblLineSeperator": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "."
+                    },
+                    "lblTempHeaderText": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "FirstLevelItem"
+                    }
+                },
+                [
+                    {
+                        "lblMenuItem": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "SecondLevelItem"
+                        },
+                        "lblSeperator": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "."
+                        }
+                    }
+                ]
+            ]
+        ],
+        "rowTemplateId": "f4d8f666c5e6422f9e7d3cfcccc7b2f3",
+        "rowtemplate": "CopyflxMenuRowWrapper",
+        "sectionHeaderTemplateId": "j690e84311064804be62e3f90b727a24",
+        "sectionheadertemplate": "Copyflxmenuheaderwrapper",
+        "widgetdatamap": {
+            "CopyflxMenuRowWrapper": "CopyflxMenuRowWrapper",
+            "Copyflxmenuheaderwrapper": "Copyflxmenuheaderwrapper",
+            "imgTempHeaderArraow": "imgTempHeaderArraow",
+            "lblLineSeperator": "lblLineSeperator",
+            "lblMenuItem": "lblMenuItem",
+            "lblSeperator": "lblSeperator",
+            "lblTempHeaderText": "lblTempHeaderText"
+        }
+    },
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": true,
+    "id": "segMenuItems",
+    "ide_onRowClick": "AS_Segment_b7978e8cec3946628a6ebca9e1f1efc3",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "height": {
+            "type": "string",
+            "value": "580dp"
+        },
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "u7bc4837a3aa46d6b2f29b227411de48",
+    "masterdata": {},
+    "mobile": {
+        "_data_": [
+            [
+                {
+                    "imgTempHeaderArraow": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "rectangle_7_copy_1_4.png"
+                    },
+                    "lblLineSeperator": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "."
+                    },
+                    "lblTempHeaderText": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "First Level Item"
+                    }
+                },
+                [
+                    {
+                        "lblMenuItem": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Second Level Item"
+                        },
+                        "lblSeperator": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        }
+                    }
+                ]
+            ],
+            [
+                {
+                    "imgTempHeaderArraow": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "rectangle_7_copy_1_4.png"
+                    },
+                    "lblLineSeperator": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "."
+                    },
+                    "lblTempHeaderText": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "First Level Item"
+                    }
+                },
+                [
+                    {
+                        "lblMenuItem": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Second Level Item"
+                        },
+                        "lblSeperator": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": ""
+                        }
+                    }
+                ]
+            ]
+        ],
+        "rowTemplateId": "e6ad00d071324fe9b844e30f46bf7ad9",
+        "rowtemplate": "CopyflxMenuRowWrapper0ba7e3d98eaaf4c",
+        "sectionHeaderTemplateId": "a746d9cd0a9d44d0a81ff93e25c60f34",
+        "sectionheadertemplate": "Copyflxmenuheaderwrapper0i958151c47c445",
+        "widgetdatamap": {
+            "CopyflxMenuRowWrapper0ba7e3d98eaaf4c": "CopyflxMenuRowWrapper0ba7e3d98eaaf4c",
+            "Copyflxmenuheaderwrapper0i958151c47c445": "Copyflxmenuheaderwrapper0i958151c47c445",
+            "imgTempHeaderArraow": "imgTempHeaderArraow",
+            "lblLineSeperator": "lblLineSeperator",
+            "lblMenuItem": "lblMenuItem",
+            "lblSeperator": "lblSeperator",
+            "lblTempHeaderText": "lblTempHeaderText"
+        }
+    },
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "Menu",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowcounter": 0,
+    "rowfocusskin": "s4ff0419c7244b9da35e269e2b1080db",
+    "rowskin": "s25ec5a76d714a1abfd85c816c627144",
+    "rowtemplate": "CopyCopyflxMenuRowWrapper",
+    "screenlevelwidget": false,
+    "seccounter": 3,
+    "sectionheaderskin": "s0693ede21494997b1992b24eeb556f3",
+    "sectionheadertemplate": "CopyCopyflxmenuheaderwrapper",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "aaaaaa00",
+    "separatorrequired": false,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "spaan": {
+        "height": {
+            "type": "string",
+            "value": "80%"
+        }
+    },
+    "spaip": {
+        "height": {
+            "type": "string",
+            "value": "570dp"
+        }
+    },
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyflxMenuRowWrapper": "CopyflxMenuRowWrapper",
+        "Copyflxmenuheaderwrapper": "Copyflxmenuheaderwrapper",
+        "imgTempHeaderArraow": "imgTempHeaderArraow",
+        "lblLineSeperator": "lblLineSeperator",
+        "lblMenuItem": "lblMenuItem",
+        "lblSeperator": "lblSeperator",
+        "lblTempHeaderText": "lblTempHeaderText"
+    },
+    "zindex": 1
+}

@@ -1,0 +1,55 @@
+{
+  "type" : "lob",
+  "custom" : false,
+  "junction" : false,
+  "customizable" : false,
+  "verbs" : {
+    "get" : "getMapping"
+  },
+  "entityProperties" : {
+    "BatchMode" : "pagination",
+    "backendMeta" : {
+      "backendObjectName" : "employees",
+      "qualifiedName" : "employees.employees",
+      "metadataformatterobject" : "{\"name\":\"employees\",\"displayName\":\"employees\",\"qualifiedName\":\"employees.employees\",\"schemaName\":\"employees\",\"tableName\":\"employees\",\"entityType\":\"com.kony.rdbms.metadata.model.AnnotatedView\"}"
+    },
+    "designTimeBackendMeta" : {
+      "backendObjectName" : "employees",
+      "qualifiedName" : "employees.employees",
+      "metadataformatterobject" : "{\"name\":\"employees\",\"displayName\":\"employees\",\"qualifiedName\":\"employees.employees\",\"schemaName\":\"employees\",\"tableName\":\"employees\",\"entityType\":\"com.kony.rdbms.metadata.model.AnnotatedView\"}"
+    }
+  },
+  "commonMappings" : [ {
+    "sourceFieldName" : "Emp_id",
+    "targetField" : "Emp_id",
+    "type" : "request_response"
+  }, {
+    "sourceFieldName" : "Designation",
+    "targetField" : "Designation",
+    "type" : "request_response"
+  }, {
+    "sourceFieldName" : "Department",
+    "targetField" : "Department",
+    "type" : "request_response"
+  }, {
+    "sourceFieldName" : "Email",
+    "targetField" : "Email",
+    "type" : "request_response"
+  }, {
+    "sourceFieldName" : "Manager_Name",
+    "targetField" : "Manager_Name",
+    "type" : "request_response"
+  }, {
+    "sourceFieldName" : "Image_URL",
+    "targetField" : "Image_URL",
+    "type" : "request_response"
+  }, {
+    "sourceFieldName" : "Primary_Phone",
+    "targetField" : "Primary_Phone",
+    "type" : "request_response"
+  }, {
+    "sourceFieldName" : "Name",
+    "targetField" : "Name",
+    "type" : "request_response"
+  } ]
+}

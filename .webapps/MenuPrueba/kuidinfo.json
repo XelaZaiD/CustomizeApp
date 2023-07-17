@@ -1,0 +1,240 @@
+{
+    "idToKuidMapping": {
+        "androidwear": {},
+        "desktop": {
+            "CopymenuRowTemp": "f4d8f666c5e6422f9e7d3cfcccc7b2f3",
+            "Copymenuheadertemp": "j690e84311064804be62e3f90b727a24",
+            "Form1": "ab44610645f04a109f4affe8cb05408c",
+            "SampleRowTemplate": "cf65c9daed9b4574bbb3378795504149",
+            "SampleSectionHeaderTemplate": "d434128772be41f28cf55bca51e44f68"
+        },
+        "masters": {},
+        "mobile": {},
+        "skins": {
+            "CopyCopyCopydefLabel0g9fa00d1b79d48": "sa7911bdcb9e49019fe779b2fbe48730",
+            "CopyCopyCopydefLabel0h1852781cfa14f": "s21f6d7bceca498485593980cb942dde",
+            "CopyCopyCopydefLabel0i1d0b699f54d4e": "s45ff5975e41446d94db45cddf2debfa",
+            "CopyCopyCopydefLabel0ie6cfc9382994c": "s55c4b88be1f497e864d4c21a386d671",
+            "CopyCopyCopyslFbox0b9b6a6aa3b2848": "s4e0ad7748a7452aab977ecd1afead01",
+            "CopyCopyCopyslFbox0ba3ff774fc6e48": "s6df470d12f6436687a912e8233a3e2a",
+            "CopyCopyCopyslFbox0fc5acdf617a14d": "s483bb1b37df4e0da06c4e11802a67c0",
+            "CopyCopyCopyslFbox0g0c023c26eb148": "se03ef382beb4abea5d35f5f02c3b609",
+            "CopyCopyFLXFFFFFF4": "s66665637e044198a141dd14183d39a4",
+            "CopyCopyLBL0a9b6f352958a4f": "s587a593100a4045b36d021d82d4a1cc",
+            "CopyCopyLBL0c3c421a2dc3f44": "s2b92895233144a9b21ac0b333e9ecea",
+            "CopyCopySKNMENUSEGHEADER4": "s0693ede21494997b1992b24eeb556f3",
+            "CopyCopySquaredBorderedButtonActive4": "s4a55cbd89f64f4cbb50f190fcba8b98",
+            "CopyCopySquaredBorderedButtonNormal4": "s772f031c5df4fd28e15af645f718bb9",
+            "seg2Focus": "s4ff0419c7244b9da35e269e2b1080db",
+            "seg2Normal": "s25ec5a76d714a1abfd85c816c627144",
+            "sknLblDescription": "s626d4b9d1ab4a2bbbbc8f8b0e6cd60d",
+            "sknLblRowHeading": "s99eabd5315b4bf0b4fc30954ddd6f37",
+            "sknLblStrip": "s3c0d246ad02477a93c25ce745b8ffc6",
+            "sknLblTimeStamp": "sac9867b8dfc4565b0f14be51572e83d",
+            "sknSampleRowTemplate": "sf17b1bad04c4e26af369665c5c4a562",
+            "sknSampleSectionHeaderTemplate": "s702b90b8c524882bfac424ad4d1810d",
+            "sknSectionHeaderLabelSkin": "s119cd4b03dc48518f62b0603097a12d",
+            "slDynamicNotificationForm": "s4035534565b47c0a112fdaed85c6b07",
+            "slForm": "s703e62f61614409ab9000ce0310bdde",
+            "slImage": "sf1c814ad39b45f3b098179b79eca428",
+            "slSplashiOS": "sc6e316f4f80466b8f42b939ea5fc067",
+            "slStaticNotificationForm": "sf9f7fe31cd843f4ad9a69add4be8c87",
+            "slTitleBar": "sddf328425cb4d4d8adb3139ed3bf106",
+            "slWatchForm": "se7a2bf0fc734b1f92c2c8514761b8b5"
+        },
+        "tablet": {},
+        "userwidgets": {
+            "com.konymp.Menu": "u8954bed1f214f2a99c5efa70ea63832"
+        }
+    },
+    "kuidDependencyMap": {
+        "f4d8f666c5e6422f9e7d3cfcccc7b2f3": [
+            "u8954bed1f214f2a99c5efa70ea63832"
+        ],
+        "j690e84311064804be62e3f90b727a24": [
+            "u8954bed1f214f2a99c5efa70ea63832"
+        ],
+        "s0693ede21494997b1992b24eeb556f3": [
+            "u8954bed1f214f2a99c5efa70ea63832"
+        ],
+        "s119cd4b03dc48518f62b0603097a12d": [
+            "d434128772be41f28cf55bca51e44f68"
+        ],
+        "s25ec5a76d714a1abfd85c816c627144": [
+            "u8954bed1f214f2a99c5efa70ea63832"
+        ],
+        "s2b92895233144a9b21ac0b333e9ecea": [
+            "j690e84311064804be62e3f90b727a24",
+            "f4d8f666c5e6422f9e7d3cfcccc7b2f3"
+        ],
+        "s3c0d246ad02477a93c25ce745b8ffc6": [
+            "cf65c9daed9b4574bbb3378795504149"
+        ],
+        "s45ff5975e41446d94db45cddf2debfa": [
+            "f4d8f666c5e6422f9e7d3cfcccc7b2f3"
+        ],
+        "s483bb1b37df4e0da06c4e11802a67c0": [
+            "f4d8f666c5e6422f9e7d3cfcccc7b2f3"
+        ],
+        "s4a55cbd89f64f4cbb50f190fcba8b98": [
+            "u8954bed1f214f2a99c5efa70ea63832"
+        ],
+        "s4e0ad7748a7452aab977ecd1afead01": [
+            "f4d8f666c5e6422f9e7d3cfcccc7b2f3"
+        ],
+        "s4ff0419c7244b9da35e269e2b1080db": [
+            "u8954bed1f214f2a99c5efa70ea63832"
+        ],
+        "s55c4b88be1f497e864d4c21a386d671": [
+            "f4d8f666c5e6422f9e7d3cfcccc7b2f3"
+        ],
+        "s587a593100a4045b36d021d82d4a1cc": [
+            "u8954bed1f214f2a99c5efa70ea63832"
+        ],
+        "s626d4b9d1ab4a2bbbbc8f8b0e6cd60d": [
+            "cf65c9daed9b4574bbb3378795504149"
+        ],
+        "s66665637e044198a141dd14183d39a4": [
+            "u8954bed1f214f2a99c5efa70ea63832",
+            "ab44610645f04a109f4affe8cb05408c"
+        ],
+        "s6df470d12f6436687a912e8233a3e2a": [
+            "u8954bed1f214f2a99c5efa70ea63832"
+        ],
+        "s702b90b8c524882bfac424ad4d1810d": [
+            "d434128772be41f28cf55bca51e44f68"
+        ],
+        "s703e62f61614409ab9000ce0310bdde": [
+            "ab44610645f04a109f4affe8cb05408c"
+        ],
+        "s772f031c5df4fd28e15af645f718bb9": [
+            "u8954bed1f214f2a99c5efa70ea63832"
+        ],
+        "s99eabd5315b4bf0b4fc30954ddd6f37": [
+            "cf65c9daed9b4574bbb3378795504149"
+        ],
+        "sa7911bdcb9e49019fe779b2fbe48730": [
+            "j690e84311064804be62e3f90b727a24"
+        ],
+        "sac9867b8dfc4565b0f14be51572e83d": [
+            "cf65c9daed9b4574bbb3378795504149"
+        ],
+        "se03ef382beb4abea5d35f5f02c3b609": [
+            "j690e84311064804be62e3f90b727a24"
+        ],
+        "sf17b1bad04c4e26af369665c5c4a562": [
+            "cf65c9daed9b4574bbb3378795504149"
+        ],
+        "sf1c814ad39b45f3b098179b79eca428": [
+            "u8954bed1f214f2a99c5efa70ea63832",
+            "j690e84311064804be62e3f90b727a24"
+        ]
+    },
+    "kuidInfo": {
+        "androidwear": {},
+        "desktop": {
+            "ab44610645f04a109f4affe8cb05408c": {
+                "appName": "MenuPrueba",
+                "id": "Form1",
+                "relFormId": "Form1",
+                "templateType": "forms",
+                "widgetInfo": {
+                    "mapWgtPltfrms": [],
+                    "videoWgtPltfrms": []
+                }
+            },
+            "cf65c9daed9b4574bbb3378795504149": {
+                "appName": "MenuPrueba",
+                "id": "SampleRowTemplate",
+                "templateType": "segments",
+                "topFlexId": "flxSampleRowTemplate"
+            },
+            "d434128772be41f28cf55bca51e44f68": {
+                "appName": "MenuPrueba",
+                "id": "SampleSectionHeaderTemplate",
+                "templateType": "segments",
+                "topFlexId": "flxSectionHeaderTemplate"
+            },
+            "f4d8f666c5e6422f9e7d3cfcccc7b2f3": {
+                "appName": "MenuPrueba",
+                "id": "CopymenuRowTemp",
+                "templateType": "segments",
+                "topFlexId": "CopyflxMenuRowWrapper"
+            },
+            "j690e84311064804be62e3f90b727a24": {
+                "appName": "MenuPrueba",
+                "id": "Copymenuheadertemp",
+                "templateType": "segments",
+                "topFlexId": "Copyflxmenuheaderwrapper"
+            }
+        },
+        "masters": {},
+        "mobile": {},
+        "tablet": {},
+        "userwidgets": {
+            "u8954bed1f214f2a99c5efa70ea63832": {
+                "appName": "MenuPrueba",
+                "id": "com.konymp.Menu",
+                "templateType": "userwidgets",
+                "widgetInfo": {
+                    "mapWgtPltfrms": [],
+                    "videoWgtPltfrms": []
+                }
+            }
+        }
+    },
+    "userWidgetsKuidToIdMap": {
+        "a0acc83daed649358adf63f5e84f2021": {
+            "id": "CopyflxMenuRowWrapper",
+            "path": "C:\\WS-TestWeb\\MenuPrueba\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "a765f9f883de4481b1912b4e755b980a": {
+            "id": "Copyflxmenuheaderwrapper",
+            "path": "C:\\WS-TestWeb\\MenuPrueba\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "f4d8f666c5e6422f9e7d3cfcccc7b2f3": {
+            "id": "CopymenuRowTemp",
+            "path": "C:\\WS-TestWeb\\MenuPrueba\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "j690e84311064804be62e3f90b727a24": {
+            "id": "Copymenuheadertemp",
+            "path": "C:\\WS-TestWeb\\MenuPrueba\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "u0583a7ecf6041229a7fa35b208a3802": {
+            "id": "flxHeader",
+            "path": "C:\\WS-TestWeb\\MenuPrueba\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "u1aa120c9a37478a996772293d5f803c": {
+            "id": "imgClose",
+            "path": "C:\\WS-TestWeb\\MenuPrueba\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "u54537f729734e71b1fece764e033a9e": {
+            "id": "Menu",
+            "path": "C:\\WS-TestWeb\\MenuPrueba\\userwidgets\\com.konymp.Menu"
+        },
+        "u65e5c66ebc64b8997cdc0fc84d07702": {
+            "id": "SquaredBtn",
+            "path": "C:\\WS-TestWeb\\MenuPrueba\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "u7bc4837a3aa46d6b2f29b227411de48": {
+            "id": "segMenuItems",
+            "path": "C:\\WS-TestWeb\\MenuPrueba\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "u8954bed1f214f2a99c5efa70ea63832": {
+            "id": "userwidgetmodel",
+            "path": "C:\\WS-TestWeb\\MenuPrueba\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "ua6e335cb07e42a298239044e846fe16": {
+            "id": "imgDownArrow",
+            "path": "C:\\WS-TestWeb\\MenuPrueba\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "ubce36b17a0e4f05a4b0d79cbb32841f": {
+            "id": "imgUpArrow",
+            "path": "C:\\WS-TestWeb\\MenuPrueba\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "ueab99f249594bc3898aa2b91684222a": {
+            "id": "lblLineSeperator",
+            "path": "C:\\WS-TestWeb\\MenuPrueba\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        }
+    }
+}

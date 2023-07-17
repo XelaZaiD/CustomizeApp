@@ -1,0 +1,17 @@
+{
+  "name" : "default",
+  "dataAdapterId" : "1",
+  "type" : "CustomDataAdapter",
+  "encryptSecureInfo" : false,
+  "config" : {
+    "authservicetype" : "IdentityProvider",
+    "jdbcClass" : "com.mysql.jdbc.Driver",
+    "jdbcUrl" : "jdbc:mysql://sampledb.konylabs.net",
+    "userId" : "employees",
+    "password" : "K0ny1234",
+    "advancedSettings" : null,
+    "maxPoolSize" : null,
+    "connectionTimeout" : null
+  },
+  "jsonpath" : false
+}

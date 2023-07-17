@@ -1,0 +1,30 @@
+{
+    "AS_TextField_a535b606072f4b9ca69f7fa22799a672": {
+        "id": "AS_TextField_a535b606072f4b9ca69f7fa22799a672",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "userwidgetmodel",
+            "type": "userwidgets",
+            "KUID": "uc4323448df74786ad37d2f0115a2e4d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__h399742e24024533b4f495cee9ad8d10",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "validatePassword",
+            "display": "validatePassword",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

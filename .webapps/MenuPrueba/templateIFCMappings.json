@@ -1,0 +1,123 @@
+{
+    "controllerTemplateInfoMapping": {
+        "desktopweb": {
+            "CopyflxMenuRowWrapperController_desktop": [
+                "CopyflxMenuRowWrapperController"
+            ],
+            "CopyflxmenuheaderwrapperController_desktop": [
+                "CopyflxmenuheaderwrapperController"
+            ],
+            "flxSampleRowTemplateController_desktop": [
+                "flxSampleRowTemplateController"
+            ],
+            "flxSectionHeaderTemplateController_desktop": [
+                "flxSectionHeaderTemplateController"
+            ]
+        }
+    },
+    "controllerformInfoMapping": {
+        "desktopweb": {
+            "Form1Controller_desktop": [
+                "Form1Controller"
+            ]
+        }
+    },
+    "formControllerInfoMapping": {
+        "desktopweb": {
+            "Form1": {
+                "controllerActionDir": "Form1Controller",
+                "controllerChannel": "desktop",
+                "controllerName": "Form1Controller"
+            }
+        }
+    },
+    "formsifcMapping": {
+        "desktopweb": {
+            "Form1": {
+                "appName": "MenuPrueba",
+                "controllerInfo": {
+                    "controllerActionName": "Form1Controller",
+                    "controllerChannel": "desktop",
+                    "controllerName": "Form1Controller"
+                },
+                "enableModelDriven": false,
+                "friendlyName": "Form1"
+            }
+        }
+    },
+    "templateControllerInfoMapping": {
+        "desktopweb": {
+            "CopymenuRowTemp": {
+                "controllerActionDir": "CopyflxMenuRowWrapperController",
+                "controllerChannel": "desktop",
+                "controllerName": "CopyflxMenuRowWrapperController"
+            },
+            "Copymenuheadertemp": {
+                "controllerActionDir": "CopyflxmenuheaderwrapperController",
+                "controllerChannel": "desktop",
+                "controllerName": "CopyflxmenuheaderwrapperController"
+            },
+            "SampleRowTemplate": {
+                "controllerActionDir": "flxSampleRowTemplateController",
+                "controllerChannel": "desktop",
+                "controllerName": "flxSampleRowTemplateController"
+            },
+            "SampleSectionHeaderTemplate": {
+                "controllerActionDir": "flxSectionHeaderTemplateController",
+                "controllerChannel": "desktop",
+                "controllerName": "flxSectionHeaderTemplateController"
+            }
+        }
+    },
+    "templatesifcMapping": {
+        "desktopweb": {
+            "CopyflxMenuRowWrapper": {
+                "appName": "MenuPrueba",
+                "controllerInfo": {
+                    "controllerActionName": "CopyflxMenuRowWrapperController",
+                    "controllerChannel": "desktop",
+                    "controllerName": "CopyflxMenuRowWrapperController"
+                },
+                "friendlyName": "CopyflxMenuRowWrapper",
+                "templateId": "CopyflxMenuRowWrapper"
+            },
+            "Copyflxmenuheaderwrapper": {
+                "appName": "MenuPrueba",
+                "controllerInfo": {
+                    "controllerActionName": "CopyflxmenuheaderwrapperController",
+                    "controllerChannel": "desktop",
+                    "controllerName": "CopyflxmenuheaderwrapperController"
+                },
+                "friendlyName": "Copyflxmenuheaderwrapper",
+                "templateId": "Copyflxmenuheaderwrapper"
+            },
+            "flxSampleRowTemplate": {
+                "appName": "MenuPrueba",
+                "controllerInfo": {
+                    "controllerActionName": "flxSampleRowTemplateController",
+                    "controllerChannel": "desktop",
+                    "controllerName": "flxSampleRowTemplateController"
+                },
+                "friendlyName": "flxSampleRowTemplate",
+                "templateId": "flxSampleRowTemplate"
+            },
+            "flxSectionHeaderTemplate": {
+                "appName": "MenuPrueba",
+                "controllerInfo": {
+                    "controllerActionName": "flxSectionHeaderTemplateController",
+                    "controllerChannel": "desktop",
+                    "controllerName": "flxSectionHeaderTemplateController"
+                },
+                "friendlyName": "flxSectionHeaderTemplate",
+                "templateId": "flxSectionHeaderTemplate"
+            }
+        }
+    },
+    "userwidgetsifcMapping": {
+        "com.konymp.Menu": {
+            "appName": "MenuPrueba",
+            "classname": "Menu",
+            "namespace": "com.konymp"
+        }
+    }
+}

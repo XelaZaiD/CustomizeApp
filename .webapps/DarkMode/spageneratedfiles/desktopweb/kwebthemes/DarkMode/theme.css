@@ -1,0 +1,1120 @@
+:root {}
+
+@font-face {
+    font-family: 'RobotoRegular';
+    src: url('../../fonts/RobotoRegular.ttf'), url('../../fonts/RobotoRegular.eot');
+}
+
+.konyfw_baseskincss,
+.CopyButtonLinkFocusSkin,
+.CopyButtonLinkNormalSkin,
+.CopyButtonSkinActive,
+.CopyButtonSkinNormal,
+.defBtnFocus,
+.defBtnNormal,
+.sknBtnFocus,
+.sknRadiusButton,
+.sknbtnNormal,
+.CopyCopyCopydefLabel2,
+.CopyCopyCopydefLabel3,
+.CopyCopyCopydefLabel4,
+.CopyCopydefLabel,
+.CopyCopydefLabel1,
+.CopyLBL0e133e7b084af41,
+.CopyLBLTOPSHADOW,
+.CopydefLabel0c3e8410402dc46,
+.CopydefLabel0fbd69ba14c8d4f,
+.CopydefLabel0h1461925391e41,
+.CopylblDeshWithImage,
+.CopylblDeshWithImage0afcafb61b3bb48,
+.CopylblLstImg,
+.CopylblMessage1,
+.defLabel,
+.lblDeshWithImage,
+.lblLstImg,
+.lblMessage,
+.sknLabel,
+.sknLabelBlanco,
+.sknLblDescription,
+.sknLblRowHeading,
+.sknLblStrip,
+.sknLblTimeStamp,
+.sknSectionHeaderLabelSkin,
+.sknlblMessage,
+.CopyCopydefTextBoxFocus,
+.CopyTXT,
+.CopyTXT1,
+.CopyFLXSHADOW,
+.CopyslForm0hd0898a3956744,
+.slForm,
+.slSplashiOS,
+.slWatchForm,
+.defListBoxFocus,
+.defListBoxNormal,
+.sknListBoxNormal {
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
+    border-radius: 0px;
+    color: #000000;
+    border: none;
+    background: transparent;
+}
+
+.konycustomcss {
+    font-size: 16px;
+}
+
+.CopyButtonLinkFocusSkin,
+button.CopyButtonLinkFocusSkin-hover,
+button[kw].CopyButtonLinkFocusSkin-focus {
+    font: normal normal 14.1px Helvetica;
+    color: #6fa0f4;
+    background: rgba(255, 255, 255, 0.0);
+}
+
+.CopyButtonLinkNormalSkin,
+button.CopyButtonLinkNormalSkin-hover,
+button[kw].CopyButtonLinkNormalSkin-focus {
+    font: normal normal 14.1px Helvetica;
+    color: #a4bced;
+    background: rgba(255, 255, 255, 0.0);
+}
+
+.CopyButtonSkinActive,
+button.CopyButtonSkinActive-hover,
+button[kw].CopyButtonSkinActive-focus {
+    border: 3px solid #7990b3;
+    -moz-border-radius: 12px;
+    border-radius: 12px;
+    -webkit-border-radius: 12px;
+    font: normal normal 14.1px Helvetica;
+    color: #ffffff;
+    background: #0d234a;
+    cursor: auto;
+}
+
+.CopyButtonSkinNormal,
+button.CopyButtonSkinNormal-hover,
+button[kw].CopyButtonSkinNormal-focus {
+    border: 1px solid #afb3ba;
+    -moz-border-radius: 12px;
+    border-radius: 12px;
+    -webkit-border-radius: 12px;
+    font: normal normal 14.1px Helvetica;
+    color: #ffffff;
+    background: #060752;
+}
+
+.CopyCopyCopydefLabel2,
+[kw].CopyCopyCopydefLabel2-hover,
+label[kw].CopyCopyCopydefLabel2-focus,
+h1[kw].CopyCopyCopydefLabel2-focus,
+h2[kw].CopyCopyCopydefLabel2-focus,
+h3[kw].CopyCopyCopydefLabel2-focus,
+h4[kw].CopyCopyCopydefLabel2-focus,
+h5[kw].CopyCopyCopydefLabel2-focus,
+h6[kw].CopyCopyCopydefLabel2-focus,
+div[kw].CopyCopyCopydefLabel2-focus,
+span[kw].CopyCopyCopydefLabel2-focus,
+p[kw].CopyCopyCopydefLabel2-focus {
+    font: normal normal 32.0px Helvetica;
+    color: #333333;
+    background: linear-gradient(to top, rgba(0, 0, 255, 0.0) 0%, rgba(204, 204, 204, 0.5) 48%, #cccccc 97%);
+}
+
+.CopyCopyCopydefLabel3,
+[kw].CopyCopyCopydefLabel3-hover,
+label[kw].CopyCopyCopydefLabel3-focus,
+h1[kw].CopyCopyCopydefLabel3-focus,
+h2[kw].CopyCopyCopydefLabel3-focus,
+h3[kw].CopyCopyCopydefLabel3-focus,
+h4[kw].CopyCopyCopydefLabel3-focus,
+h5[kw].CopyCopyCopydefLabel3-focus,
+h6[kw].CopyCopyCopydefLabel3-focus,
+div[kw].CopyCopyCopydefLabel3-focus,
+span[kw].CopyCopyCopydefLabel3-focus,
+p[kw].CopyCopyCopydefLabel3-focus {
+    font: normal normal 14.1px Helvetica;
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.0);
+}
+
+.CopyCopyCopydefLabel4,
+[kw].CopyCopyCopydefLabel4-hover,
+label[kw].CopyCopyCopydefLabel4-focus,
+h1[kw].CopyCopyCopydefLabel4-focus,
+h2[kw].CopyCopyCopydefLabel4-focus,
+h3[kw].CopyCopyCopydefLabel4-focus,
+h4[kw].CopyCopyCopydefLabel4-focus,
+h5[kw].CopyCopyCopydefLabel4-focus,
+h6[kw].CopyCopyCopydefLabel4-focus,
+div[kw].CopyCopyCopydefLabel4-focus,
+span[kw].CopyCopyCopydefLabel4-focus,
+p[kw].CopyCopyCopydefLabel4-focus {
+    font: normal normal 32.0px Helvetica;
+    color: #333333;
+    background: linear-gradient(to left, rgba(0, 0, 255, 0.0) 0%, rgba(204, 204, 204, 0.5) 48%, #cccccc 97%);
+}
+
+.CopyCopydefLabel,
+[kw].CopyCopydefLabel-hover,
+label[kw].CopyCopydefLabel-focus,
+h1[kw].CopyCopydefLabel-focus,
+h2[kw].CopyCopydefLabel-focus,
+h3[kw].CopyCopydefLabel-focus,
+h4[kw].CopyCopydefLabel-focus,
+h5[kw].CopyCopydefLabel-focus,
+h6[kw].CopyCopydefLabel-focus,
+div[kw].CopyCopydefLabel-focus,
+span[kw].CopyCopydefLabel-focus,
+p[kw].CopyCopydefLabel-focus {
+    font: normal normal 35.0px Helvetica;
+    color: #333333;
+    background-color: rgba(0, 0, 0, 0.0);
+}
+
+.CopyCopydefLabel1,
+[kw].CopyCopydefLabel1-hover,
+label[kw].CopyCopydefLabel1-focus,
+h1[kw].CopyCopydefLabel1-focus,
+h2[kw].CopyCopydefLabel1-focus,
+h3[kw].CopyCopydefLabel1-focus,
+h4[kw].CopyCopydefLabel1-focus,
+h5[kw].CopyCopydefLabel1-focus,
+h6[kw].CopyCopydefLabel1-focus,
+div[kw].CopyCopydefLabel1-focus,
+span[kw].CopyCopydefLabel1-focus,
+p[kw].CopyCopydefLabel1-focus {
+    font: normal normal 12.0px Helvetica;
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.0);
+}
+
+.CopyCopydefTextBoxFocus,
+input.CopyCopydefTextBoxFocus-hover,
+input[kw].CopyCopydefTextBoxFocus-focus {
+    border: 1px solid rgba(51, 51, 51, 0.4);
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    font: normal normal 14.1px Helvetica;
+    color: #333333;
+    background-color: #ffffff;
+    -webkit-appearance: none;
+}
+
+input[kplaceholderskin='CopyCopydefTextBoxFocus']::-webkit-input-placeholder {
+    border: 1px solid rgba(51, 51, 51, 0.4);
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    font: normal normal 14.1px Helvetica;
+    color: #333333;
+    background-color: #ffffff;
+    -webkit-appearance: none;
+}
+
+input[kplaceholderskin='CopyCopydefTextBoxFocus']::-moz-placeholder {
+    border: 1px solid rgba(51, 51, 51, 0.4);
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    font: normal normal 14.1px Helvetica;
+    color: #333333;
+    background-color: #ffffff;
+    -webkit-appearance: none;
+}
+
+input[kplaceholderskin='CopyCopydefTextBoxFocus']:-ms-input-placeholder {
+    border: 1px solid rgba(51, 51, 51, 0.4);
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    font: normal normal 14.1px Helvetica;
+    color: #333333;
+    background-color: #ffffff;
+    -webkit-appearance: none;
+}
+
+.CopyCopyslFbox,
+div.CopyCopyslFbox-hover,
+div[kw].CopyCopyslFbox-focus {
+    border: 3px solid #dbd680;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    color: #000000;
+    background-color: rgba(252, 247, 183, 0.3);
+}
+
+.CopyCopyslFbox0b27090e10e6f4c,
+div.CopyCopyslFbox0b27090e10e6f4c-hover,
+div[kw].CopyCopyslFbox0b27090e10e6f4c-focus {
+    border: 0px solid #000000;
+    color: #000000;
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.CopyCopyslFbox0h4d4da20a38d49,
+div.CopyCopyslFbox0h4d4da20a38d49-hover,
+div[kw].CopyCopyslFbox0h4d4da20a38d49-focus {
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    color: #000000;
+    background-color: rgba(0, 0, 0, 0.0);
+}
+
+.CopyFLXFFFFFF1,
+div.CopyFLXFFFFFF1-hover,
+div[kw].CopyFLXFFFFFF1-focus {
+    border: 5px solid #cccccc;
+    -moz-border-radius: 100px;
+    -webkit-border-radius: 100px;
+    border-radius: 100px;
+    color: #000000;
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.CopyFLXSHADOW,
+div.CopyFLXSHADOW-hover,
+div[kw].CopyFLXSHADOW-focus {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.CopyFlxToastErroFFD,
+div.CopyFlxToastErroFFD-hover,
+div[kw].CopyFlxToastErroFFD-focus {
+    border: 3px solid #ffaaba;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    color: #000000;
+    background-color: rgba(255, 211, 219, 0.3);
+}
+
+.CopyLBL0e133e7b084af41,
+[kw].CopyLBL0e133e7b084af41-hover,
+label[kw].CopyLBL0e133e7b084af41-focus,
+h1[kw].CopyLBL0e133e7b084af41-focus,
+h2[kw].CopyLBL0e133e7b084af41-focus,
+h3[kw].CopyLBL0e133e7b084af41-focus,
+h4[kw].CopyLBL0e133e7b084af41-focus,
+h5[kw].CopyLBL0e133e7b084af41-focus,
+h6[kw].CopyLBL0e133e7b084af41-focus,
+div[kw].CopyLBL0e133e7b084af41-focus,
+span[kw].CopyLBL0e133e7b084af41-focus,
+p[kw].CopyLBL0e133e7b084af41-focus {
+    font: normal normal 14.1px Helvetica;
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.0);
+}
+
+.CopyLBLTOPSHADOW,
+[kw].CopyLBLTOPSHADOW-hover,
+label[kw].CopyLBLTOPSHADOW-focus,
+h1[kw].CopyLBLTOPSHADOW-focus,
+h2[kw].CopyLBLTOPSHADOW-focus,
+h3[kw].CopyLBLTOPSHADOW-focus,
+h4[kw].CopyLBLTOPSHADOW-focus,
+h5[kw].CopyLBLTOPSHADOW-focus,
+h6[kw].CopyLBLTOPSHADOW-focus,
+div[kw].CopyLBLTOPSHADOW-focus,
+span[kw].CopyLBLTOPSHADOW-focus,
+p[kw].CopyLBLTOPSHADOW-focus {
+    font: normal normal 32.0px Helvetica;
+    color: #333333;
+    background: linear-gradient(to bottom, rgba(0, 0, 255, 0.0) 0%, rgba(204, 204, 204, 0.5) 45%, #cccccc 91%);
+}
+
+.CopyTXT,
+input.CopyTXT-hover,
+input[kw].CopyTXT-focus {
+    border: 1px solid rgba(51, 51, 51, 0.4);
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    font: normal normal 14.1px Helvetica;
+    color: #363636;
+    background-color: rgba(255, 255, 255, 0.95);
+    -webkit-appearance: none;
+}
+
+input[kplaceholderskin='CopyTXT']::-webkit-input-placeholder {
+    border: 1px solid rgba(51, 51, 51, 0.4);
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    font: normal normal 14.1px Helvetica;
+    color: #363636;
+    background-color: rgba(255, 255, 255, 0.95);
+    -webkit-appearance: none;
+}
+
+input[kplaceholderskin='CopyTXT']::-moz-placeholder {
+    border: 1px solid rgba(51, 51, 51, 0.4);
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    font: normal normal 14.1px Helvetica;
+    color: #363636;
+    background-color: rgba(255, 255, 255, 0.95);
+    -webkit-appearance: none;
+}
+
+input[kplaceholderskin='CopyTXT']:-ms-input-placeholder {
+    border: 1px solid rgba(51, 51, 51, 0.4);
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    font: normal normal 14.1px Helvetica;
+    color: #363636;
+    background-color: rgba(255, 255, 255, 0.95);
+    -webkit-appearance: none;
+}
+
+.CopyTXT1,
+input.CopyTXT1-hover,
+input[kw].CopyTXT1-focus {
+    font: normal normal 14.1px Helvetica;
+    color: #999999;
+    background-color: rgba(255, 255, 255, 0.0);
+    -webkit-appearance: none;
+}
+
+input[kplaceholderskin='CopyTXT1']::-webkit-input-placeholder {
+    font: normal normal 14.1px Helvetica;
+    color: #999999;
+    background-color: rgba(255, 255, 255, 0.0);
+    -webkit-appearance: none;
+}
+
+input[kplaceholderskin='CopyTXT1']::-moz-placeholder {
+    font: normal normal 14.1px Helvetica;
+    color: #999999;
+    background-color: rgba(255, 255, 255, 0.0);
+    -webkit-appearance: none;
+}
+
+input[kplaceholderskin='CopyTXT1']:-ms-input-placeholder {
+    font: normal normal 14.1px Helvetica;
+    color: #999999;
+    background-color: rgba(255, 255, 255, 0.0);
+    -webkit-appearance: none;
+}
+
+.CopydefLabel0c3e8410402dc46,
+[kw].CopydefLabel0c3e8410402dc46-hover,
+label[kw].CopydefLabel0c3e8410402dc46-focus,
+h1[kw].CopydefLabel0c3e8410402dc46-focus,
+h2[kw].CopydefLabel0c3e8410402dc46-focus,
+h3[kw].CopydefLabel0c3e8410402dc46-focus,
+h4[kw].CopydefLabel0c3e8410402dc46-focus,
+h5[kw].CopydefLabel0c3e8410402dc46-focus,
+h6[kw].CopydefLabel0c3e8410402dc46-focus,
+div[kw].CopydefLabel0c3e8410402dc46-focus,
+span[kw].CopydefLabel0c3e8410402dc46-focus,
+p[kw].CopydefLabel0c3e8410402dc46-focus {
+    font: normal normal 12.0px Helvetica;
+    color: #333333;
+    background-color: rgba(0, 0, 0, 0.0);
+}
+
+.CopydefLabel0fbd69ba14c8d4f,
+[kw].CopydefLabel0fbd69ba14c8d4f-hover,
+label[kw].CopydefLabel0fbd69ba14c8d4f-focus,
+h1[kw].CopydefLabel0fbd69ba14c8d4f-focus,
+h2[kw].CopydefLabel0fbd69ba14c8d4f-focus,
+h3[kw].CopydefLabel0fbd69ba14c8d4f-focus,
+h4[kw].CopydefLabel0fbd69ba14c8d4f-focus,
+h5[kw].CopydefLabel0fbd69ba14c8d4f-focus,
+h6[kw].CopydefLabel0fbd69ba14c8d4f-focus,
+div[kw].CopydefLabel0fbd69ba14c8d4f-focus,
+span[kw].CopydefLabel0fbd69ba14c8d4f-focus,
+p[kw].CopydefLabel0fbd69ba14c8d4f-focus {
+    font: normal normal 35.0px Helvetica;
+    color: #333333;
+    background-color: rgba(0, 0, 0, 0.0);
+}
+
+.CopydefLabel0h1461925391e41,
+[kw].CopydefLabel0h1461925391e41-hover,
+label[kw].CopydefLabel0h1461925391e41-focus,
+h1[kw].CopydefLabel0h1461925391e41-focus,
+h2[kw].CopydefLabel0h1461925391e41-focus,
+h3[kw].CopydefLabel0h1461925391e41-focus,
+h4[kw].CopydefLabel0h1461925391e41-focus,
+h5[kw].CopydefLabel0h1461925391e41-focus,
+h6[kw].CopydefLabel0h1461925391e41-focus,
+div[kw].CopydefLabel0h1461925391e41-focus,
+span[kw].CopydefLabel0h1461925391e41-focus,
+p[kw].CopydefLabel0h1461925391e41-focus {
+    font: normal 400 16.8px Helvetica;
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.0);
+}
+
+.CopyflxWhiteBg0e2c7657203174a,
+div.CopyflxWhiteBg0e2c7657203174a-hover,
+div[kw].CopyflxWhiteBg0e2c7657203174a-focus {
+    border: 5px solid #cccccc;
+    -moz-border-radius: 100px;
+    -webkit-border-radius: 100px;
+    border-radius: 100px;
+    color: #000000;
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.CopylblDeshWithImage,
+[kw].CopylblDeshWithImage-hover,
+label[kw].CopylblDeshWithImage-focus,
+h1[kw].CopylblDeshWithImage-focus,
+h2[kw].CopylblDeshWithImage-focus,
+h3[kw].CopylblDeshWithImage-focus,
+h4[kw].CopylblDeshWithImage-focus,
+h5[kw].CopylblDeshWithImage-focus,
+h6[kw].CopylblDeshWithImage-focus,
+div[kw].CopylblDeshWithImage-focus,
+span[kw].CopylblDeshWithImage-focus,
+p[kw].CopylblDeshWithImage-focus {
+    font: normal normal 12.0px Helvetica;
+    color: rgba(214, 214, 214, 0.4);
+    background-color: rgba(0, 0, 0, 0.0);
+}
+
+.CopylblDeshWithImage0afcafb61b3bb48,
+[kw].CopylblDeshWithImage0afcafb61b3bb48-hover,
+label[kw].CopylblDeshWithImage0afcafb61b3bb48-focus,
+h1[kw].CopylblDeshWithImage0afcafb61b3bb48-focus,
+h2[kw].CopylblDeshWithImage0afcafb61b3bb48-focus,
+h3[kw].CopylblDeshWithImage0afcafb61b3bb48-focus,
+h4[kw].CopylblDeshWithImage0afcafb61b3bb48-focus,
+h5[kw].CopylblDeshWithImage0afcafb61b3bb48-focus,
+h6[kw].CopylblDeshWithImage0afcafb61b3bb48-focus,
+div[kw].CopylblDeshWithImage0afcafb61b3bb48-focus,
+span[kw].CopylblDeshWithImage0afcafb61b3bb48-focus,
+p[kw].CopylblDeshWithImage0afcafb61b3bb48-focus {
+    font: normal normal 35.0px Helvetica;
+    color: rgba(51, 51, 51, 0.4);
+    background-color: rgba(0, 0, 0, 0.0);
+}
+
+.CopylblLstImg,
+[kw].CopylblLstImg-hover,
+label[kw].CopylblLstImg-focus,
+h1[kw].CopylblLstImg-focus,
+h2[kw].CopylblLstImg-focus,
+h3[kw].CopylblLstImg-focus,
+h4[kw].CopylblLstImg-focus,
+h5[kw].CopylblLstImg-focus,
+h6[kw].CopylblLstImg-focus,
+div[kw].CopylblLstImg-focus,
+span[kw].CopylblLstImg-focus,
+p[kw].CopylblLstImg-focus {
+    font: normal normal 12.0px Helvetica;
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.0);
+}
+
+.CopylblMessage1,
+[kw].CopylblMessage1-hover,
+label[kw].CopylblMessage1-focus,
+h1[kw].CopylblMessage1-focus,
+h2[kw].CopylblMessage1-focus,
+h3[kw].CopylblMessage1-focus,
+h4[kw].CopylblMessage1-focus,
+h5[kw].CopylblMessage1-focus,
+h6[kw].CopylblMessage1-focus,
+div[kw].CopylblMessage1-focus,
+span[kw].CopylblMessage1-focus,
+p[kw].CopylblMessage1-focus {
+    font: normal normal 14.1px RobotoRegular;
+    color: #494b4a;
+    background-color: rgba(0, 0, 0, 0.0);
+}
+
+.Copyseg0fdb1b2af9c6945,
+div.Copyseg0fdb1b2af9c6945-hover,
+div[kw].Copyseg0fdb1b2af9c6945-focus {
+    margin: 0px;
+    border-bottom: 0px solid #000000;
+    font: normal normal 16.0px Helvetica;
+    color: #000000;
+    list-style: none;
+    background-color: rgba(255, 255, 255, 0.0);
+}
+
+.Copyseg0fdb1b2af9c6945,
+div.Copyseg0fdb1b2af9c6945-hover,
+div[kw].Copyseg0fdb1b2af9c6945-focusgrp {
+    background-color: rgba(255, 255, 255, 0.0);
+    border: 0px solid #000000;
+    color: #000000;
+}
+
+.Copyseg0fdb1b2af9c6945,
+div.Copyseg0fdb1b2af9c6945-hover,
+div[kw].Copyseg0fdb1b2af9c6945-focuspg {
+    border: 0px solid #000000;
+}
+
+.CopyslFbox0f1ec1bba91f14a,
+div.CopyslFbox0f1ec1bba91f14a-hover,
+div[kw].CopyslFbox0f1ec1bba91f14a-focus {
+    border: 0px solid #000000;
+    color: #000000;
+    background-color: rgba(237, 85, 101, 0.9);
+}
+
+.CopyslForm0hd0898a3956744,
+div.CopyslForm0hd0898a3956744-hover,
+div[kw].CopyslForm0hd0898a3956744-focus {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.CopyslImage0ccc1f1e6f79042,
+div.CopyslImage0ccc1f1e6f79042-hover,
+div[kw].CopyslImage0ccc1f1e6f79042-focus {
+    color: #000000;
+    background-color: rgba(0, 0, 0, 0.0);
+}
+
+.CopyslImage0f955769f683241,
+div.CopyslImage0f955769f683241-hover,
+div[kw].CopyslImage0f955769f683241-focus {
+    color: #000000;
+    background-color: rgba(0, 0, 0, 0.0);
+}
+
+.CopytmpHoverskin,
+div.CopytmpHoverskin-hover,
+div[kw].CopytmpHoverskin-focus {
+    border: 0px solid #000000;
+    color: #000000;
+    background-color: rgba(77, 131, 243, 0.05);
+}
+
+.FlxToastSuccessDCFFE2,
+div.FlxToastSuccessDCFFE2-hover,
+div[kw].FlxToastSuccessDCFFE2-focus {
+    border: 3px solid #c3e2c8;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+    color: #000000;
+    background-color: rgba(220, 255, 226, 0.3);
+}
+
+.defBtnFocus,
+button.defBtnFocus-hover,
+button[kw].defBtnFocus-focus {
+    font: normal 400 24.0px iphoneSystem;
+    color: #ffffff;
+    background: #6fa0f4;
+}
+
+.defBtnNormal,
+button.defBtnNormal-hover,
+button[kw].defBtnNormal-focus {
+    font: normal 400 24.0px iphoneSystem;
+    color: #ffffff;
+    background: #4b88f1;
+}
+
+.defLabel,
+[kw].defLabel-hover,
+label[kw].defLabel-focus,
+h1[kw].defLabel-focus,
+h2[kw].defLabel-focus,
+h3[kw].defLabel-focus,
+h4[kw].defLabel-focus,
+h5[kw].defLabel-focus,
+h6[kw].defLabel-focus,
+div[kw].defLabel-focus,
+span[kw].defLabel-focus,
+p[kw].defLabel-focus {
+    font: normal 400 32.0px iphoneSystem;
+    color: #333333;
+    background-color: rgba(0, 0, 0, 0.0);
+}
+
+.defListBoxFocus,
+select.defListBoxFocus-hover,
+select[kw].defListBoxFocus-focus,
+div.defListBoxFocus-hover,
+div[kw].defListBoxFocus-focus,
+div[kw='ListBox'][kv='editableview']~ul>li.defListBoxFocus-hover {
+    border: 1px solid #4b88f1;
+    font: normal 400 17.1px iphoneSystem;
+    color: #333333;
+    background-color: #ffffff;
+}
+
+.defListBoxNormal,
+select.defListBoxNormal-hover,
+select[kw].defListBoxNormal-focus,
+div.defListBoxNormal-hover,
+div[kw].defListBoxNormal-focus,
+div[kw='ListBox'][kv='editableview']~ul>li.defListBoxNormal-hover {
+    border: 1px solid #333333;
+    font: normal 400 17.1px iphoneSystem;
+    color: #333333;
+    background-color: #ffffff;
+}
+
+div[kw="Switch"][kt="non-ios-gt6"].defSwitchNormal>div[kr="switch"],
+div[kw="Switch"][kt="ios-gt6"].defSwitchNormal>div[kr="switch"] {
+    border: 0px solid #000000;
+}
+
+div[kw="Switch"][kt="non-ios-gt6"].defSwitchNormal div[kr="left"],
+div[kw="Switch"][kt="ios-gt6"].defSwitchNormal div[kr="left"] {
+    font-family: Helvetica;
+    font-size: 25px;
+    font-weight: normal;
+    font-style: normal;
+    color: #333333;
+    background-color: #48d874;
+}
+
+div[kw="Switch"][kt="non-ios-gt6"].defSwitchNormal div[kr="right"],
+div[kw="Switch"][kt="ios-gt6"].defSwitchNormal div[kr="right"] {
+    font-family: Helvetica;
+    font-size: 25px;
+    font-weight: normal;
+    font-style: normal;
+    color: #333333;
+    background-color: rgba(255, 255, 255, 0.0);
+}
+
+.fsknlxAlert,
+div.fsknlxAlert-hover,
+div[kw].fsknlxAlert-focus {
+    border: 0px solid #000000;
+    color: #000000;
+    background-color: rgba(0, 0, 0, 0.0);
+}
+
+.lblDeshWithImage,
+[kw].lblDeshWithImage-hover,
+label[kw].lblDeshWithImage-focus,
+h1[kw].lblDeshWithImage-focus,
+h2[kw].lblDeshWithImage-focus,
+h3[kw].lblDeshWithImage-focus,
+h4[kw].lblDeshWithImage-focus,
+h5[kw].lblDeshWithImage-focus,
+h6[kw].lblDeshWithImage-focus,
+div[kw].lblDeshWithImage-focus,
+span[kw].lblDeshWithImage-focus,
+p[kw].lblDeshWithImage-focus {
+    font: normal normal 12.0px Helvetica;
+    color: rgba(51, 51, 51, 0.4);
+    background-color: rgba(0, 0, 0, 0.0);
+}
+
+.lblLstImg,
+[kw].lblLstImg-hover,
+label[kw].lblLstImg-focus,
+h1[kw].lblLstImg-focus,
+h2[kw].lblLstImg-focus,
+h3[kw].lblLstImg-focus,
+h4[kw].lblLstImg-focus,
+h5[kw].lblLstImg-focus,
+h6[kw].lblLstImg-focus,
+div[kw].lblLstImg-focus,
+span[kw].lblLstImg-focus,
+p[kw].lblLstImg-focus {
+    font: normal normal 12.0px Helvetica;
+    color: #333333;
+    background-color: rgba(0, 0, 0, 0.0);
+}
+
+.lblMessage,
+[kw].lblMessage-hover,
+label[kw].lblMessage-focus,
+h1[kw].lblMessage-focus,
+h2[kw].lblMessage-focus,
+h3[kw].lblMessage-focus,
+h4[kw].lblMessage-focus,
+h5[kw].lblMessage-focus,
+h6[kw].lblMessage-focus,
+div[kw].lblMessage-focus,
+span[kw].lblMessage-focus,
+p[kw].lblMessage-focus {
+    font: normal normal 12.0px RobotoRegular;
+    color: #494b4a;
+    background-color: rgba(0, 0, 0, 0.0);
+}
+
+.seg2Focus,
+div.seg2Focus-hover,
+div[kw].seg2Focus-focus {
+    margin: 0px;
+    border-bottom: 0px solid #000000;
+    font: normal normal 16.0px Helvetica;
+    color: #000000;
+    list-style: none;
+    background-color: rgba(0, 0, 0, 0.0);
+}
+
+.seg2Focus,
+div.seg2Focus-hover,
+div[kw].seg2Focus-focusgrp {
+    background-color: rgba(0, 0, 0, 0.0);
+    border: 0px solid #000000;
+    color: #000000;
+}
+
+.seg2Focus,
+div.seg2Focus-hover,
+div[kw].seg2Focus-focuspg {
+    border: 0px solid #000000;
+}
+
+.seg2Normal,
+div.seg2Normal-hover,
+div[kw].seg2Normal-focus {
+    margin: 0px;
+    border-bottom: 0px solid #000000;
+    font: normal normal 16.0px Helvetica;
+    color: #000000;
+    list-style: none;
+    background-color: #ffffff;
+}
+
+.seg2Normal,
+div.seg2Normal-hover,
+div[kw].seg2Normal-focusgrp {
+    background-color: #ffffff;
+    border: 0px solid #000000;
+    color: #000000;
+}
+
+.seg2Normal,
+div.seg2Normal-hover,
+div[kw].seg2Normal-focuspg {
+    border: 0px solid #000000;
+}
+
+.sknBtnFocus,
+button.sknBtnFocus-hover,
+button[kw].sknBtnFocus-focus {
+    border: 2px solid #ffffff;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+    font: normal 400 24.0px iphoneSystem;
+    color: #ffffff;
+    background: #03235c;
+}
+
+.sknFlxScrollContainer,
+div.sknFlxScrollContainer-hover,
+div[kw].sknFlxScrollContainer-focus {
+    border: 0px solid #000000;
+    color: #000000;
+    background-color: #000000;
+}
+
+.sknHeaderFooter,
+div.sknHeaderFooter-hover,
+div[kw].sknHeaderFooter-focus {
+    color: #000000;
+    background-color: rgba(6, 7, 82, 0.5);
+}
+
+.sknLabel,
+[kw].sknLabel-hover,
+label[kw].sknLabel-focus,
+h1[kw].sknLabel-focus,
+h2[kw].sknLabel-focus,
+h3[kw].sknLabel-focus,
+h4[kw].sknLabel-focus,
+h5[kw].sknLabel-focus,
+h6[kw].sknLabel-focus,
+div[kw].sknLabel-focus,
+span[kw].sknLabel-focus,
+p[kw].sknLabel-focus {
+    font: normal 400 32.0px iphoneSystem;
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.0);
+}
+
+.sknLabelBlanco,
+[kw].sknLabelBlanco-hover,
+label[kw].sknLabelBlanco-focus,
+h1[kw].sknLabelBlanco-focus,
+h2[kw].sknLabelBlanco-focus,
+h3[kw].sknLabelBlanco-focus,
+h4[kw].sknLabelBlanco-focus,
+h5[kw].sknLabelBlanco-focus,
+h6[kw].sknLabelBlanco-focus,
+div[kw].sknLabelBlanco-focus,
+span[kw].sknLabelBlanco-focus,
+p[kw].sknLabelBlanco-focus {
+    font: normal 400 32.0px iphoneSystem;
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.0);
+}
+
+.sknLblDescription,
+[kw].sknLblDescription-hover,
+label[kw].sknLblDescription-focus,
+h1[kw].sknLblDescription-focus,
+h2[kw].sknLblDescription-focus,
+h3[kw].sknLblDescription-focus,
+h4[kw].sknLblDescription-focus,
+h5[kw].sknLblDescription-focus,
+h6[kw].sknLblDescription-focus,
+div[kw].sknLblDescription-focus,
+span[kw].sknLblDescription-focus,
+p[kw].sknLblDescription-focus {
+    font: normal normal 14.7px Helvetica;
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.0);
+}
+
+.sknLblRowHeading,
+[kw].sknLblRowHeading-hover,
+label[kw].sknLblRowHeading-focus,
+h1[kw].sknLblRowHeading-focus,
+h2[kw].sknLblRowHeading-focus,
+h3[kw].sknLblRowHeading-focus,
+h4[kw].sknLblRowHeading-focus,
+h5[kw].sknLblRowHeading-focus,
+h6[kw].sknLblRowHeading-focus,
+div[kw].sknLblRowHeading-focus,
+span[kw].sknLblRowHeading-focus,
+p[kw].sknLblRowHeading-focus {
+    font: normal bold 17.1px Helvetica;
+    background-color: rgba(0, 0, 0, 0.0);
+}
+
+.sknLblStrip,
+[kw].sknLblStrip-hover,
+label[kw].sknLblStrip-focus,
+h1[kw].sknLblStrip-focus,
+h2[kw].sknLblStrip-focus,
+h3[kw].sknLblStrip-focus,
+h4[kw].sknLblStrip-focus,
+h5[kw].sknLblStrip-focus,
+h6[kw].sknLblStrip-focus,
+div[kw].sknLblStrip-focus,
+span[kw].sknLblStrip-focus,
+p[kw].sknLblStrip-focus {
+    font: normal normal 11.2px Helvetica;
+    color: #4b88f1;
+    background-color: #4b88f1;
+}
+
+.sknLblTimeStamp,
+[kw].sknLblTimeStamp-hover,
+label[kw].sknLblTimeStamp-focus,
+h1[kw].sknLblTimeStamp-focus,
+h2[kw].sknLblTimeStamp-focus,
+h3[kw].sknLblTimeStamp-focus,
+h4[kw].sknLblTimeStamp-focus,
+h5[kw].sknLblTimeStamp-focus,
+h6[kw].sknLblTimeStamp-focus,
+div[kw].sknLblTimeStamp-focus,
+span[kw].sknLblTimeStamp-focus,
+p[kw].sknLblTimeStamp-focus {
+    font: normal normal 14.7px Helvetica;
+    color: #8e8e8e;
+    background-color: rgba(0, 0, 0, 0.0);
+}
+
+.sknListBoxNormal,
+select.sknListBoxNormal-hover,
+select[kw].sknListBoxNormal-focus,
+div.sknListBoxNormal-hover,
+div[kw].sknListBoxNormal-focus,
+div[kw='ListBox'][kv='editableview']~ul>li.sknListBoxNormal-hover {
+    border: 1px solid #333333;
+    -moz-border-radius: 19px;
+    -webkit-border-radius: 19px;
+    border-radius: 19px;
+    font: normal 400 17.1px iphoneSystem;
+    color: #ffffff;
+    background-color: #313054;
+}
+
+.sknRadiusButton,
+button.sknRadiusButton-hover,
+button[kw].sknRadiusButton-focus {
+    border: 4px solid #ffffff;
+    -moz-border-radius: 25px;
+    -webkit-border-radius: 25px;
+    border-radius: 25px;
+    font: normal 400 24.0px iphoneSystem;
+    color: #ffffff;
+    background: rgba(62, 66, 74, 0.5);
+}
+
+.sknSampleRowTemplate,
+div.sknSampleRowTemplate-hover,
+div[kw].sknSampleRowTemplate-focus {
+    border: 0px solid #000000;
+    color: #000000;
+    background-color: #ffffff;
+}
+
+.sknSampleSectionHeaderTemplate,
+div.sknSampleSectionHeaderTemplate-hover,
+div[kw].sknSampleSectionHeaderTemplate-focus {
+    border: 0px solid #000000;
+    color: #000000;
+    background-color: #ffffff;
+}
+
+.sknSectionHeaderLabelSkin,
+[kw].sknSectionHeaderLabelSkin-hover,
+label[kw].sknSectionHeaderLabelSkin-focus,
+h1[kw].sknSectionHeaderLabelSkin-focus,
+h2[kw].sknSectionHeaderLabelSkin-focus,
+h3[kw].sknSectionHeaderLabelSkin-focus,
+h4[kw].sknSectionHeaderLabelSkin-focus,
+h5[kw].sknSectionHeaderLabelSkin-focus,
+h6[kw].sknSectionHeaderLabelSkin-focus,
+div[kw].sknSectionHeaderLabelSkin-focus,
+span[kw].sknSectionHeaderLabelSkin-focus,
+p[kw].sknSectionHeaderLabelSkin-focus {
+    font: normal bold 20.0px Helvetica;
+    background-color: rgba(148, 1, 148, 0.0);
+}
+
+.sknbtnNormal,
+button.sknbtnNormal-hover,
+button[kw].sknbtnNormal-focus {
+    border: 2px solid #ffffff;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+    font: normal 400 24.0px iphoneSystem;
+    color: #ffffff;
+    background: #1a2e4f;
+}
+
+.sknflxContainer,
+div.sknflxContainer-hover,
+div[kw].sknflxContainer-focus {
+    color: #000000;
+    background-color: #000000;
+}
+
+.sknlblMessage,
+[kw].sknlblMessage-hover,
+label[kw].sknlblMessage-focus,
+h1[kw].sknlblMessage-focus,
+h2[kw].sknlblMessage-focus,
+h3[kw].sknlblMessage-focus,
+h4[kw].sknlblMessage-focus,
+h5[kw].sknlblMessage-focus,
+h6[kw].sknlblMessage-focus,
+div[kw].sknlblMessage-focus,
+span[kw].sknlblMessage-focus,
+p[kw].sknlblMessage-focus {
+    font: normal normal 14.1px RobotoRegular;
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.0);
+}
+
+.slDynamicNotificationForm,
+div.slDynamicNotificationForm-hover,
+div[kw].slDynamicNotificationForm-focus {
+    font: normal normal 16.0px Helvetica;
+    color: #000000;
+    background-color: #000000;
+}
+
+.slFSbox,
+div.slFSbox-hover,
+div[kw].slFSbox-focus {
+    border: 0px solid #000000;
+    color: #000000;
+    background-color: rgba(0, 0, 0, 0.0);
+}
+
+.slFbox,
+div.slFbox-hover,
+div[kw].slFbox-focus {
+    border: 0px solid #000000;
+    color: #000000;
+    background-color: rgba(0, 0, 0, 0.0);
+}
+
+.slForm,
+div.slForm-hover,
+div[kw].slForm-focus {
+    background-color: #ffffff;
+}
+
+.slImage,
+div.slImage-hover,
+div[kw].slImage-focus {
+    border: 0px solid #000000;
+    color: #000000;
+    background-color: rgba(0, 0, 0, 0.0);
+}
+
+.slSplashiOS,
+div.slSplashiOS-hover,
+div[kw].slSplashiOS-focus {
+    background-color: #000000;
+}
+
+.slStaticNotificationForm,
+div.slStaticNotificationForm-hover,
+div[kw].slStaticNotificationForm-focus {
+    font: normal normal 16.0px Helvetica;
+    color: #000000;
+    background-color: #000000;
+}
+
+.slTitleBar,
+div.slTitleBar-hover,
+div[kw].slTitleBar-focus {
+    font: normal normal 16.0px Helvetica;
+    color: #333333;
+    background-color: #ffffff;
+}
+
+.slWatchForm,
+div.slWatchForm-hover,
+div[kw].slWatchForm-focus {
+    background-color: #000000;
+}
+
+.sliPhoneSegmentHeader,
+div.sliPhoneSegmentHeader-hover,
+div[kw].sliPhoneSegmentHeader-focus {
+    margin: 0px;
+    border-bottom: 0px solid #000000;
+    font: normal normal 16.0px Helvetica;
+    color: #000000;
+    list-style: none;
+    background-color: #a7a7a7;
+}
+
+.sliPhoneSegmentHeader,
+div.sliPhoneSegmentHeader-hover,
+div[kw].sliPhoneSegmentHeader-focusgrp {
+    background-color: #a7a7a7;
+    border: 0px solid #000000;
+    color: #000000;
+}
+
+.sliPhoneSegmentHeader,
+div.sliPhoneSegmentHeader-hover,
+div[kw].sliPhoneSegmentHeader-focuspg {
+    border: 0px solid #000000;
+}
+
+.tmpHoverskin,
+div.tmpHoverskin-hover,
+div[kw].tmpHoverskin-focus {
+    border: 0px solid #000000;
+    color: #000000;
+    background-color: rgba(77, 131, 243, 0.05);
+}

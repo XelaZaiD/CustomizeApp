@@ -1,0 +1,86 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "40%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sd0eaa7c10d3439288f518aab25f4471",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "ListWithImageCopy": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "e5e4acdd5dcf4d098f1e71f2b5b887e5",
+                "srcKUID": "u99a3269e44b4b4cb0a502da53ae2677",
+                "wType": "FlexScrollContainer"
+            },
+            "responsiveData": {},
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "10dp"
+                }
+            }
+        },
+        "Segment0ad70db6f382f46": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ff593d80139e4267a2a8ddebff77ac8c",
+                "srcKUID": "u743dfe9822b4f9c9ff494d57db55d02",
+                "wType": "Segment"
+            }
+        }
+    },
+    "enablescrolling": true,
+    "id": "ListWithImageCopy",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "e5e4acdd5dcf4d098f1e71f2b5b887e5",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "FlexScrollContainer",
+    "pf": "Form1",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "scrolldirection": 2,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "u99a3269e44b4b4cb0a502da53ae2677",
+    "wType": "UserWidgetInstance"
+}

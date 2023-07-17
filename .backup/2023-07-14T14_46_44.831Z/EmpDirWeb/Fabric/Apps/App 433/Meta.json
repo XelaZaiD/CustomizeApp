@@ -1,0 +1,11 @@
+{
+  "subType" : "customapp",
+  "description" : "EmpDirWeb\r\n",
+  "version" : "1.0",
+  "objectSvcs" : [ {
+    "name" : "EmployeeServices",
+    "version" : "1.0",
+    "etag" : "8c4ed1a2-f320-429a-89be-46ad6d24d75f"
+  } ],
+  "identity" : [ "MicrosoftActiveDirectory" ]
+}

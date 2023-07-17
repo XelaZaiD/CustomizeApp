@@ -1,0 +1,25 @@
+{
+    "desktopweb": {
+        "formslist": {
+            "mvcFormObjects": [
+                "Form1"
+            ],
+            "nonmvcFormObjects": []
+        },
+        "templatesList": {
+            "mvcTemplateObjects": [
+                "com.konymp.ListWithImage",
+                "com.konymp.ListWithImageCopy",
+                "com.konymp.Login",
+                "comm.konymp.ToastAlert",
+                "comm.konymp.ToastError",
+                "comm.konymp.ToastSuccess",
+                "CopytmpListWithImage1",
+                "SampleRowTemplate",
+                "SampleSectionHeaderTemplate",
+                "tmpListWithImage"
+            ],
+            "nonmvcTemplateObjects": []
+        }
+    }
+}

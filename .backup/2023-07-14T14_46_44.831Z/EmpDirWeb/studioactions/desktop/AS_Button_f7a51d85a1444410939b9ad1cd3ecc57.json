@@ -1,0 +1,34 @@
+{
+    "AS_Button_f7a51d85a1444410939b9ad1cd3ecc57": {
+        "id": "AS_Button_f7a51d85a1444410939b9ad1cd3ecc57",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmListDetails",
+            "type": "forms",
+            "platform": null,
+            "KUID": "fff1be78fdf94c1c80400d1621dfacff"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SET_FORM_WIDGET_PROPERTY_Untitled___gce787b25f34428abdbeae4ca69e1576",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "frmListDetails",
+            "widgetId": "detailContainer",
+            "propertyName": "isVisible",
+            "propertyValue": "false",
+            "itemKUID": "fff1be78fdf94c1c80400d1621dfacff",
+            "widgetKUID": "e20dbedcca5a496ab00fe4793bf9b567",
+            "isSkinProperty": false,
+            "wType": "FlexScrollContainer",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null,
+            "widgetPath": "this.view.detailContainer"
+        }]
+    }
+}

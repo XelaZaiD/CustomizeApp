@@ -1,0 +1,107 @@
+{
+    "controllerTemplateInfoMapping": {
+        "desktopweb": {
+            "FBox0ef65618e166341Controller_desktop": [
+                "FBox0ef65618e166341Controller"
+            ],
+            "flxSampleRowTemplateController_desktop": [
+                "flxSampleRowTemplateController"
+            ],
+            "flxSectionHeaderTemplateController_desktop": [
+                "flxSectionHeaderTemplateController"
+            ]
+        }
+    },
+    "controllerformInfoMapping": {
+        "desktopweb": {
+            "frmListDetailsController_desktop": [
+                "frmListDetailsController"
+            ],
+            "frmLoginController_desktop": [
+                "frmLoginController"
+            ]
+        }
+    },
+    "formControllerInfoMapping": {
+        "desktopweb": {
+            "frmListDetails": {
+                "controllerActionDir": "frmListDetailsController",
+                "controllerChannel": "desktop",
+                "controllerName": "frmListDetailsController"
+            },
+            "frmLogin": {
+                "controllerActionDir": "frmLoginController",
+                "controllerChannel": "desktop",
+                "controllerName": "frmLoginController"
+            }
+        }
+    },
+    "formsifcMapping": {
+        "desktopweb": {
+            "frmListDetails": {
+                "appName": "EmpDirWeb",
+                "controllerInfo": {
+                    "controllerActionName": "frmListDetailsController",
+                    "controllerChannel": "desktop",
+                    "controllerName": "frmListDetailsController"
+                },
+                "enableModelDriven": false,
+                "friendlyName": "frmListDetails"
+            },
+            "frmLogin": {
+                "appName": "EmpDirWeb",
+                "controllerInfo": {
+                    "controllerActionName": "frmLoginController",
+                    "controllerChannel": "desktop",
+                    "controllerName": "frmLoginController"
+                },
+                "enableModelDriven": false,
+                "friendlyName": "frmLogin"
+            }
+        }
+    },
+    "templateControllerInfoMapping": {
+        "desktopweb": {
+            "FBox0ef65618e166341": {
+                "controllerActionDir": "FBox0ef65618e166341Controller",
+                "controllerChannel": "desktop",
+                "controllerName": "FBox0ef65618e166341Controller"
+            },
+            "SampleRowTemplate": {
+                "controllerActionDir": "flxSampleRowTemplateController",
+                "controllerChannel": "desktop",
+                "controllerName": "flxSampleRowTemplateController"
+            },
+            "SampleSectionHeaderTemplate": {
+                "controllerActionDir": "flxSectionHeaderTemplateController",
+                "controllerChannel": "desktop",
+                "controllerName": "flxSectionHeaderTemplateController"
+            }
+        }
+    },
+    "templatesifcMapping": {
+        "desktopweb": {
+            "flxSampleRowTemplate": {
+                "appName": "EmpDirWeb",
+                "controllerInfo": {
+                    "controllerActionName": "flxSampleRowTemplateController",
+                    "controllerChannel": "desktop",
+                    "controllerName": "flxSampleRowTemplateController"
+                },
+                "friendlyName": "flxSampleRowTemplate",
+                "templateId": "flxSampleRowTemplate"
+            },
+            "flxSectionHeaderTemplate": {
+                "appName": "EmpDirWeb",
+                "controllerInfo": {
+                    "controllerActionName": "flxSectionHeaderTemplateController",
+                    "controllerChannel": "desktop",
+                    "controllerName": "flxSectionHeaderTemplateController"
+                },
+                "friendlyName": "flxSectionHeaderTemplate",
+                "templateId": "flxSectionHeaderTemplate"
+            }
+        }
+    },
+    "userwidgetsifcMapping": {}
+}

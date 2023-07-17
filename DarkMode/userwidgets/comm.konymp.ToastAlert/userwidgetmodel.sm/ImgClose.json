@@ -1,0 +1,77 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "12dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "1.40%"
+    },
+    "_skin_": "s1dfcafd382a45d1b190fec5cd3794d4",
+    "_src_": "cross_1_1_1.png",
+    "_width_": {
+        "type": "string",
+        "value": "12dp"
+    },
+    "android": {
+        "right": {
+            "type": "string",
+            "value": "10dp"
+        }
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "id": "ImgClose",
+    "ide_onTouchStart": "AS_Image_a5a32d27d8b24d1aacad0422513b0ff5",
+    "imagescalemode": 1,
+    "info": null,
+    "iphone": {
+        "right": {
+            "type": "string",
+            "value": "10dp"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "u6e646fe579e49518b5a993cf33c39ce",
+    "name": "kony.ui.Image2",
+    "parent": "ToastAlert",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "spaan": {
+        "right": {
+            "type": "string",
+            "value": "10dp"
+        }
+    },
+    "spaip": {
+        "right": {
+            "type": "string",
+            "value": "10dp"
+        }
+    },
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

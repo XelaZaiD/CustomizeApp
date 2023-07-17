@@ -1,0 +1,276 @@
+{
+    "idToKuidMapping": {
+        "androidwear": {},
+        "desktop": {
+            "FBox0ef65618e166341": "a839bc8bfdb1425399fabce0af9a2963",
+            "SampleRowTemplate": "h8becde55e1b4397b8e92f20676268a4",
+            "SampleSectionHeaderTemplate": "fea6f634e6c949d693bbbc1d542ba7d1",
+            "frmListDetails": "fff1be78fdf94c1c80400d1621dfacff",
+            "frmLogin": "c91bfe328ad94f3983841ab1046725df"
+        },
+        "masters": {},
+        "mobile": {},
+        "skins": {
+            "CopydefBtnNormal0hf82e56bdb8743": "sb2281dc29db4c0188e76a162ccd2da8",
+            "CopydefLabel0a0bbe7f462be42": "sd3d90663182473f9763a59a3edfee9b",
+            "CopydefLabel0a895e86236594f": "sdc0234dc91d44e3a51a9645f796fb02",
+            "CopydefLabel0a9b9d0b4a87841": "s715e463923b475492ed8f30b1b793fb",
+            "CopydefLabel0aa777a08868945": "sbf8806e72ce4fc294c07050be719588",
+            "CopydefLabel0e117a4d247624b": "s3684666ce1b4e2cb15c0f0cbfccb74b",
+            "CopydefLabel0f85b3c01ab6240": "s837890898e9462ea0538d05d911ef27",
+            "CopydefLabel0f96982f765a247": "sc0f0751eb6a4723b0bdf771374359b6",
+            "CopydefLabel0h6d6fa430c5346": "sac69aea5b244b03bb91c1c57f80b601",
+            "CopydefLabel0i0fcd4db0e2d44": "s74fe7a9641e4e21912b20f0ca065918",
+            "CopydefLabel0j084b89bfd3446": "s9598afbc3744cb4846c06b6257f8bc2",
+            "CopydefLabel0jab90b0fff5748": "sbc5d1e1e21d4ca68c2d30e0cb40deb0",
+            "CopydefTextBoxNormal0e0037a5ab7684c": "s4e6f5615c8e43379d14e9aeb2266633",
+            "CopydefTextBoxPlaceholder0ba9a1ade33fa48": "s1aaddf08ca14130ba04b92c81d092e0",
+            "CopydefTextBoxPlaceholder0eb6d9522d9604e": "s560b895450f44e094d7fd0d5a0bedb4",
+            "CopydetailContainerSkin0a13df98e16e140": "s50381c3a8ec4f6082eea858f80d8d1d",
+            "Copyseg0f4fd1b37c27642": "s30808691a9f42b18f4745f2475ba599",
+            "CopyslFbox0f1285b7c95524b": "s79e38f7b1ef46d695686bf9fd32206e",
+            "blueButtonSkin0d4000cd2ae1b47": "sd12a8775c614854b3437892fb59b299",
+            "blueButtonSkinFocus0i657d7bec22147": "s66d54d8fd214418af6b78b69df07226",
+            "defLabel0d32d73ceb7b749": "s73602972652425a9992ed67d6b3c666",
+            "headerButtonSkin0ed30805f52da4e": "s9551e30356f4b4baa65ca71d592e1c4",
+            "loginFieldSkin0ea3f8c58621e49": "s0ac9845f12548b18801c955c5d35f28",
+            "loginFieldSkinFocus0j61c4060ce7d4f": "sa47d6356a044145826c389533e9217a",
+            "s0ac9845f12548b18801c955c5d35f28": "s37f9162fc14445ca4dd119e4dffb597",
+            "s0b37a1b755b4b009596468ddb4a59ad": "saf84f30efed48a18ae35aebb46e3fdb",
+            "s0e86ee22e3c4066aa8d212a7604edac": "s9bad18c29004d73b9a2ceec36ef1e65",
+            "s1c7bf83c3fd4fdeb7f8173ff4c74312": "s1e8be0369c041eb8cf7957a04abc2db",
+            "s2f41a84d44041cab8d826f34ffd00a4": "se6a4d515c494278a05c08734fafcd94",
+            "s30808691a9f42b18f4745f2475ba599": "s24519089fed43e89b3842bf0fa1211a",
+            "s3684666ce1b4e2cb15c0f0cbfccb74b": "sad63047ae2f484bb6848e4d3247c177",
+            "s391674bfaee4019b7685fbeb8563c46": "see33cf6abff45feb13d2e2629ca3712",
+            "s4e6f5615c8e43379d14e9aeb2266633": "sf54354ac7eb4e878fee51ebdf417a04",
+            "s50381c3a8ec4f6082eea858f80d8d1d": "se764e089eb14170a052b35eda6c02c4",
+            "s66d54d8fd214418af6b78b69df07226": "s07111f180674df39971253298fcbf6e",
+            "s6dabf7df7864a9c813a161ba820ae90": "sa22e0814ee34dacb73daab9316418b8",
+            "s715e463923b475492ed8f30b1b793fb": "se47fd33ee7344a792b10faaaf4b8156",
+            "s73602972652425a9992ed67d6b3c666": "sc0bc1fa530f45b3b5c270735ea24a53",
+            "s74fe7a9641e4e21912b20f0ca065918": "s1f3e6d16af545ae8414f0af1a5102cd",
+            "s79e38f7b1ef46d695686bf9fd32206e": "sf8ef3e8a4824f41a782bfafa99e8d79",
+            "s837890898e9462ea0538d05d911ef27": "scb08a5284e74cd58955aa8996fe107f",
+            "s885175750ad4aadb8eb8e212e60e631": "s20b6b6c35094ad39dd5db946d54a2a6",
+            "s9157b99890d465bad3e49792d1c0145": "s3b4eba7b820423ca7014fcb1c698e13",
+            "s9551e30356f4b4baa65ca71d592e1c4": "s04484ecb0c74e288d3976a71bb326ec",
+            "s9598afbc3744cb4846c06b6257f8bc2": "s720c453bc764645839194bcce1d35e1",
+            "s95d07839b024e99ba223917c16d5bf1": "sccb3201f24c49be8458943d5f4906af",
+            "s9e5b88f4628410d9fbdb5cdc2e49a4c": "s16cc3e3ecb54dfc8a55d7cecc2a523c",
+            "sa47d6356a044145826c389533e9217a": "sf59cc8a7f154dd594551835c30462eb",
+            "sac69aea5b244b03bb91c1c57f80b601": "sfa993a5ce3d4f4aac999015ccb3c378",
+            "sb2281dc29db4c0188e76a162ccd2da8": "s03a46b7d61a49ef8e2f738f75930bf0",
+            "sbc5d1e1e21d4ca68c2d30e0cb40deb0": "s7fffb46415447e1aea3b2c00f58d9c3",
+            "sbf8806e72ce4fc294c07050be719588": "sa939db7e10d4828997470d4fe2ab8b1",
+            "sc0f0751eb6a4723b0bdf771374359b6": "sf84b7d1407c4d769ce40723f7b41971",
+            "sd12610ea56e442898f2e075a44e8725": "s7f02cd7329b44e395f38adb9ea6220d",
+            "sd12a8775c614854b3437892fb59b299": "s14e401ff1204b228f3ea76b399a8a19",
+            "sd3d90663182473f9763a59a3edfee9b": "s932a2643b6d4be0a8fc702105861b4b",
+            "sdc0234dc91d44e3a51a9645f796fb02": "s9c9d482a36044d99389d0e7c6c219d9",
+            "seg0a39b82eb568144": "s1c7bf83c3fd4fdeb7f8173ff4c74312",
+            "sepLineSkin0a34a34d9be474f": "s6dabf7df7864a9c813a161ba820ae90",
+            "sepLineSkin0hba627e175be4e": "s95d07839b024e99ba223917c16d5bf1",
+            "sknLblDescription": "s75d38934ca74897bc99c5b4270ed150",
+            "sknLblRowHeading": "s839edbfa0714c62a0314f8d7923e117",
+            "sknLblStrip": "s1cb82c103854acb9a9622460be47c1c",
+            "sknLblTimeStamp": "s72f5d68abba4a29b414595cf0a6ace2",
+            "sknSampleRowTemplate": "sa985589b985438bba0a1c07e6f12e6c",
+            "sknSampleSectionHeaderTemplate": "sb5e98ba4b4c4c5e9038898a1e105516",
+            "sknSectionHeaderLabelSkin": "s85293082d58458cb5d164490b05d315",
+            "slDynamicNotificationForm": "s31378b8f88e4eea9981b981ebeddc4d",
+            "slFbox": "s19b7e33f8cf416c9bd34bb937905fe6",
+            "slFbox0b1a5ece8806245": "s391674bfaee4019b7685fbeb8563c46",
+            "slFbox0d637e0536e5447": "s9e5b88f4628410d9fbdb5cdc2e49a4c",
+            "slForm": "s4dc2cc688c548729ad95b10caea9abb",
+            "slImage0a47cda185d6d4d": "s0b37a1b755b4b009596468ddb4a59ad",
+            "slImage0gb816969cc064b": "s9157b99890d465bad3e49792d1c0145",
+            "slStaticNotificationForm": "s545eb970fb748a0835968521f8f15cc",
+            "slTitleBar": "sf896a2344a74a068916b32cd6619e8d",
+            "slWatchForm": "s328b2763bf049f79e06bdb73718f334",
+            "sliPhoneSegmentHeader0ddaa5d93e0714d": "sd12610ea56e442898f2e075a44e8725",
+            "whiteContainerSkin0ec6b7298696248": "s885175750ad4aadb8eb8e212e60e631",
+            "whiteContainerSkin0ffc107abfdd44c": "s0e86ee22e3c4066aa8d212a7604edac"
+        },
+        "tablet": {},
+        "userwidgets": {}
+    },
+    "kuidDependencyMap": {
+        "a839bc8bfdb1425399fabce0af9a2963": [
+            "fff1be78fdf94c1c80400d1621dfacff"
+        ],
+        "s0ac9845f12548b18801c955c5d35f28": [
+            "c91bfe328ad94f3983841ab1046725df"
+        ],
+        "s0b37a1b755b4b009596468ddb4a59ad": [
+            "c91bfe328ad94f3983841ab1046725df"
+        ],
+        "s0e86ee22e3c4066aa8d212a7604edac": [
+            "fff1be78fdf94c1c80400d1621dfacff"
+        ],
+        "s1aaddf08ca14130ba04b92c81d092e0": [
+            "c91bfe328ad94f3983841ab1046725df"
+        ],
+        "s1c7bf83c3fd4fdeb7f8173ff4c74312": [
+            "fff1be78fdf94c1c80400d1621dfacff"
+        ],
+        "s1cb82c103854acb9a9622460be47c1c": [
+            "h8becde55e1b4397b8e92f20676268a4"
+        ],
+        "s30808691a9f42b18f4745f2475ba599": [
+            "fff1be78fdf94c1c80400d1621dfacff"
+        ],
+        "s3684666ce1b4e2cb15c0f0cbfccb74b": [
+            "a839bc8bfdb1425399fabce0af9a2963"
+        ],
+        "s391674bfaee4019b7685fbeb8563c46": [
+            "fff1be78fdf94c1c80400d1621dfacff"
+        ],
+        "s4dc2cc688c548729ad95b10caea9abb": [
+            "fff1be78fdf94c1c80400d1621dfacff",
+            "c91bfe328ad94f3983841ab1046725df"
+        ],
+        "s4e6f5615c8e43379d14e9aeb2266633": [
+            "c91bfe328ad94f3983841ab1046725df"
+        ],
+        "s50381c3a8ec4f6082eea858f80d8d1d": [
+            "fff1be78fdf94c1c80400d1621dfacff"
+        ],
+        "s66d54d8fd214418af6b78b69df07226": [
+            "c91bfe328ad94f3983841ab1046725df"
+        ],
+        "s6dabf7df7864a9c813a161ba820ae90": [
+            "c91bfe328ad94f3983841ab1046725df"
+        ],
+        "s715e463923b475492ed8f30b1b793fb": [
+            "a839bc8bfdb1425399fabce0af9a2963"
+        ],
+        "s72f5d68abba4a29b414595cf0a6ace2": [
+            "h8becde55e1b4397b8e92f20676268a4"
+        ],
+        "s73602972652425a9992ed67d6b3c666": [
+            "a839bc8bfdb1425399fabce0af9a2963"
+        ],
+        "s74fe7a9641e4e21912b20f0ca065918": [
+            "fff1be78fdf94c1c80400d1621dfacff"
+        ],
+        "s75d38934ca74897bc99c5b4270ed150": [
+            "h8becde55e1b4397b8e92f20676268a4"
+        ],
+        "s79e38f7b1ef46d695686bf9fd32206e": [
+            "fff1be78fdf94c1c80400d1621dfacff"
+        ],
+        "s837890898e9462ea0538d05d911ef27": [
+            "fff1be78fdf94c1c80400d1621dfacff"
+        ],
+        "s839edbfa0714c62a0314f8d7923e117": [
+            "h8becde55e1b4397b8e92f20676268a4"
+        ],
+        "s85293082d58458cb5d164490b05d315": [
+            "fea6f634e6c949d693bbbc1d542ba7d1"
+        ],
+        "s885175750ad4aadb8eb8e212e60e631": [
+            "c91bfe328ad94f3983841ab1046725df"
+        ],
+        "s9157b99890d465bad3e49792d1c0145": [
+            "a839bc8bfdb1425399fabce0af9a2963",
+            "fff1be78fdf94c1c80400d1621dfacff"
+        ],
+        "s9551e30356f4b4baa65ca71d592e1c4": [
+            "fff1be78fdf94c1c80400d1621dfacff"
+        ],
+        "s9598afbc3744cb4846c06b6257f8bc2": [
+            "c91bfe328ad94f3983841ab1046725df"
+        ],
+        "s95d07839b024e99ba223917c16d5bf1": [
+            "fff1be78fdf94c1c80400d1621dfacff"
+        ],
+        "s9e5b88f4628410d9fbdb5cdc2e49a4c": [
+            "c91bfe328ad94f3983841ab1046725df"
+        ],
+        "sa47d6356a044145826c389533e9217a": [
+            "c91bfe328ad94f3983841ab1046725df"
+        ],
+        "sa985589b985438bba0a1c07e6f12e6c": [
+            "h8becde55e1b4397b8e92f20676268a4"
+        ],
+        "sac69aea5b244b03bb91c1c57f80b601": [
+            "fff1be78fdf94c1c80400d1621dfacff"
+        ],
+        "sb2281dc29db4c0188e76a162ccd2da8": [
+            "fff1be78fdf94c1c80400d1621dfacff"
+        ],
+        "sb5e98ba4b4c4c5e9038898a1e105516": [
+            "fea6f634e6c949d693bbbc1d542ba7d1"
+        ],
+        "sbc5d1e1e21d4ca68c2d30e0cb40deb0": [
+            "a839bc8bfdb1425399fabce0af9a2963"
+        ],
+        "sbf8806e72ce4fc294c07050be719588": [
+            "fff1be78fdf94c1c80400d1621dfacff"
+        ],
+        "sc0f0751eb6a4723b0bdf771374359b6": [
+            "fff1be78fdf94c1c80400d1621dfacff"
+        ],
+        "sd12610ea56e442898f2e075a44e8725": [
+            "fff1be78fdf94c1c80400d1621dfacff"
+        ],
+        "sd12a8775c614854b3437892fb59b299": [
+            "c91bfe328ad94f3983841ab1046725df"
+        ],
+        "sd3d90663182473f9763a59a3edfee9b": [
+            "c91bfe328ad94f3983841ab1046725df"
+        ],
+        "sdc0234dc91d44e3a51a9645f796fb02": [
+            "a839bc8bfdb1425399fabce0af9a2963"
+        ]
+    },
+    "kuidInfo": {
+        "androidwear": {},
+        "desktop": {
+            "a839bc8bfdb1425399fabce0af9a2963": {
+                "appName": "EmpDirWeb",
+                "id": "FBox0ef65618e166341",
+                "templateType": "segments",
+                "topFlexId": "FBox0ef65618e166341"
+            },
+            "c91bfe328ad94f3983841ab1046725df": {
+                "appName": "EmpDirWeb",
+                "id": "frmLogin",
+                "relFormId": "frmLogin",
+                "templateType": "forms",
+                "widgetInfo": {
+                    "mapWgtPltfrms": [],
+                    "videoWgtPltfrms": []
+                }
+            },
+            "fea6f634e6c949d693bbbc1d542ba7d1": {
+                "appName": "EmpDirWeb",
+                "id": "SampleSectionHeaderTemplate",
+                "templateType": "segments",
+                "topFlexId": "flxSectionHeaderTemplate"
+            },
+            "fff1be78fdf94c1c80400d1621dfacff": {
+                "appName": "EmpDirWeb",
+                "id": "frmListDetails",
+                "relFormId": "frmListDetails",
+                "templateType": "forms",
+                "widgetInfo": {
+                    "mapWgtPltfrms": [],
+                    "videoWgtPltfrms": []
+                }
+            },
+            "h8becde55e1b4397b8e92f20676268a4": {
+                "appName": "EmpDirWeb",
+                "id": "SampleRowTemplate",
+                "templateType": "segments",
+                "topFlexId": "flxSampleRowTemplate"
+            }
+        },
+        "masters": {},
+        "mobile": {},
+        "tablet": {},
+        "userwidgets": {}
+    },
+    "userWidgetsKuidToIdMap": {}
+}

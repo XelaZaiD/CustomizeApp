@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_skin_": "s9551e30356f4b4baa65ca71d592e1c4",
+    "_text_": "Button",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "56dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": false,
+    "focusskin": "s9551e30356f4b4baa65ca71d592e1c4",
+    "id": "detailsPrevButton",
+    "ide_onClick": "AS_Button_f7a51d85a1444410939b9ad1cd3ecc57",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ac94a1a90a454ada85d77ae0abaddddd",
+    "name": "kony.ui.Button",
+    "parent": "detailsHeader",
+    "pf": "frmListDetails",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

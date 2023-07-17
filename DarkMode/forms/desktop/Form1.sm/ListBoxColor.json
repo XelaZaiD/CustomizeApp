@@ -1,0 +1,94 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "75dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Please Select",
+    "_skin_": "s5203eee00854176b8f86579f9f9d632",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "desktopweb": {
+        "psp": {
+            "multiple": false
+        }
+    },
+    "focusskin": "sdb3137e781c4b3fb96474a9f5b29d12",
+    "groupcells": false,
+    "id": "ListBoxColor",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": false,
+    "kiosk": {
+        "psp": {
+            "placeholder": "Elige tu color",
+            "toolTip": "Elige tu color"
+        }
+    },
+    "kuid": "e976c86d58c74b3e9a8aaf12e474dd89",
+    "masterdata": [
+        [
+            "0",
+            "Elige tu color"
+        ],
+        [
+            "1",
+            "Rojo"
+        ],
+        [
+            "2",
+            "Morado"
+        ]
+    ],
+    "multiselect": false,
+    "name": "kony.ui.ListBox",
+    "parent": "flxHeader",
+    "pf": "Form1",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkey": "0",
+    "selectedkeys": null,
+    "selectedkeyvalue": [
+        "0",
+        "Elige tu color"
+    ],
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox"
+}

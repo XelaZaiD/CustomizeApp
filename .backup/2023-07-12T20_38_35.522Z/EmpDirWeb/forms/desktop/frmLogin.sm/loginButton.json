@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_skin_": "sd12a8775c614854b3437892fb59b299",
+    "_text_": "Login",
+    "_top_": {
+        "type": "string",
+        "value": "37dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s66d54d8fd214418af6b78b69df07226",
+    "id": "loginButton",
+    "ide_onClick": "AS_Button_d071b6ade3194551958d887767b0fab9",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "e385414c89384523af9d0cf1b125eba8",
+    "name": "kony.ui.Button",
+    "parent": "paddingContainer",
+    "pf": "frmLogin",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

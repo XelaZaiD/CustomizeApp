@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "123dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "100dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s0b37a1b755b4b009596468ddb4a59ad",
+    "_src_": "logo.png",
+    "_top_": {
+        "type": "string",
+        "value": "197dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "123dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerweight": 100,
+    "id": "companyLogoImage",
+    "imagescalemode": 1,
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ece16dc987da4e61ae946b8013736e69",
+    "name": "kony.ui.Image2",
+    "parent": "paddingContainer",
+    "pf": "frmLogin",
+    "responsiveData": {
+        "b3": {
+            "top": {
+                "type": "string",
+                "value": "37dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

@@ -1,0 +1,312 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_data_": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "04",
+    "desktop": {
+        "_data_": [
+            {
+                "Image0a40818b994e949": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "list1_1.png"
+                },
+                "lblDepartmnt": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Apps UI/UX"
+                },
+                "lblDesignation": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "UX Designer"
+                },
+                "lblEmail": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "john.smith@kony.com"
+                },
+                "lblName": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "John Smith"
+                },
+                "lblPhone": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "+1 9988776655"
+                }
+            },
+            {
+                "Image0a40818b994e949": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "list6_1.png"
+                },
+                "lblDepartmnt": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Product Management"
+                },
+                "lblDesignation": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Software Development Engineer"
+                },
+                "lblEmail": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "clay.johns@kony.com"
+                },
+                "lblName": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Clay Johns"
+                },
+                "lblPhone": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "+1 8877665544"
+                }
+            },
+            {
+                "Image0a40818b994e949": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "list3_1.png"
+                },
+                "lblDepartmnt": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Human Resorces"
+                },
+                "lblDesignation": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Technical Lead"
+                },
+                "lblEmail": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "abbey.abelson@kony.com"
+                },
+                "lblName": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Abbey Abelson"
+                },
+                "lblPhone": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "+1 9998887776"
+                }
+            },
+            {
+                "Image0a40818b994e949": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "list4_1.png"
+                },
+                "lblDepartmnt": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Platform UI"
+                },
+                "lblDesignation": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Senior Manager"
+                },
+                "lblEmail": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "john.deo@kony.com"
+                },
+                "lblName": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "John Doe"
+                },
+                "lblPhone": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "+1 9999988888"
+                }
+            },
+            {
+                "Image0a40818b994e949": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "list5_1.png"
+                },
+                "lblDepartmnt": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Client Support"
+                },
+                "lblDesignation": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Software Development Engineer"
+                },
+                "lblEmail": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "william.harris@kony.com"
+                },
+                "lblName": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "William Harris"
+                },
+                "lblPhone": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "+1 9876543210"
+                }
+            }
+        ],
+        "rowTemplateId": "g8b4650f6ffe446c96510a356c78835e",
+        "rowtemplate": "CopyflxListWithImg",
+        "widgetdatamap": {
+            "CopyCopyflxListWithImg": "CopyCopyflxListWithImg",
+            "CopyflxListWithImg": "CopyflxListWithImg",
+            "Image0a40818b994e949": "Image0a40818b994e949",
+            "lblDepartmnt": "lblDepartmnt",
+            "lblDesignation": "lblDesignation",
+            "lblEmail": "lblEmail",
+            "lblName": "lblName",
+            "lblPhone": "lblPhone"
+        }
+    },
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "Segment0ad70db6f382f46",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "u743dfe9822b4f9c9ff494d57db55d02",
+    "masterdata": {},
+    "mobile": {
+        "_data_": [
+            {
+                "Image0a40818b994e949": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "list1_1.png"
+                },
+                "lblDesignation": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "UX Designer"
+                },
+                "lblName": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "John Smith"
+                }
+            },
+            {
+                "Image0a40818b994e949": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "list1_1.png"
+                },
+                "lblDesignation": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "UX Designer"
+                },
+                "lblName": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "John Smith"
+                }
+            },
+            {
+                "Image0a40818b994e949": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "list1_1.png"
+                },
+                "lblDesignation": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "UX Designer"
+                },
+                "lblName": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "John Smith"
+                }
+            }
+        ],
+        "rowTemplateId": "f6b59164ae4e4ca6a6b4ef1d153d7013",
+        "rowtemplate": "CopyCopyflxListWithImg",
+        "widgetdatamap": {
+            "CopyCopyflxListWithImg": "CopyCopyflxListWithImg",
+            "CopyflxListWithImg": "CopyflxListWithImg",
+            "Image0a40818b994e949": "Image0a40818b994e949",
+            "lblDesignation": "lblDesignation",
+            "lblName": "lblName"
+        }
+    },
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "ListWithImageCopy",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowcounter": 4,
+    "rowfocusskin": "sd38cb43f9c64d9c986c6906573f2e9e",
+    "rowskin": "s8ecd1ee3fde45bd8c13a0d1b6f4d901",
+    "rowtemplate": null,
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sde96ea8683c4cf888f03580fde6e9b4",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "ededed00",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyCopyflxListWithImg": "CopyCopyflxListWithImg",
+        "Image0a40818b994e949": "Image0a40818b994e949",
+        "lblDesignation": "lblDesignation",
+        "lblName": "lblName"
+    },
+    "zindex": 1
+}

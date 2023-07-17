@@ -1,0 +1,65 @@
+{
+    "AS_Button_f5e767ae9229403aa3213511562e3145": {
+        "id": "AS_Button_f5e767ae9229403aa3213511562e3145",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmListDetails",
+            "type": "forms",
+            "platform": null,
+            "KUID": "fff1be78fdf94c1c80400d1621dfacff"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_IDENTITY_SERVICE__icdb8afee61046698b97f14474e1e30f",
+            "type": "INVOKE_IDENTITY_SERVICE",
+            "mappings": {},
+            "mappingsOrder": [],
+            "serviceconfig": {
+                "operationname": "logout",
+                "servicename": "MicrosoftActiveDirectory",
+                "type": "identity",
+                "isDeepLinkRequired": false,
+                "login_type": "basic"
+            },
+            "enableMappingEditor": true,
+            "useDeviceBrowser": false,
+            "isDeepLinkRequired": false
+        }, {
+            "id": "NAVIGATE_TO_FORM___ce11abbc32fb4a9f8f209c7ea4f0ab70",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmLogin",
+            "formKUID": "c91bfe328ad94f3983841ab1046725df",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "INVOKE_IDENTITY_SERVICE__icdb8afee61046698b97f14474e1e30f",
+            "callbackType": "Success",
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"detailsLogoutButton\"\n    }\n}",
+            "isCustomInput": false
+        }, {
+            "id": "SHOW_ALERT__jee0ced202bd450aa9da2fa93db26f72",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_INFO",
+            "alertTitle": null,
+            "yesLabel": null,
+            "noLabel": null,
+            "alertIcon": null,
+            "alertMessage": "Logout Failed!",
+            "messageType": "constant",
+            "alertHandler": null,
+            "parentId": "INVOKE_IDENTITY_SERVICE__icdb8afee61046698b97f14474e1e30f",
+            "callbackType": "Failure",
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "alertMessagei18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT",
+            "disabled": null
+        }]
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "39dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s5e2fcea656c4e0c9535d7f39c830652",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "ImgClose": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a614f73b3d474dda8f85ef4971103251",
+                "srcKUID": "ue1a2d930c1246c1a7625679d5b0b841",
+                "wType": "Image"
+            }
+        },
+        "Message": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "jb10d2d7a2164c4eadfa175153178ff0",
+                "srcKUID": "ue74339c3b02475f9f39e1ac48061dfd",
+                "wType": "Label"
+            }
+        },
+        "ToastSuccess": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "c5caf8cf557d442ab1ae024f5ae1e841",
+                "srcKUID": "u3d8de92dbda4d919c98c057019c6290",
+                "wType": "FlexContainer"
+            },
+            "centerX": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "centerY": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": "0dp"
+                }
+            },
+            "responsiveData": {},
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "10dp"
+                }
+            }
+        },
+        "imageIcon": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a47ef58efdc8451b90b5ffb5322f882a",
+                "srcKUID": "u14702bc20da44fa90520ddb4e2ebbe4",
+                "wType": "Image"
+            }
+        }
+    },
+    "enablescrolling": true,
+    "id": "ToastSuccess",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "c5caf8cf557d442ab1ae024f5ae1e841",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "FlexScrollContainer",
+    "pf": "Form1",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "u3d8de92dbda4d919c98c057019c6290",
+    "wType": "UserWidgetInstance"
+}
