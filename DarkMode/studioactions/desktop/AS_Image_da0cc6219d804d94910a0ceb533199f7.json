@@ -1,0 +1,35 @@
+{
+    "AS_Image_da0cc6219d804d94910a0ceb533199f7": {
+        "id": "AS_Image_da0cc6219d804d94910a0ceb533199f7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": "",
+            "KUID": "baf75236b76c4c1b84758f6c487dad7c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__a77706ff5aea45dfbe4994b4d58efed4",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "Form2",
+            "formKUID": "bf8967e16a0b4f2098047aed8d8134b4",
+            "projectName": "DarkMode",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

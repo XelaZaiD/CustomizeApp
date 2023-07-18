@@ -1,0 +1,28 @@
+{
+    "AS_Button_e15ff166cc3c48ab93dfa9821af9895b": {
+        "id": "AS_Button_e15ff166cc3c48ab93dfa9821af9895b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "userwidgetmodel",
+            "type": "userwidgets",
+            "KUID": "u35c6f80558c47c380a59cacecde1c42"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_h47107d625c74cd29b49fbe66a5353c9",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.expandCollapse(false);\nlet obj = {\n  status: true,\n  widget: 'flxOption1'\n};\nthis.addOrRemoveFavorite(obj);",
+            "parentId": null
+        }]
+    }
+}

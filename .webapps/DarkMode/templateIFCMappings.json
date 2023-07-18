@@ -4,6 +4,12 @@
             "CopyflxListWithImgController_desktop": [
                 "CopyflxListWithImgController"
             ],
+            "CopyflxMenuRowWrapperController_desktop": [
+                "CopyflxMenuRowWrapperController"
+            ],
+            "CopyflxmenuheaderwrapperController_desktop": [
+                "CopyflxmenuheaderwrapperController"
+            ],
             "flxListWithImgController_desktop": [
                 "flxListWithImgController"
             ],
@@ -19,6 +25,9 @@
         "desktopweb": {
             "Form1Controller_desktop": [
                 "Form1Controller"
+            ],
+            "Form2Controller_desktop": [
+                "Form2Controller"
             ]
         }
     },
@@ -28,6 +37,11 @@
                 "controllerActionDir": "Form1Controller",
                 "controllerChannel": "desktop",
                 "controllerName": "Form1Controller"
+            },
+            "Form2": {
+                "controllerActionDir": "Form2Controller",
+                "controllerChannel": "desktop",
+                "controllerName": "Form2Controller"
             }
         }
     },
@@ -42,11 +56,31 @@
                 },
                 "enableModelDriven": false,
                 "friendlyName": "Form1"
+            },
+            "Form2": {
+                "appName": "DarkMode",
+                "controllerInfo": {
+                    "controllerActionName": "Form2Controller",
+                    "controllerChannel": "desktop",
+                    "controllerName": "Form2Controller"
+                },
+                "enableModelDriven": false,
+                "friendlyName": "Form2"
             }
         }
     },
     "templateControllerInfoMapping": {
         "desktopweb": {
+            "CopymenuRowTemp": {
+                "controllerActionDir": "CopyflxMenuRowWrapperController",
+                "controllerChannel": "desktop",
+                "controllerName": "CopyflxMenuRowWrapperController"
+            },
+            "Copymenuheadertemp": {
+                "controllerActionDir": "CopyflxmenuheaderwrapperController",
+                "controllerChannel": "desktop",
+                "controllerName": "CopyflxmenuheaderwrapperController"
+            },
             "CopytmpListWithImage1": {
                 "controllerActionDir": "CopyflxListWithImgController",
                 "controllerChannel": "desktop",
@@ -80,6 +114,26 @@
                 },
                 "friendlyName": "CopyflxListWithImg",
                 "templateId": "CopyflxListWithImg"
+            },
+            "CopyflxMenuRowWrapper": {
+                "appName": "DarkMode",
+                "controllerInfo": {
+                    "controllerActionName": "CopyflxMenuRowWrapperController",
+                    "controllerChannel": "desktop",
+                    "controllerName": "CopyflxMenuRowWrapperController"
+                },
+                "friendlyName": "CopyflxMenuRowWrapper",
+                "templateId": "CopyflxMenuRowWrapper"
+            },
+            "Copyflxmenuheaderwrapper": {
+                "appName": "DarkMode",
+                "controllerInfo": {
+                    "controllerActionName": "CopyflxmenuheaderwrapperController",
+                    "controllerChannel": "desktop",
+                    "controllerName": "CopyflxmenuheaderwrapperController"
+                },
+                "friendlyName": "Copyflxmenuheaderwrapper",
+                "templateId": "Copyflxmenuheaderwrapper"
             },
             "flxListWithImg": {
                 "appName": "DarkMode",
@@ -127,6 +181,11 @@
         "com.konymp.Login": {
             "appName": "DarkMode",
             "classname": "Login",
+            "namespace": "com.konymp"
+        },
+        "com.konymp.Menu": {
+            "appName": "DarkMode",
+            "classname": "Menu",
             "namespace": "com.konymp"
         },
         "comm.konymp.ToastAlert": {

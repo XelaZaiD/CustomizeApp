@@ -2,8 +2,11 @@
     "idToKuidMapping": {
         "androidwear": {},
         "desktop": {
+            "CopymenuRowTemp": "a6278509dff148ae86d7c5edd0f3b47c",
+            "Copymenuheadertemp": "gbd057e69c63452f98dea4204b26d5ef",
             "CopytmpListWithImage1": "g8b4650f6ffe446c96510a356c78835e",
             "Form1": "baf75236b76c4c1b84758f6c487dad7c",
+            "Form2": "bf8967e16a0b4f2098047aed8d8134b4",
             "SampleRowTemplate": "b72d6fe9cb7a405785153829e4b996e8",
             "SampleSectionHeaderTemplate": "d4bbddcbeca348a68cf1fcfa5df0a54a",
             "tmpListWithImage": "eb2b01b453254e739a097228e29ec2ca"
@@ -15,9 +18,23 @@
             "CopyButtonLinkNormalSkin": "s35b9688fb5f4f31829f39ecb0daf8b7",
             "CopyButtonSkinActive": "s2f023bef06749aaaf32c4c7357ac3d0",
             "CopyButtonSkinNormal": "s5413d80daf843f2baf856eeb7e13d21",
+            "CopyCopyCopydefLabel0g9fa00d1b79d48": "s3bfb9d351714aaba7ecaef6bb909b81",
+            "CopyCopyCopydefLabel0h1852781cfa14f": "se8f76f7dcc546cfbe14076b7a501177",
+            "CopyCopyCopydefLabel0i1d0b699f54d4e": "s4499e2a7eb5464ab0eafcc1687222bc",
+            "CopyCopyCopydefLabel0ie6cfc9382994c": "s7792124f923454ea20503f3ae44019d",
             "CopyCopyCopydefLabel2": "sdef7f6f7bbd4b828858fb04e43d94c0",
             "CopyCopyCopydefLabel3": "sef49c36b59e4ee7931ee22a66aa0d88",
             "CopyCopyCopydefLabel4": "sd52007c925b43bc887e1716be9e443e",
+            "CopyCopyCopyslFbox0b9b6a6aa3b2848": "s7b410105b024a21a0994a7be5e17eab",
+            "CopyCopyCopyslFbox0ba3ff774fc6e48": "sb5100c6c9884adfb5b992f3bad95ed4",
+            "CopyCopyCopyslFbox0fc5acdf617a14d": "sa2abf6c3cd74a55a3dc5706242dfb24",
+            "CopyCopyCopyslFbox0g0c023c26eb148": "s4ad2839dd1840119756c7f87b1a2b89",
+            "CopyCopyFLXFFFFFF4": "s1a86b70c2b94cf5bd492f1bbb8eb08e",
+            "CopyCopyLBL0a9b6f352958a4f": "s2d5098fd8ef460f813e5967592929e1",
+            "CopyCopyLBL0c3c421a2dc3f44": "s1f458a8d8794589a7fe863c2013c1b9",
+            "CopyCopySKNMENUSEGHEADER4": "seac55c9c7844034bd984febf6a8a56f",
+            "CopyCopySquaredBorderedButtonActive4": "s6230f41001e4931a8c1e322663914cd",
+            "CopyCopySquaredBorderedButtonNormal4": "sb7d02cea4a34a18a3dc6317e1587ed1",
             "CopyCopydefLabel": "s1e724bb476e4104ad84e28528455f65",
             "CopyCopydefLabel1": "se0647ec93ce4017a6797d3923a8fbbf",
             "CopyCopydefTextBoxFocus": "s6adea84ad55479180fe03f613f12ab9",
@@ -33,7 +50,9 @@
             "CopyTXT1": "s4359e6bcc8f469caa6fa0bba515cdb8",
             "CopydefLabel0c3e8410402dc46": "s29e8f674aa142f694c9f2911ca826e0",
             "CopydefLabel0fbd69ba14c8d4f": "s8ab8c15de6640da9363e69d26e70a5b",
+            "CopydefLabel0fc1f59b2b7b54f": "s452754206ff4cc4be134175d4c37238",
             "CopydefLabel0h1461925391e41": "s668a14b6d084283bb25dc6ca1526e46",
+            "CopydefLabel0i62d30c68ae047": "scca6d52a09c464a8cd0429586a37e01",
             "CopyflxWhiteBg0e2c7657203174a": "sd0eaa7c10d3439288f518aab25f4471",
             "CopylblDeshWithImage": "sc4091985d5b475b81bb1b3342e3cefb",
             "CopylblDeshWithImage0afcafb61b3bb48": "s253aaa3ce6c4c7fb85d930273d88428",
@@ -46,9 +65,12 @@
             "CopyslImage0f955769f683241": "se7824c2cf47497ea729d9905b1b51b5",
             "CopytmpHoverskin": "s5d0c61ca312409080922bb48bf570e9",
             "FlxToastSuccessDCFFE2": "s5e2fcea656c4e0c9535d7f39c830652",
+            "defBtnFavorite": "s14e3e220a4d4cc49d95805f300925ea",
             "defBtnFocus": "s73c8a8eb9f44e0cb84976a51e1f3232",
+            "defBtnFocusFavorite": "s81b9eb705cc4359a4066f4922d4908f",
             "defBtnNormal": "s9c308c6e9db459ba05db9479697400b",
             "defLabel": "s783d917000647f597dcd867a59e1fb3",
+            "defLabelHeaderMenuOption": "s49d6d60cf8a4dbd967c55110b7c839d",
             "defListBoxFocus": "sdb3137e781c4b3fb96474a9f5b29d12",
             "defListBoxNormal": "s115c32de1ad46fab5913a64fbd8b64e",
             "defSwitchNormal": "s3d9e8096a714646b954e8cdbf00ced3",
@@ -72,6 +94,7 @@
             "sknSampleRowTemplate": "sc0a7e046ed942018ed791e6b3219280",
             "sknSampleSectionHeaderTemplate": "s51d293f0d5248d38ab64696474e9a7b",
             "sknSectionHeaderLabelSkin": "s56dfdf525ac43739cf1a2cd3f163802",
+            "sknSeparator": "s8edcaf95af649e7a78818bc17ff024c",
             "sknbtnNormal": "sc8a48f1a6044726b3c04810d14ca13e",
             "sknflxContainer": "s232ca6fd8234230bb0ceba1420d22e2",
             "sknlblMessage": "s4195f682f764f168f2980e5740f238c",
@@ -92,23 +115,40 @@
             "com.konymp.ListWithImage": "u5698121c3da4220a6d963eb42f51213",
             "com.konymp.ListWithImageCopy": "u8dde65976084f40b3c71b21e2577cb8",
             "com.konymp.Login": "uc4323448df74786ad37d2f0115a2e4d",
+            "com.konymp.Menu": "u35c6f80558c47c380a59cacecde1c42",
             "comm.konymp.ToastAlert": "ue2e1694b4664479bff55cc4babe6560",
             "comm.konymp.ToastError": "u22ed960a1c64f849f7f4e6b225a0de2",
             "comm.konymp.ToastSuccess": "u1a413a9a1654d3fbd5b06b17d04f1ec"
         }
     },
     "kuidDependencyMap": {
+        "a6278509dff148ae86d7c5edd0f3b47c": [
+            "u35c6f80558c47c380a59cacecde1c42"
+        ],
         "eb2b01b453254e739a097228e29ec2ca": [
             "u5698121c3da4220a6d963eb42f51213"
         ],
         "g8b4650f6ffe446c96510a356c78835e": [
             "u8dde65976084f40b3c71b21e2577cb8"
         ],
+        "gbd057e69c63452f98dea4204b26d5ef": [
+            "u35c6f80558c47c380a59cacecde1c42"
+        ],
+        "s04166f049d5417da97d37f21a895f03": [
+            "u35c6f80558c47c380a59cacecde1c42"
+        ],
         "s0759dd12fa9497a817dc1b8f58a3e5d": [
             "g8b4650f6ffe446c96510a356c78835e"
         ],
+        "s14e3e220a4d4cc49d95805f300925ea": [
+            "u35c6f80558c47c380a59cacecde1c42"
+        ],
         "s15e437cbdda4eecb41aa952e49b3515": [
             "baf75236b76c4c1b84758f6c487dad7c"
+        ],
+        "s1a86b70c2b94cf5bd492f1bbb8eb08e": [
+            "u35c6f80558c47c380a59cacecde1c42",
+            "bf8967e16a0b4f2098047aed8d8134b4"
         ],
         "s1d63cbcb85949bdb023dc6d5e051d70": [
             "b72d6fe9cb7a405785153829e4b996e8"
@@ -116,14 +156,22 @@
         "s1dfcafd382a45d1b190fec5cd3794d4": [
             "ue2e1694b4664479bff55cc4babe6560"
         ],
+        "s1f458a8d8794589a7fe863c2013c1b9": [
+            "gbd057e69c63452f98dea4204b26d5ef",
+            "a6278509dff148ae86d7c5edd0f3b47c"
+        ],
         "s21d6287e39f4bdfa496cf0ae31d822e": [
             "uc4323448df74786ad37d2f0115a2e4d"
         ],
         "s279cb5fdd4d47d3bf0ad37f9b8c18bd": [
-            "baf75236b76c4c1b84758f6c487dad7c"
+            "baf75236b76c4c1b84758f6c487dad7c",
+            "bf8967e16a0b4f2098047aed8d8134b4"
         ],
         "s29e8f674aa142f694c9f2911ca826e0": [
             "eb2b01b453254e739a097228e29ec2ca"
+        ],
+        "s2d5098fd8ef460f813e5967592929e1": [
+            "u35c6f80558c47c380a59cacecde1c42"
         ],
         "s2e91adcee0247c2b46d2ce67cb74910": [
             "ue2e1694b4664479bff55cc4babe6560",
@@ -137,6 +185,9 @@
         ],
         "s36fcb951e8e4c63a236e6cd29f16ec7": [
             "uc4323448df74786ad37d2f0115a2e4d"
+        ],
+        "s3bfb9d351714aaba7ecaef6bb909b81": [
+            "gbd057e69c63452f98dea4204b26d5ef"
         ],
         "s3c268d35e5a4c97ad16f56b4a982602": [
             "uc4323448df74786ad37d2f0115a2e4d"
@@ -156,8 +207,18 @@
         "s4359e6bcc8f469caa6fa0bba515cdb8": [
             "uc4323448df74786ad37d2f0115a2e4d"
         ],
+        "s4499e2a7eb5464ab0eafcc1687222bc": [
+            "a6278509dff148ae86d7c5edd0f3b47c"
+        ],
         "s458dea5a4b34ea4ba400b50ed5a3019": [
-            "u5698121c3da4220a6d963eb42f51213"
+            "u5698121c3da4220a6d963eb42f51213",
+            "u35c6f80558c47c380a59cacecde1c42"
+        ],
+        "s49d6d60cf8a4dbd967c55110b7c839d": [
+            "u35c6f80558c47c380a59cacecde1c42"
+        ],
+        "s4ad2839dd1840119756c7f87b1a2b89": [
+            "gbd057e69c63452f98dea4204b26d5ef"
         ],
         "s4e8ceef999b483ab74eb5d1bd1a0e17": [
             "baf75236b76c4c1b84758f6c487dad7c"
@@ -187,6 +248,9 @@
         "s616f4b64ab440b4a3d152862ba92d42": [
             "uc4323448df74786ad37d2f0115a2e4d"
         ],
+        "s6230f41001e4931a8c1e322663914cd": [
+            "u35c6f80558c47c380a59cacecde1c42"
+        ],
         "s668a14b6d084283bb25dc6ca1526e46": [
             "uc4323448df74786ad37d2f0115a2e4d"
         ],
@@ -197,14 +261,25 @@
             "uc4323448df74786ad37d2f0115a2e4d"
         ],
         "s73c8a8eb9f44e0cb84976a51e1f3232": [
-            "baf75236b76c4c1b84758f6c487dad7c"
+            "baf75236b76c4c1b84758f6c487dad7c",
+            "bf8967e16a0b4f2098047aed8d8134b4"
+        ],
+        "s7792124f923454ea20503f3ae44019d": [
+            "a6278509dff148ae86d7c5edd0f3b47c"
+        ],
+        "s7b410105b024a21a0994a7be5e17eab": [
+            "a6278509dff148ae86d7c5edd0f3b47c"
         ],
         "s7bd327b37e74cd4b6f6c328225e75d9": [
             "baf75236b76c4c1b84758f6c487dad7c"
         ],
         "s801f061b5924659a2b73e713914d61d": [
+            "u35c6f80558c47c380a59cacecde1c42",
             "g8b4650f6ffe446c96510a356c78835e",
             "eb2b01b453254e739a097228e29ec2ca"
+        ],
+        "s81b9eb705cc4359a4066f4922d4908f": [
+            "u35c6f80558c47c380a59cacecde1c42"
         ],
         "s83c81966df94685addbc5b6231e1fa9": [
             "baf75236b76c4c1b84758f6c487dad7c"
@@ -219,19 +294,36 @@
         "s8ecd1ee3fde45bd8c13a0d1b6f4d901": [
             "u8dde65976084f40b3c71b21e2577cb8"
         ],
+        "s8edcaf95af649e7a78818bc17ff024c": [
+            "u35c6f80558c47c380a59cacecde1c42"
+        ],
         "s9bc86d9579e4ea5bd619494915f7535": [
             "uc4323448df74786ad37d2f0115a2e4d",
+            "u35c6f80558c47c380a59cacecde1c42",
             "u22ed960a1c64f849f7f4e6b225a0de2",
             "u1a413a9a1654d3fbd5b06b17d04f1ec",
+            "gbd057e69c63452f98dea4204b26d5ef",
             "g8b4650f6ffe446c96510a356c78835e",
             "eb2b01b453254e739a097228e29ec2ca",
             "baf75236b76c4c1b84758f6c487dad7c"
+        ],
+        "s9c308c6e9db459ba05db9479697400b": [
+            "bf8967e16a0b4f2098047aed8d8134b4"
+        ],
+        "sa2abf6c3cd74a55a3dc5706242dfb24": [
+            "a6278509dff148ae86d7c5edd0f3b47c"
+        ],
+        "sb5100c6c9884adfb5b992f3bad95ed4": [
+            "u35c6f80558c47c380a59cacecde1c42"
         ],
         "sb74236185fe432fb3e1e4251bec561b": [
             "eb2b01b453254e739a097228e29ec2ca"
         ],
         "sb791d1d52314d8491f02edc6f784cb0": [
             "uc4323448df74786ad37d2f0115a2e4d"
+        ],
+        "sb7d02cea4a34a18a3dc6317e1587ed1": [
+            "u35c6f80558c47c380a59cacecde1c42"
         ],
         "sc0a7e046ed942018ed791e6b3219280": [
             "b72d6fe9cb7a405785153829e4b996e8"
@@ -242,6 +334,9 @@
         "sc4091985d5b475b81bb1b3342e3cefb": [
             "g8b4650f6ffe446c96510a356c78835e"
         ],
+        "scca6d52a09c464a8cd0429586a37e01": [
+            "u35c6f80558c47c380a59cacecde1c42"
+        ],
         "sd0eaa7c10d3439288f518aab25f4471": [
             "u5698121c3da4220a6d963eb42f51213",
             "u8dde65976084f40b3c71b21e2577cb8",
@@ -249,7 +344,8 @@
         ],
         "sd38cb43f9c64d9c986c6906573f2e9e": [
             "u5698121c3da4220a6d963eb42f51213",
-            "u8dde65976084f40b3c71b21e2577cb8"
+            "u8dde65976084f40b3c71b21e2577cb8",
+            "u35c6f80558c47c380a59cacecde1c42"
         ],
         "sd52007c925b43bc887e1716be9e443e": [
             "uc4323448df74786ad37d2f0115a2e4d"
@@ -273,6 +369,9 @@
         "se7824c2cf47497ea729d9905b1b51b5": [
             "ue2e1694b4664479bff55cc4babe6560"
         ],
+        "seac55c9c7844034bd984febf6a8a56f": [
+            "u35c6f80558c47c380a59cacecde1c42"
+        ],
         "sef49c36b59e4ee7931ee22a66aa0d88": [
             "uc4323448df74786ad37d2f0115a2e4d"
         ],
@@ -284,6 +383,12 @@
     "kuidInfo": {
         "androidwear": {},
         "desktop": {
+            "a6278509dff148ae86d7c5edd0f3b47c": {
+                "appName": "DarkMode",
+                "id": "CopymenuRowTemp",
+                "templateType": "segments",
+                "topFlexId": "CopyflxMenuRowWrapper"
+            },
             "b72d6fe9cb7a405785153829e4b996e8": {
                 "appName": "DarkMode",
                 "id": "SampleRowTemplate",
@@ -294,6 +399,16 @@
                 "appName": "DarkMode",
                 "id": "Form1",
                 "relFormId": "Form1",
+                "templateType": "forms",
+                "widgetInfo": {
+                    "mapWgtPltfrms": [],
+                    "videoWgtPltfrms": []
+                }
+            },
+            "bf8967e16a0b4f2098047aed8d8134b4": {
+                "appName": "DarkMode",
+                "id": "Form2",
+                "relFormId": "Form2",
                 "templateType": "forms",
                 "widgetInfo": {
                     "mapWgtPltfrms": [],
@@ -317,6 +432,12 @@
                 "id": "CopytmpListWithImage1",
                 "templateType": "segments",
                 "topFlexId": "CopyflxListWithImg"
+            },
+            "gbd057e69c63452f98dea4204b26d5ef": {
+                "appName": "DarkMode",
+                "id": "Copymenuheadertemp",
+                "templateType": "segments",
+                "topFlexId": "Copyflxmenuheaderwrapper"
             }
         },
         "masters": {},
@@ -335,6 +456,15 @@
             "u22ed960a1c64f849f7f4e6b225a0de2": {
                 "appName": "DarkMode",
                 "id": "comm.konymp.ToastError",
+                "templateType": "userwidgets",
+                "widgetInfo": {
+                    "mapWgtPltfrms": [],
+                    "videoWgtPltfrms": []
+                }
+            },
+            "u35c6f80558c47c380a59cacecde1c42": {
+                "appName": "DarkMode",
+                "id": "com.konymp.Menu",
                 "templateType": "userwidgets",
                 "widgetInfo": {
                     "mapWgtPltfrms": [],
@@ -380,25 +510,325 @@
         }
     },
     "userWidgetsKuidToIdMap": {
+        "a0d3dfcaaeeb40588e0aa1721b6c472c": {
+            "id": "lblRowOption32",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "a3b3c3e255154f7ab8868bc31e608674": {
+            "id": "Copyflxmenuheaderwrapper",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "a4b7536fc3b3457fb5bb63b2b572fc2b": {
+            "id": "flxHeaderOptionFavoritie2",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "a6278509dff148ae86d7c5edd0f3b47c": {
+            "id": "CopymenuRowTemp",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "a6f7e2b797954f11aac75c427f0697ff": {
+            "id": "flxScrollOption",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "ad78ab10c7294c9e89ccf9f9ec02a621": {
+            "id": "flxOptionFavoritie2",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "af54c3e0b57a4264854853494ff738fd": {
+            "id": "btnNoFavoriteOption2",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "b0553f9c815541fdbb5483e561166872": {
+            "id": "lblRowFavoritieOption22",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
         "b347d6d388eb4b40b99237f50688e8ed": {
             "id": "flxListWithImg",
             "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.ListWithImage\\userwidgetmodel.sm"
+        },
+        "b4ddbd6203a245729960e2ac3896c841": {
+            "id": "flxHeaderFavorities",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "b5e93ffbbd9943eeb9bbc59ecadf9997": {
+            "id": "flxRowOption1",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "b69453f03d744766b947c0cb8891eb9f": {
+            "id": "flxHeaderOption3",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "b8b5dc5be812432f8a49eee5a9bb9fc9": {
+            "id": "flxSeparatorFavoritie",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "b939385cac6c468fa7c78d5d254e4ac4": {
+            "id": "imgArrowFavoritie2",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "b96fd031519b4483933b2592107f914d": {
+            "id": "lblRowFavoritieOption31",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "ba2ea1f2016b4a26bd5d62d939035642": {
+            "id": "lblRowOption2",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "c120bbb1107948668acd352b1a41f86f": {
+            "id": "flxFavorities",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "c475e64829f24b369a6588018497b61d": {
+            "id": "flxOptionsContainer",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "c4ad8df6553f4f709d0306518c9ffd3e": {
+            "id": "flxOptionFavoritie1",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "c4b4f42182834bcc954eab5d4cf574bb": {
+            "id": "lblRowFavoritieOption21",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "c80f3d5de3644990ae6acdaf21cda225": {
+            "id": "btnFavoriteOption2",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "c82498392c404738aca8e7bd484422ab": {
+            "id": "CopyflxMenuRowWrapper",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "c8f31c81d08141ee9626374e4fe0f356": {
+            "id": "btnRowFavoriteOption1",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "cf2ac07c573744bdab05384abc64745f": {
+            "id": "btnNoFavoriteOption3",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "d0c662edf4a7450189172121bf724d69": {
+            "id": "lblHeaderFavoritieOption3",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "d186289135bf4fc9b6f3e265397b535b": {
+            "id": "flxSeparatorFavoritie1",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "d3e0d117c89443c8bee7358abe50327b": {
+            "id": "btnRowNoFavoriteOption1",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "d4cbf8cf05244633b96e87726b6a56f6": {
+            "id": "imgArrowFavoritie",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "dd9154b47d2f4dda868d936021020561": {
+            "id": "imgArrow1",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "ddf473c7b84845f98cb0e8e1ac286562": {
+            "id": "flxOption2",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "e048a72fbf284b4eb1778ff1492aee86": {
+            "id": "flxOptionsFavoritiesContainer",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "e12984fd5b0749f39292d4009aed01b1": {
+            "id": "flxOption1",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "e159acf36ba7456488c55c364c661e8d": {
+            "id": "btnNoFavoriteOption1",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "e330c63952e14488892cee74acc401ca": {
+            "id": "lblRowOption1",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "e463f12abfb8444ca9eb6796a09ad3ff": {
+            "id": "lblTitleMenu",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "e4df004c8c5e48ff982cbc4c06102e14": {
+            "id": "imgArrow2",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "e6b1da563b49482e9b15a3d03375be35": {
+            "id": "flxRowOptionFavoritie2",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "e7de73410a8f48088e4ccbf6134e4728": {
+            "id": "flxHeaderOptionFavoritie3",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "e9948a3b7a9140d6991c7a49303af6fc": {
+            "id": "flxRowOption2",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "eb10aa3e80634605a8ebea6fd74dd619": {
+            "id": "flxSeparator2",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
         },
         "eb2b01b453254e739a097228e29ec2ca": {
             "id": "tmpListWithImage",
             "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.ListWithImage\\userwidgetmodel.sm"
         },
+        "ecd2c044a39f4682acdc337a104e7668": {
+            "id": "lblRowOption21",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "eddde82d730e4ca781f182233a412d40": {
+            "id": "flxRowOptionFavoritie3",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "ef36ac0b75bd4a338d590df5a89c49da": {
+            "id": "imgArrow3",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "ef698c21f48c4305b635b348336a5405": {
+            "id": "flxHeaderOptionFavoritie1",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "ef734e0469dd4ecdbf029c2fca260676": {
+            "id": "lblFavoritie",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "f1aac8266138452aa42f8f417eb31281": {
+            "id": "lblHeaderOption2",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "f346eb3a8b0342dabb92dd49ce97dcc4": {
+            "id": "flxSeparatorFavoritie3",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "f3e7c1e357064efd9a42d2ca7d65ddf4": {
+            "id": "lblRowFavoritieOption12",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
         "f8310bbe59884973ac65223445ae8cfe": {
             "id": "CopyflxListWithImg",
             "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.ListWithImageCopy\\userwidgetmodel.sm"
+        },
+        "f9c0bc9612284c0b993dc4673cf176b6": {
+            "id": "lblHeaderFavoritieOption1",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "fa69fb83086f48c3bbe27d0b50ee86fe": {
+            "id": "lblHeaderFavoritieOption2",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "fc9016a35e5c440ca1c0ebe9b6b77634": {
+            "id": "lblRowOption22",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "fe7fec91177d4c5e820778078032c837": {
+            "id": "lblRowOption31",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "feaf5ab9e5be451ea7676d62358b656a": {
+            "id": "btnRowNoFavoriteOption2",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
         },
         "g8b4650f6ffe446c96510a356c78835e": {
             "id": "CopytmpListWithImage1",
             "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.ListWithImageCopy\\userwidgetmodel.sm"
         },
+        "gbd057e69c63452f98dea4204b26d5ef": {
+            "id": "Copymenuheadertemp",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "gd147e727f5d49d398788ea82df5770c": {
+            "id": "lblHeaderOption1",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "gee15b377bcf4051a29844765af3104b": {
+            "id": "flxSeparator1",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "h26098e5b7e34134a4b903fe34023221": {
+            "id": "btnFavoriteOption1",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "h47bb41377f9467cb880479d26a3a08b": {
+            "id": "flxOptionFavoritie3",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "h5189c9534f849db98c70006ccc4a271": {
+            "id": "btnFavoriteOption3",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "h730914143794a4f9c8b4bd12960b178": {
+            "id": "lblRowFavoritieOption32",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "h799a29b72214793951815750e2323e1": {
+            "id": "imgArrowFavoritie1",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "hb09f7dd33fd4f51b220c059718f3518": {
+            "id": "btnRowFavoriteOption2",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "hf2044e719f44247a82190dbfdd421b8": {
+            "id": "flxRowOption3",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "i49b9bb39e254278b85ef72099327059": {
+            "id": "flxSeparator3",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "i868cfdcb4f04dec8b6a5fa3b62327a2": {
+            "id": "lblRowFavoritieOption11",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "i986ea8e42c14e6bbf478261644326bb": {
+            "id": "flxOption3",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "ia33577681d04fda936553fd46e34c87": {
+            "id": "flxHeaderOption2",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "ia79834967e84b7ebcdd4f718e355de9": {
+            "id": "btnRowFavoriteOption3",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "ifdd12e1a08f46ce859b18f4dc430cf0": {
+            "id": "btnRowNoFavoriteOption3",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "j3792cad54e447b6acf1f0d2f0592ad6": {
+            "id": "lblHeaderOption3",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "j4bca452a5c44d2d92e0e4485f802b15": {
+            "id": "flxRowOptionFavoritie1",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "j531ab35ca134bc986a3bd3499bd08b0": {
+            "id": "flxHeaderOption1",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "j792477d7e214a6180fc6d0c012ff572": {
+            "id": "flxSeparatorFavoritie2",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "je9d9d54bf93489da806ea9bc65297c9": {
+            "id": "imgArrowFavoritie3",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
+        "u032f3ff24d34de6823b7a3d85be5ebc": {
+            "id": "Menu",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu"
+        },
         "u0da9cd29e23412dbcf429e5e4bdadcf": {
             "id": "ListWithImage",
             "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.ListWithImage"
+        },
+        "u1316cc84e7047ec9e24c020161a701d": {
+            "id": "flxHeader",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
         },
         "u14702bc20da44fa90520ddb4e2ebbe4": {
             "id": "imageIcon",
@@ -424,9 +854,17 @@
             "id": "lblRememberMe",
             "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Login\\userwidgetmodel.sm"
         },
+        "u35c6f80558c47c380a59cacecde1c42": {
+            "id": "userwidgetmodel",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
         "u3983f8017154743bd6aaa584f2260d1": {
             "id": "imgCHeckBox",
             "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Login\\userwidgetmodel.sm"
+        },
+        "u3d6a8d772694e39a17e8414162db2a7": {
+            "id": "SquaredBtn",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
         },
         "u3d8de92dbda4d919c98c057019c6290": {
             "id": "ToastSuccess",
@@ -436,6 +874,10 @@
             "id": "txtPassword",
             "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Login\\userwidgetmodel.sm"
         },
+        "u4569f92d30b455881f25b338aebe953": {
+            "id": "lblLineSeperator",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
         "u462e8146fe44a9dae4a0a4d371b104d": {
             "id": "imgClose",
             "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Login\\userwidgetmodel.sm"
@@ -443,6 +885,10 @@
         "u4a18ab9f6854e6ea477fddbd5b050a8": {
             "id": "Message",
             "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\comm.konymp.ToastError\\userwidgetmodel.sm"
+        },
+        "u4bd53e9e97d4e238e9e8f8ecf5f49c6": {
+            "id": "imgUpArrow",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
         },
         "u50431b9a3df4664b87a06339641c647": {
             "id": "lblPassword",
@@ -492,6 +938,10 @@
             "id": "ListWithImageCopy",
             "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.ListWithImageCopy"
         },
+        "u9b0296bb15840c499a3ea98ed439845": {
+            "id": "segMenuItems",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
         "u9bc527f3a904ec8b32ecdfc2c538509": {
             "id": "ToastAlert",
             "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\comm.konymp.ToastAlert"
@@ -516,6 +966,10 @@
             "id": "flxError",
             "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Login\\userwidgetmodel.sm"
         },
+        "uba432d632784f2992aa6fc28d562c33": {
+            "id": "imgClose",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
+        },
         "uc16e798f5f1458593cf741cf796a3e6": {
             "id": "flxLoginWrapper",
             "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Login\\userwidgetmodel.sm"
@@ -523,6 +977,10 @@
         "uc4323448df74786ad37d2f0115a2e4d": {
             "id": "userwidgetmodel",
             "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Login\\userwidgetmodel.sm"
+        },
+        "uc4a858287c444458f453c78906cc081": {
+            "id": "imgDownArrow",
+            "path": "C:\\WS-TestWeb\\DarkMode\\userwidgets\\com.konymp.Menu\\userwidgetmodel.sm"
         },
         "uc8ca06d562f43b5af5c1d3b6486b305": {
             "id": "lblError",

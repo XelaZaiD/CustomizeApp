@@ -39,6 +39,7 @@
     },
     "containerweight": 100,
     "id": "imgTemenos",
+    "ide_onTouchStart": "AS_Image_da0cc6219d804d94910a0ceb533199f7",
     "imagescalemode": 1,
     "info": null,
     "invokedProperty": "src",

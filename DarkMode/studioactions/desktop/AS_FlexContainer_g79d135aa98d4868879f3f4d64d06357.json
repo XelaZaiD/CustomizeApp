@@ -1,0 +1,27 @@
+{
+    "AS_FlexContainer_g79d135aa98d4868879f3f4d64d06357": {
+        "id": "AS_FlexContainer_g79d135aa98d4868879f3f4d64d06357",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "KUID": "gbd057e69c63452f98dea4204b26d5ef",
+            "name": "Copymenuheadertemp",
+            "platform": "",
+            "type": "templates"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__a241ef5e383944e699404f6faf1f8faf",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.executeOnParent(\"clickedOnSectionHeader\",eventobject.rowContext.sectionIndex);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "AS_Image_da4f294c111a4635a555a5ce80f05b41": {
+        "id": "AS_Image_da4f294c111a4635a555a5ce80f05b41",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "KUID": "gbd057e69c63452f98dea4204b26d5ef",
+            "name": "Copymenuheadertemp",
+            "platform": "",
+            "type": "templates"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__c31492e760ec484e81b43f7166d76d57",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//this.executeOnParent(\"clickedOnSectionHeader\",eventobject.rowContext.sectionIndex);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

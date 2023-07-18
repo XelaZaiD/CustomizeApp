@@ -1,0 +1,29 @@
+{
+    "AS_Image_i65830292295446b9ffa710bfc0907fa": {
+        "id": "AS_Image_i65830292295446b9ffa710bfc0907fa",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "KUID": "u35c6f80558c47c380a59cacecde1c42",
+            "name": "userwidgetmodel",
+            "type": "userwidgets"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__fde4684848124f05a6d50bcb9729c99b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.isVisible = false;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

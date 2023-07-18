@@ -10,26 +10,39 @@
 .CopyButtonLinkNormalSkin,
 .CopyButtonSkinActive,
 .CopyButtonSkinNormal,
+.CopyCopySquaredBorderedButtonActive4,
+.CopyCopySquaredBorderedButtonNormal4,
+.defBtnFavorite,
 .defBtnFocus,
+.defBtnFocusFavorite,
 .defBtnNormal,
 .sknBtnFocus,
 .sknRadiusButton,
 .sknbtnNormal,
+.CopyCopyCopydefLabel0g9fa00d1b79d48,
+.CopyCopyCopydefLabel0h1852781cfa14f,
+.CopyCopyCopydefLabel0i1d0b699f54d4e,
+.CopyCopyCopydefLabel0ie6cfc9382994c,
 .CopyCopyCopydefLabel2,
 .CopyCopyCopydefLabel3,
 .CopyCopyCopydefLabel4,
+.CopyCopyLBL0a9b6f352958a4f,
+.CopyCopyLBL0c3c421a2dc3f44,
 .CopyCopydefLabel,
 .CopyCopydefLabel1,
 .CopyLBL0e133e7b084af41,
 .CopyLBLTOPSHADOW,
 .CopydefLabel0c3e8410402dc46,
 .CopydefLabel0fbd69ba14c8d4f,
+.CopydefLabel0fc1f59b2b7b54f,
 .CopydefLabel0h1461925391e41,
+.CopydefLabel0i62d30c68ae047,
 .CopylblDeshWithImage,
 .CopylblDeshWithImage0afcafb61b3bb48,
 .CopylblLstImg,
 .CopylblMessage1,
 .defLabel,
+.defLabelHeaderMenuOption,
 .lblDeshWithImage,
 .lblLstImg,
 .lblMessage,
@@ -105,6 +118,74 @@ button[kw].CopyButtonSkinNormal-focus {
     background: #4d83f3;
 }
 
+.CopyCopyCopydefLabel0g9fa00d1b79d48,
+[kw].CopyCopyCopydefLabel0g9fa00d1b79d48-hover,
+label[kw].CopyCopyCopydefLabel0g9fa00d1b79d48-focus,
+h1[kw].CopyCopyCopydefLabel0g9fa00d1b79d48-focus,
+h2[kw].CopyCopyCopydefLabel0g9fa00d1b79d48-focus,
+h3[kw].CopyCopyCopydefLabel0g9fa00d1b79d48-focus,
+h4[kw].CopyCopyCopydefLabel0g9fa00d1b79d48-focus,
+h5[kw].CopyCopyCopydefLabel0g9fa00d1b79d48-focus,
+h6[kw].CopyCopyCopydefLabel0g9fa00d1b79d48-focus,
+div[kw].CopyCopyCopydefLabel0g9fa00d1b79d48-focus,
+span[kw].CopyCopyCopydefLabel0g9fa00d1b79d48-focus,
+p[kw].CopyCopyCopydefLabel0g9fa00d1b79d48-focus {
+    font: normal bold 16.0px Helvetica;
+    color: #333333;
+    background-color: rgba(0, 0, 0, 0.0);
+}
+
+.CopyCopyCopydefLabel0h1852781cfa14f,
+[kw].CopyCopyCopydefLabel0h1852781cfa14f-hover,
+label[kw].CopyCopyCopydefLabel0h1852781cfa14f-focus,
+h1[kw].CopyCopyCopydefLabel0h1852781cfa14f-focus,
+h2[kw].CopyCopyCopydefLabel0h1852781cfa14f-focus,
+h3[kw].CopyCopyCopydefLabel0h1852781cfa14f-focus,
+h4[kw].CopyCopyCopydefLabel0h1852781cfa14f-focus,
+h5[kw].CopyCopyCopydefLabel0h1852781cfa14f-focus,
+h6[kw].CopyCopyCopydefLabel0h1852781cfa14f-focus,
+div[kw].CopyCopyCopydefLabel0h1852781cfa14f-focus,
+span[kw].CopyCopyCopydefLabel0h1852781cfa14f-focus,
+p[kw].CopyCopyCopydefLabel0h1852781cfa14f-focus {
+    font: normal bold 16.0px Helvetica;
+    color: #333333;
+    background-color: rgba(0, 0, 0, 0.0);
+}
+
+.CopyCopyCopydefLabel0i1d0b699f54d4e,
+[kw].CopyCopyCopydefLabel0i1d0b699f54d4e-hover,
+label[kw].CopyCopyCopydefLabel0i1d0b699f54d4e-focus,
+h1[kw].CopyCopyCopydefLabel0i1d0b699f54d4e-focus,
+h2[kw].CopyCopyCopydefLabel0i1d0b699f54d4e-focus,
+h3[kw].CopyCopyCopydefLabel0i1d0b699f54d4e-focus,
+h4[kw].CopyCopyCopydefLabel0i1d0b699f54d4e-focus,
+h5[kw].CopyCopyCopydefLabel0i1d0b699f54d4e-focus,
+h6[kw].CopyCopyCopydefLabel0i1d0b699f54d4e-focus,
+div[kw].CopyCopyCopydefLabel0i1d0b699f54d4e-focus,
+span[kw].CopyCopyCopydefLabel0i1d0b699f54d4e-focus,
+p[kw].CopyCopyCopydefLabel0i1d0b699f54d4e-focus {
+    font: normal normal 16.0px Helvetica;
+    color: #4d83f3;
+    background-color: rgba(0, 0, 0, 0.0);
+}
+
+.CopyCopyCopydefLabel0ie6cfc9382994c,
+[kw].CopyCopyCopydefLabel0ie6cfc9382994c-hover,
+label[kw].CopyCopyCopydefLabel0ie6cfc9382994c-focus,
+h1[kw].CopyCopyCopydefLabel0ie6cfc9382994c-focus,
+h2[kw].CopyCopyCopydefLabel0ie6cfc9382994c-focus,
+h3[kw].CopyCopyCopydefLabel0ie6cfc9382994c-focus,
+h4[kw].CopyCopyCopydefLabel0ie6cfc9382994c-focus,
+h5[kw].CopyCopyCopydefLabel0ie6cfc9382994c-focus,
+h6[kw].CopyCopyCopydefLabel0ie6cfc9382994c-focus,
+div[kw].CopyCopyCopydefLabel0ie6cfc9382994c-focus,
+span[kw].CopyCopyCopydefLabel0ie6cfc9382994c-focus,
+p[kw].CopyCopyCopydefLabel0ie6cfc9382994c-focus {
+    font: normal normal 16.0px Helvetica;
+    color: #333333;
+    background-color: rgba(0, 0, 0, 0.0);
+}
+
 .CopyCopyCopydefLabel2,
 [kw].CopyCopyCopydefLabel2-hover,
 label[kw].CopyCopyCopydefLabel2-focus,
@@ -154,6 +235,122 @@ p[kw].CopyCopyCopydefLabel4-focus {
     font: normal normal 32.0px Helvetica;
     color: #333333;
     background: linear-gradient(to left, rgba(0, 0, 255, 0.0) 0%, rgba(204, 204, 204, 0.5) 48%, #cccccc 97%);
+}
+
+.CopyCopyCopyslFbox0b9b6a6aa3b2848,
+div.CopyCopyCopyslFbox0b9b6a6aa3b2848-hover,
+div[kw].CopyCopyCopyslFbox0b9b6a6aa3b2848-focus {
+    border: 0px solid #000000;
+    color: #000000;
+    background-color: #ffffff;
+}
+
+.CopyCopyCopyslFbox0ba3ff774fc6e48,
+div.CopyCopyCopyslFbox0ba3ff774fc6e48-hover,
+div[kw].CopyCopyCopyslFbox0ba3ff774fc6e48-focus {
+    border: 0px solid #000000;
+    color: #000000;
+    background-color: #4d83f3;
+}
+
+.CopyCopyCopyslFbox0fc5acdf617a14d,
+div.CopyCopyCopyslFbox0fc5acdf617a14d-hover,
+div[kw].CopyCopyCopyslFbox0fc5acdf617a14d-focus {
+    border: 0px solid #000000;
+    color: #000000;
+    background-color: rgba(51, 51, 51, 0.05);
+}
+
+.CopyCopyCopyslFbox0g0c023c26eb148,
+div.CopyCopyCopyslFbox0g0c023c26eb148-hover,
+div[kw].CopyCopyCopyslFbox0g0c023c26eb148-focus {
+    border: 0px solid #000000;
+    color: #000000;
+    background-color: #ffffff;
+}
+
+.CopyCopyFLXFFFFFF4,
+div.CopyCopyFLXFFFFFF4-hover,
+div[kw].CopyCopyFLXFFFFFF4-focus {
+    border: 0px solid #cccccc;
+    color: #000000;
+    background-color: #ffffff;
+}
+
+.CopyCopyLBL0a9b6f352958a4f,
+[kw].CopyCopyLBL0a9b6f352958a4f-hover,
+label[kw].CopyCopyLBL0a9b6f352958a4f-focus,
+h1[kw].CopyCopyLBL0a9b6f352958a4f-focus,
+h2[kw].CopyCopyLBL0a9b6f352958a4f-focus,
+h3[kw].CopyCopyLBL0a9b6f352958a4f-focus,
+h4[kw].CopyCopyLBL0a9b6f352958a4f-focus,
+h5[kw].CopyCopyLBL0a9b6f352958a4f-focus,
+h6[kw].CopyCopyLBL0a9b6f352958a4f-focus,
+div[kw].CopyCopyLBL0a9b6f352958a4f-focus,
+span[kw].CopyCopyLBL0a9b6f352958a4f-focus,
+p[kw].CopyCopyLBL0a9b6f352958a4f-focus {
+    font: normal normal 32.0px Helvetica;
+    color: #333333;
+    background-color: rgba(51, 51, 51, 0.1);
+}
+
+.CopyCopyLBL0c3c421a2dc3f44,
+[kw].CopyCopyLBL0c3c421a2dc3f44-hover,
+label[kw].CopyCopyLBL0c3c421a2dc3f44-focus,
+h1[kw].CopyCopyLBL0c3c421a2dc3f44-focus,
+h2[kw].CopyCopyLBL0c3c421a2dc3f44-focus,
+h3[kw].CopyCopyLBL0c3c421a2dc3f44-focus,
+h4[kw].CopyCopyLBL0c3c421a2dc3f44-focus,
+h5[kw].CopyCopyLBL0c3c421a2dc3f44-focus,
+h6[kw].CopyCopyLBL0c3c421a2dc3f44-focus,
+div[kw].CopyCopyLBL0c3c421a2dc3f44-focus,
+span[kw].CopyCopyLBL0c3c421a2dc3f44-focus,
+p[kw].CopyCopyLBL0c3c421a2dc3f44-focus {
+    font: normal normal 32.0px Helvetica;
+    color: #333333;
+    background-color: rgba(51, 51, 51, 0.1);
+}
+
+.CopyCopySKNMENUSEGHEADER4,
+div.CopyCopySKNMENUSEGHEADER4-hover,
+div[kw].CopyCopySKNMENUSEGHEADER4-focus {
+    margin: 0px;
+    border-bottom: 0px solid #000000;
+    font: normal normal 16.0px Helvetica;
+    color: #000000;
+    list-style: none;
+    background-color: rgba(167, 167, 167, 0.0);
+}
+
+.CopyCopySKNMENUSEGHEADER4,
+div.CopyCopySKNMENUSEGHEADER4-hover,
+div[kw].CopyCopySKNMENUSEGHEADER4-focusgrp {
+    background-color: rgba(167, 167, 167, 0.0);
+    border: 0px solid #000000;
+    color: #000000;
+}
+
+.CopyCopySKNMENUSEGHEADER4,
+div.CopyCopySKNMENUSEGHEADER4-hover,
+div[kw].CopyCopySKNMENUSEGHEADER4-focuspg {
+    border: 0px solid #000000;
+}
+
+.CopyCopySquaredBorderedButtonActive4,
+button.CopyCopySquaredBorderedButtonActive4-hover,
+button[kw].CopyCopySquaredBorderedButtonActive4-focus {
+    font: normal normal 20.6px Helvetica;
+    color: #ffffff;
+    background: #6fa0f4;
+}
+
+.CopyCopySquaredBorderedButtonNormal4,
+button.CopyCopySquaredBorderedButtonNormal4-hover,
+button[kw].CopyCopySquaredBorderedButtonNormal4-focus {
+    border: 1px solid #4b88f1;
+    font: normal normal 20.6px Helvetica;
+    color: #4b88f1;
+    background: rgba(255, 255, 255, 0.0);
 }
 
 .CopyCopydefLabel,
@@ -417,6 +614,23 @@ p[kw].CopydefLabel0fbd69ba14c8d4f-focus {
     background-color: rgba(0, 0, 0, 0.0);
 }
 
+.CopydefLabel0fc1f59b2b7b54f,
+[kw].CopydefLabel0fc1f59b2b7b54f-hover,
+label[kw].CopydefLabel0fc1f59b2b7b54f-focus,
+h1[kw].CopydefLabel0fc1f59b2b7b54f-focus,
+h2[kw].CopydefLabel0fc1f59b2b7b54f-focus,
+h3[kw].CopydefLabel0fc1f59b2b7b54f-focus,
+h4[kw].CopydefLabel0fc1f59b2b7b54f-focus,
+h5[kw].CopydefLabel0fc1f59b2b7b54f-focus,
+h6[kw].CopydefLabel0fc1f59b2b7b54f-focus,
+div[kw].CopydefLabel0fc1f59b2b7b54f-focus,
+span[kw].CopydefLabel0fc1f59b2b7b54f-focus,
+p[kw].CopydefLabel0fc1f59b2b7b54f-focus {
+    font: normal 400 16.0px iphoneSystem;
+    color: #333333;
+    background-color: rgba(0, 0, 0, 0.0);
+}
+
 .CopydefLabel0h1461925391e41,
 [kw].CopydefLabel0h1461925391e41-hover,
 label[kw].CopydefLabel0h1461925391e41-focus,
@@ -431,6 +645,23 @@ span[kw].CopydefLabel0h1461925391e41-focus,
 p[kw].CopydefLabel0h1461925391e41-focus {
     font: normal 400 16.8px Helvetica;
     color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.0);
+}
+
+.CopydefLabel0i62d30c68ae047,
+[kw].CopydefLabel0i62d30c68ae047-hover,
+label[kw].CopydefLabel0i62d30c68ae047-focus,
+h1[kw].CopydefLabel0i62d30c68ae047-focus,
+h2[kw].CopydefLabel0i62d30c68ae047-focus,
+h3[kw].CopydefLabel0i62d30c68ae047-focus,
+h4[kw].CopydefLabel0i62d30c68ae047-focus,
+h5[kw].CopydefLabel0i62d30c68ae047-focus,
+h6[kw].CopydefLabel0i62d30c68ae047-focus,
+div[kw].CopydefLabel0i62d30c68ae047-focus,
+span[kw].CopydefLabel0i62d30c68ae047-focus,
+p[kw].CopydefLabel0i62d30c68ae047-focus {
+    font: normal 400 24.0px iphoneSystem;
+    color: #333333;
     background-color: rgba(0, 0, 0, 0.0);
 }
 
@@ -579,12 +810,36 @@ div[kw].FlxToastSuccessDCFFE2-focus {
     background-color: #dcffe2;
 }
 
+.defBtnFavorite,
+button.defBtnFavorite-hover,
+button[kw].defBtnFavorite-focus {
+    border: 2px solid #0d00ff;
+    -moz-border-radius: 100px;
+    -webkit-border-radius: 100px;
+    border-radius: 100px;
+    font: normal 400 16.0px iphoneSystem;
+    color: #ffffff;
+    background: rgba(75, 136, 241, 0.3);
+}
+
 .defBtnFocus,
 button.defBtnFocus-hover,
 button[kw].defBtnFocus-focus {
     font: normal 400 24.0px iphoneSystem;
     color: #ffffff;
     background: #6fa0f4;
+}
+
+.defBtnFocusFavorite,
+button.defBtnFocusFavorite-hover,
+button[kw].defBtnFocusFavorite-focus {
+    border: 2px solid #eded13;
+    -moz-border-radius: 100px;
+    -webkit-border-radius: 100px;
+    border-radius: 100px;
+    font: normal 400 16.0px iphoneSystem;
+    color: #ffffff;
+    background: #fafafa;
 }
 
 .defBtnNormal,
@@ -608,6 +863,23 @@ div[kw].defLabel-focus,
 span[kw].defLabel-focus,
 p[kw].defLabel-focus {
     font: normal 400 32.0px iphoneSystem;
+    color: #333333;
+    background-color: rgba(0, 0, 0, 0.0);
+}
+
+.defLabelHeaderMenuOption,
+[kw].defLabelHeaderMenuOption-hover,
+label[kw].defLabelHeaderMenuOption-focus,
+h1[kw].defLabelHeaderMenuOption-focus,
+h2[kw].defLabelHeaderMenuOption-focus,
+h3[kw].defLabelHeaderMenuOption-focus,
+h4[kw].defLabelHeaderMenuOption-focus,
+h5[kw].defLabelHeaderMenuOption-focus,
+h6[kw].defLabelHeaderMenuOption-focus,
+div[kw].defLabelHeaderMenuOption-focus,
+span[kw].defLabelHeaderMenuOption-focus,
+p[kw].defLabelHeaderMenuOption-focus {
+    font: normal 400 16.0px iphoneSystem;
     color: #333333;
     background-color: rgba(0, 0, 0, 0.0);
 }
@@ -955,6 +1227,14 @@ span[kw].sknSectionHeaderLabelSkin-focus,
 p[kw].sknSectionHeaderLabelSkin-focus {
     font: normal bold 20.0px Helvetica;
     background-color: rgba(148, 1, 148, 0.0);
+}
+
+.sknSeparator,
+div.sknSeparator-hover,
+div[kw].sknSeparator-focus {
+    border: 0px solid #000000;
+    color: #000000;
+    background-color: rgba(17, 0, 255, 0.0);
 }
 
 .sknbtnNormal,

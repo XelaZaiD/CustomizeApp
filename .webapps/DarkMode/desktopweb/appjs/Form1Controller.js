@@ -114,6 +114,12 @@ define("Form1ControllerActions", {
     AS_Form_fe04a739e51042c78f5b4a6c01f07ee0: function AS_Form_fe04a739e51042c78f5b4a6c01f07ee0(eventobject) {
         var self = this;
         this.postShow();
+    },
+    /** onTouchStart defined for imgTemenos **/
+    AS_Image_da0cc6219d804d94910a0ceb533199f7: function AS_Image_da0cc6219d804d94910a0ceb533199f7(eventobject, x, y) {
+        var self = this;
+        var ntf = new kony.mvc.Navigation("Form2");
+        ntf.navigate();
     }
 });
 define("Form1Controller", ["userForm1Controller", "Form1ControllerActions"], function() {

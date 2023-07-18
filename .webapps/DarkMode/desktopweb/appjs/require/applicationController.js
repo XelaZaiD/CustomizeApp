@@ -19,6 +19,12 @@ define({
             "classname": "Login",
             "name": "com.konymp.Login"
         });
+        kony.mvc.registry.add("com.konymp.Menu", "Menu", "MenuController");
+        kony.application.registerMaster({
+            "namespace": "com.konymp",
+            "classname": "Menu",
+            "name": "com.konymp.Menu"
+        });
         kony.mvc.registry.add("comm.konymp.ToastAlert", "ToastAlert", "ToastAlertController");
         kony.application.registerMaster({
             "namespace": "comm.konymp",
@@ -37,11 +43,14 @@ define({
             "classname": "ToastSuccess",
             "name": "comm.konymp.ToastSuccess"
         });
+        kony.mvc.registry.add("Copyflxmenuheaderwrapper", "Copyflxmenuheaderwrapper", "CopyflxmenuheaderwrapperController");
+        kony.mvc.registry.add("CopyflxMenuRowWrapper", "CopyflxMenuRowWrapper", "CopyflxMenuRowWrapperController");
         kony.mvc.registry.add("CopyflxListWithImg", "CopyflxListWithImg", "CopyflxListWithImgController");
         kony.mvc.registry.add("flxSampleRowTemplate", "flxSampleRowTemplate", "flxSampleRowTemplateController");
         kony.mvc.registry.add("flxSectionHeaderTemplate", "flxSectionHeaderTemplate", "flxSectionHeaderTemplateController");
         kony.mvc.registry.add("flxListWithImg", "flxListWithImg", "flxListWithImgController");
         kony.mvc.registry.add("Form1", "Form1", "Form1Controller");
+        kony.mvc.registry.add("Form2", "Form2", "Form2Controller");
         setAppBehaviors();
         if (typeof startBackgroundWorker != "undefined") {
             startBackgroundWorker();

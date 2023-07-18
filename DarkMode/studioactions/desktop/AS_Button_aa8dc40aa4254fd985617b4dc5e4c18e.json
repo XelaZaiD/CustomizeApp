@@ -1,0 +1,29 @@
+{
+    "AS_Button_aa8dc40aa4254fd985617b4dc5e4c18e": {
+        "id": "AS_Button_aa8dc40aa4254fd985617b4dc5e4c18e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Form2",
+            "type": "forms",
+            "platform": null,
+            "KUID": "bf8967e16a0b4f2098047aed8d8134b4"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__c3c7764989ff496d9531c16772c65a99",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "Form1",
+            "formKUID": "baf75236b76c4c1b84758f6c487dad7c",
+            "projectName": "DarkMode",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s14e3e220a4d4cc49d95805f300925ea",
+    "_text_": "⭐",
+    "_top_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "s81b9eb705cc4359a4066f4922d4908f"
+    },
+    "displaytext": true,
+    "focusskin": null,
+    "id": "btnFavoriteOption2",
+    "ide_onTouchStart": "AS_Button_id9d9e5b59404d0da836908c133ff592",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "c80f3d5de3644990ae6acdaf21cda225",
+    "name": "kony.ui.Button",
+    "parent": "flxHeaderOption2",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button"
+}

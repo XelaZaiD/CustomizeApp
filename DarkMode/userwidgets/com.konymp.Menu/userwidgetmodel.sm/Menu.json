@@ -1,0 +1,109 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s1a86b70c2b94cf5bd492f1bbb8eb08e",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "488dp"
+    },
+    "allboxes": [],
+    "android": {
+        "height": {
+            "type": "string",
+            "value": "100%"
+        },
+        "width": {
+            "type": "string",
+            "value": "100%"
+        }
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "flxHeader",
+        "flxScrollOption",
+        "lblLineSeperator",
+        "SquaredBtn",
+        "segMenuItems",
+        "imgUpArrow",
+        "imgDownArrow"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "Menu",
+    "info": null,
+    "iphone": {
+        "height": {
+            "type": "string",
+            "value": "100%"
+        },
+        "width": {
+            "type": "string",
+            "value": "100%"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "u032f3ff24d34de6823b7a3d85be5ebc",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "userwidgetmodel",
+    "pf": "userwidgetmodel",
+    "postshow": "AS_FlexContainer_g559c027e58c4a1880594f814f81224b",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "spaan": {
+        "height": {
+            "type": "string",
+            "value": "100%"
+        },
+        "width": {
+            "type": "string",
+            "value": "100%"
+        }
+    },
+    "spaip": {
+        "height": {
+            "type": "string",
+            "value": "100%"
+        },
+        "width": {
+            "type": "string",
+            "value": "100%"
+        }
+    },
+    "vizProps": {
+        "hidewidgethierarchy": false
+    },
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

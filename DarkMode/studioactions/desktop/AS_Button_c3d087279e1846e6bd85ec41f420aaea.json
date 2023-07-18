@@ -1,0 +1,23 @@
+{
+    "AS_Button_c3d087279e1846e6bd85ec41f420aaea": {
+        "id": "AS_Button_c3d087279e1846e6bd85ec41f420aaea",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Form2",
+            "type": "forms",
+            "platform": null,
+            "KUID": "bf8967e16a0b4f2098047aed8d8134b4"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_g92c9e7da865462ebfef13454b7c19ba",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.Menu.setVisibility(true);",
+            "parentId": null
+        }]
+    }
+}

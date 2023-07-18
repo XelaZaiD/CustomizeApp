@@ -100,6 +100,7 @@ define("Form1", function() {
                 "height": "50dp",
                 "id": "imgTemenos",
                 "isVisible": true,
+                "onTouchStart": controller.AS_Image_da0cc6219d804d94910a0ceb533199f7,
                 "right": "15dp",
                 "skin": "slImage",
                 "src": "temenos_300.png",
